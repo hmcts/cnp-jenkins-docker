@@ -12,6 +12,6 @@ services:
       - ENVIRONMENT=sandbox
     volumes:
       - './cac-test-local.yml:/usr/share/jenkins/jenkins.yaml'
-      - ./jobdsl:/usr/share/jenkins/jobdsl
+      - ../cnp-jenkins-config/jobdsl:/usr/share/jenkins/jobdsl
       - ./secrets:/run/secrets
         #- ./init.groovy.d:/usr/share/jenkins/ref/init.groovy.d
