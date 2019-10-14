@@ -262,6 +262,12 @@ credentials:
               username: "jenkins-reform-div"
           - usernamePassword:
               description: "Jenkins HMCTS GitHub credentials (Username/password format)"
+              id: "jenkins-github-hmcts-api-token_bsp"
+              password: "${hmcts-github-apikey-bsp}"
+              scope: GLOBAL
+              username: "jenkins-reform-bulkscan"
+          - usernamePassword:
+              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
               id: "jenkins-github-hmcts-api-token_finrem"
               password: "${hmcts-github-apikey-finrem}"
               scope: GLOBAL
