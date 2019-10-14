@@ -55,6 +55,7 @@ git:3.12.1
 github-api:1.95
 github-branch-source:2.5.8
 github:1.29.5
+github-scm-trait-notification-context:1.1
 greenballs:1.15
 handlebars:1.1.1
 handy-uri-templates-2-api:2.1.7-1.0
