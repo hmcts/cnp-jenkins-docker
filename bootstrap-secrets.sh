@@ -39,6 +39,7 @@ readSecret hmcts-github-apikey-fpl
 readSecret hmcts-github-apikey-am
 readSecret hmcts-github-apikey-ethos
 readSecret hmcts-github-apikey-ctsc
+readSecret hmcts-github-apikey-bsp
 
 readSecret hmcts-github-apikey
 
