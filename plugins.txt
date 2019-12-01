@@ -108,7 +108,7 @@ slack:2.34
 sse-gateway:1.20
 ssh-credentials:1.18
 structs:1.20
-sonar:2.10-hmcts::https://github.com/hmcts/sonarqube-plugin/releases/download/2.10-hmcts/sonar.hpi
+sonar:2.11-hmcts::https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.11-hmcts/sonar.hpi
 timestamper:1.10
 token-macro:2.10
 trilead-api:1.0.5
