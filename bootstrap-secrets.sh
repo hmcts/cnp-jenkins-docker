@@ -1,13 +1,13 @@
 #!/bin/bash
 set -e
 
-subscription=${1}
+keyvaultname=${1}
 
 function usage() {
-    echo "./bootstrap-secrets.sh <subscription>"
+    echo "./bootstrap-secrets.sh <keyvaultname>"
 }
 
-if [ -z ${subscription} ]; then
+if [ -z ${keyvaultname} ]; then
   usage
   exit 1
 fi
@@ -16,7 +16,7 @@ fi
 function readSecret () {
     local secret_name="${1}"
     rm -f secrets/${secret_name}
-    az keyvault secret download --vault-name infra-vault-${subscription} --name ${secret_name} --query value -o tsv -f secrets/${secret_name}
+    az keyvault secret download --vault-name ${keyvaultname} --name ${secret_name} --query value -o tsv -f secrets/${secret_name}
 }
 
 readSecret slack-token
@@ -60,3 +60,5 @@ readSecret jenkins-sp-subscription-id
 readSecret jenkins-sp-client-id
 readSecret jenkins-sp-client-secret
 readSecret jenkins-sp-tenant-id
+readSecret hmcts-jenkins-rpe-ghapp
+readSecret hmcts-jenkins-cnp-ghapp
