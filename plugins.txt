@@ -48,6 +48,7 @@ durable-task:1.33
 extended-choice-parameter:0.78
 external-monitor-job:1.7
 favorite:2.3.2
+fortify-on-demand-uploader:5.0.1
 gatling:1.2.7
 git-client:3.1.1
 git-server:1.9
@@ -125,4 +126,3 @@ workflow-multibranch:2.21
 workflow-scm-step:2.10
 workflow-step-api:2.22
 workflow-support:3.4
-fortify-on-demand-uploader:5.0.1
