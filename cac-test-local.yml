@@ -93,7 +93,9 @@ jenkins:
             value: -Xmx2g -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
           - key: GRADLE_OPTS
             value: -Xmx2g -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
-
+  disabledAdministrativeMonitors:
+    - "jenkins.security.QueueItemAuthenticatorMonitor"
+    - "jenkins.security.s2m.MasterKillSwitchWarning"
   crumbIssuer:
     standard:
       excludeClientIPFromCrumb: false
