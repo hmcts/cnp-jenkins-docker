@@ -178,6 +178,9 @@ unclassified:
                 credentialsId: hmcts-jenkins-cnp
                 repoOwner: hmcts
                 repository: cnp-jenkins-library
+  defaultFolderConfiguration:
+    healthMetrics:
+    - "primaryBranchHealthMetric"
   slackNotifier:
     teamDomain: hmcts-reform
     tokenCredentialId: slack-token
