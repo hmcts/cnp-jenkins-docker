@@ -31,7 +31,7 @@ blueocean-web:1.23.0
 blueocean:1.23.0
 bouncycastle-api:2.18
 branch-api:2.5.6
-build-failure-analyzer:1.25.1
+build-failure-analyzer:incrementals;com.sonyericsson.jenkins.plugins.bfa;1.25.2-rc673.52c337d160b0
 build-monitor-plugin:1.12+build.201809061734
 cloud-stats:0.25
 cloudbees-bitbucket-branch-source:2.7.0
