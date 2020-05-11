@@ -402,4 +402,4 @@ credentials:
                   privateKey: ${hmcts-jenkins-cnp-ghapp}
 
 jobs:
-  - file: '/usr/share/jenkins/jobdsl/organisations.groovy'
+  - file: '/usr/share/jenkins/jobdsl/organisations-cnptest.groovy'
