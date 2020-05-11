@@ -65,6 +65,7 @@ http_request:1.8.26
 # don't upgrade jackson https://github.com/mongojack/mongojack/issues/201 https://issues.jenkins-ci.org/browse/JENKINS-62214
 jackson2-api:2.10.3
 jacoco:3.0.5
+jaxb:2.3.0.1
 javadoc:1.5
 jdk-tool:1.4
 jenkins-design-language:1.23.1
