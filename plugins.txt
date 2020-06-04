@@ -54,7 +54,7 @@ git-client:3.2.1
 git-server:1.9
 git:4.2.2
 github-api:1.111
-github-branch-source:2.7.1
+github-branch-source:2.7.2
 github:1.30.0
 github-scm-trait-notification-context:1.1
 greenballs:1.15
