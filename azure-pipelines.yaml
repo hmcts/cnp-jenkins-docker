@@ -2,7 +2,7 @@ name: Publish Docker Jenkins Images
 trigger:
   branches:
     include:
-      - refs/tags/*
+      - master
 pr: none
 
 variables:
@@ -15,7 +15,7 @@ jobs:
     condition: >
       and(
           succeeded(),
-          startsWith(variables['Build.SourceBranch'], 'refs/tags/')
+          startsWith(variables['Build.SourceBranch'], 'refs/heads/master')
         )
     pool:
       vmImage: 'Ubuntu 16.04'
@@ -38,6 +38,5 @@ jobs:
           scriptLocation: 'inlineScript'
           inlineScript: |
             az acr login --name $(acrName)
-            VERSION_TAG=`git describe --tags`
-            docker build -t $(targetRegistry)/jenkins/$(type):$VERSION_TAG -f $(type)/$(dockerfile) $(type)/
-            docker push $(targetRegistry)/jenkins/$(type):$VERSION_TAG
+            docker build -t $(targetRegistry)/jenkins/$(type) -f $(type)/$(dockerfile) $(type)/
+            docker push $(targetRegistry)/jenkins/$(type)
