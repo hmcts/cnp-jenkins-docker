@@ -1,5 +1,6 @@
 name: Publish Docker Jenkins Images
 trigger:
+  batch: true
   branches:
     include:
       - Add_ADO_pipeline
