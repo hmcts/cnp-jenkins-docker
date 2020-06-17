@@ -1,0 +1,43 @@
+name: Publish Java Base Image
+trigger:
+  branches:
+    include:
+      - refs/tags/*
+pr: none
+
+variables:
+  acrName: hmctspublic
+  targetRegistry: hmctspublic.azurecr.io
+  serviceConnection: 'azurerm-prod'
+
+jobs:
+  - job:
+    condition: >
+      and(
+          succeeded(),
+          startsWith(variables['Build.SourceBranch'], 'refs/tags/')
+        )
+    pool:
+      vmImage: 'Ubuntu 16.04'
+    strategy:
+      maxParallel: 2
+      matrix:
+        jenkins-master:
+          taskName: jenkins-master
+          dockerfile: Dockerfile
+          type: master
+        jenkins-agent:
+          taskName: jenkins-agent
+          dockerfile: Dockerfile
+          type: agent
+    steps:
+      - task: AzureCLI@1
+        displayName: 'Publish base image $(taskName)'
+        inputs:
+          azureSubscription: $(serviceConnection)
+          scriptLocation: 'inlineScript'
+          inlineScript: |
+            az acr login --name $(acrName)
+            VERSION_TAG=`git describe --tags`
+            docker build -t $(targetRegistry)/jenkins/$(type):$VERSION_TAG -f $(type)/$(dockerfile) $(type)/
+            docker push $(targetRegistry)/jenkins/$(type):$VERSION_TAG
