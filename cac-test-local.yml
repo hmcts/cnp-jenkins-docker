@@ -155,7 +155,7 @@ jenkins:
 unclassified:
   location:
     adminAddress: jenkins-reform@hmcts.net
-    url: 'http://sandbox:8088'
+    url: 'http://localhost:8088'
   globalLibraries:
     libraries:
       - name: 'Infrastructure'
@@ -184,6 +184,8 @@ unclassified:
   slackNotifier:
     teamDomain: hmcts-reform
     tokenCredentialId: slack-token
+  themeManager:
+    theme: "darkSystem"
   azureKeyVault:
     keyVaultURL: https://infra-vault-sandbox.vault.azure.net
     credentialID: jenkinsServicePrincipal
