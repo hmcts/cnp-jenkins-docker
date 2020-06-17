@@ -1,4 +1,4 @@
-name: Publish Java Base Image
+name: Publish Docker Jenkins Images
 trigger:
   branches:
     include:
