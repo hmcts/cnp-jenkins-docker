@@ -35,12 +35,13 @@ build-failure-analyzer:1.26.0
 build-monitor-plugin:1.12+build.201809061734
 cloud-stats:0.25
 cloudbees-bitbucket-branch-source:2.8.0
-cloudbees-folder:6.13
+cloudbees-folder:6.14
 command-launcher:1.4
 configuration-as-code:1.41
 credentials-binding:1.23
-credentials:2.3.8
+credentials:2.3.9
 custom-tools-plugin:0.7
+dark-theme:0.0.3
 display-url-api:2.3.2
 docker-commons:1.16
 docker-workflow:1.23
@@ -53,8 +54,8 @@ gatling:1.3.0
 git-client:3.2.1
 git-server:1.9
 git:4.2.2
-github-api:1.112.0
-github-branch-source:incrementals;org.jenkins-ci.plugins;2.8.2-rc1171.d5626634450e
+github-api:1.114.1
+github-branch-source:2.8.2
 github:1.30.0
 github-scm-trait-notification-context:1.1
 greenballs:1.15
@@ -80,7 +81,7 @@ ldap:1.24
 lockable-resources:2.8
 mailer:1.32
 matrix-auth:2.6.1
-matrix-project:1.14
+matrix-project:1.16
 maven-plugin:3.6
 mercurial:2.10
 momentjs:1.1.1
@@ -116,6 +117,7 @@ structs:1.20
 sonar:2.11-hmcts::https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.11-hmcts/sonar.hpi
 timestamper:1.11.3
 token-macro:2.12
+theme-manager:0.1
 trilead-api:1.0.8
 variant:1.3
 windows-slaves:1.6
@@ -129,4 +131,4 @@ workflow-job:2.39
 workflow-multibranch:2.21
 workflow-scm-step:2.11
 workflow-step-api:2.22
-workflow-support:3.4
+workflow-support:3.5
