@@ -39,9 +39,7 @@ RUN apt-get update && \
     rm \
     testng-6.8.7.jar.zip \
     chromedriver_linux64.zip && \
-    apt-get -y remove --purge \
-		unzip \
-		&& \ 
+    apt-get -y remove --purge unzip && \
     apt-get -y autoremove
 
 USER ${user}
