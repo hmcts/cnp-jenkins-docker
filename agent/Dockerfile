@@ -10,7 +10,7 @@ USER root
 RUN apt-get update && \
     apt-get -y install \
         curl \
-		git \
+        git \
     #Install Node
         nodejs \
         yarn \
