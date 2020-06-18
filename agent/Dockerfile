@@ -8,7 +8,7 @@ USER root
 
     #Install Prerequisites
 RUN apt-get update && \
-	apt-get -y install \
+    apt-get -y install \
         curl \
 		git \
     #Install Node
