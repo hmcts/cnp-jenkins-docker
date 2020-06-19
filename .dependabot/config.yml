@@ -1,8 +1,8 @@
 version: 1
 update_configs:
   - package_manager: "docker"
-    directory: "/agent"
+    directory: "/jenkins"
     update_schedule: "daily"
   - package_manager: "docker"
-    directory: "/master"
+    directory: "/jenkins-inbound-agent"
     update_schedule: "daily"
