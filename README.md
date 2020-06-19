@@ -19,17 +19,4 @@ The config is pulled from `cac-test-local.yml`, environment variables set in `do
 
 ## To create the ACR task
 
-```bash
-export ACR_NAME=hmctspublic
-export GIT_PAT=$(az keyvault secret show --vault-name infra-vault-prod --name hmcts-github-apikey --query value -o tsv)
-
-az acr task create \
-    --registry $ACR_NAME \
-    --name jenkins \
-    --image jenkins:{{.Run.ID}} \
-    --context https://github.com/hmcts/cnp-jenkins-docker.git \
-    --branch master \
-    --file Dockerfile \
-    --git-access-token $GIT_PAT \
-    --subscription DCD-CNP-PROD
-```
+Run `acr_task_creation.sh`, which will create the required tasks to automatically re-build the images when you merge a commit to the master branch.
