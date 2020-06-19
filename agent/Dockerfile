@@ -6,18 +6,18 @@ ARG user=jenkins
 
 USER root
 
-#Install Prerequisites
+# Install Prerequisites
 RUN apt-get update && \
   apt-get -y install \
   curl \
   git \
-  #Install Node
+  # Install Node
   nodejs \
   yarn \
   && \
-  #Install Azure CLI
+  # Install Azure CLI
   curl -sL https://aka.ms/InstallAzureCLIDeb | bash && \
-  #Install Headless Chrome
+  # Install Headless Chrome
   curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - && \
   echo "deb [arch=amd64]  http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list && \
   apt-get -y update && \
@@ -45,7 +45,7 @@ RUN apt-get update && \
 
 USER ${user}
 
-#Install tfenv
+# Install tfenv
 RUN git clone https://github.com/tfutils/tfenv.git ~/.tfenv && \
   echo 'PATH=${HOME}/.tfenv/bin:${PATH}' >> ~/.bashrc && \
   . ~/.bashrc
