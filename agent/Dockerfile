@@ -39,11 +39,7 @@ RUN apt-get update && \
   rm \
   testng-6.8.7.jar.zip \
   chromedriver_linux64.zip && \
-  AUTO_ADDED_PACKAGES=`apt-mark showauto` \
-  echo $AUTO_ADDED_PACKAGES && \
-  apt-get -y remove --purge \
-  unzip \
-  $AUTO_ADDED_PACKAGES && \
+  apt-get -y remove --purge unzip && \
   apt-get -y autoremove && \
   rm -rf /var/lib/apt/lists/*
 
