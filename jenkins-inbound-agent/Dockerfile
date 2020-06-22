@@ -11,8 +11,15 @@ RUN apt-get update && \
   apt-get -y install \
   curl \
   git \
+  unzip && \
+  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - && \
+  echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list && \
+  curl -sL https://deb.nodesource.com/setup_12.x | bash - && \
+  apt-get update && \
   # Install Node
+  apt-get -y install \
   nodejs \
+  build-essential \
   yarn \
   && \
   # Install Azure CLI
@@ -23,29 +30,17 @@ RUN apt-get update && \
   apt-get -y update && \
   apt-get -y install \
   google-chrome-stable \
-  unzip \
   xvfb \
   libxi6 \
   libgconf-2-4 && \
-  chrome=$(curl https://chromedriver.storage.googleapis.com/LATEST_RELEASE) && \
-  curl https://chromedriver.storage.googleapis.com/$chrome/chromedriver_linux64.zip --output chromedriver_linux64.zip && \
-  unzip chromedriver_linux64.zip && \
-  mv chromedriver /usr/bin/chromedriver && \
-  chown root:root /usr/bin/chromedriver && \
-  chmod +x /usr/bin/chromedriver && \
-  curl https://selenium-release.storage.googleapis.com/3.13/selenium-server-standalone-3.13.0.jar --output selenium-server-standalone.jar && \
-  curl http://www.java2s.com/Code/JarDownload/testng/testng-6.8.7.jar.zip --output testng-6.8.7.jar.zip && \
-  unzip testng-6.8.7.jar.zip && \
-  rm \
-  testng-6.8.7.jar.zip \
-  chromedriver_linux64.zip && \
-  apt-get -y remove --purge unzip && \
   apt-get -y autoremove && \
   rm -rf /var/lib/apt/lists/*
 
+RUN git clone -b v2.0.0 https://github.com/tfutils/tfenv.git /opt/tfenv && \
+  ln -s /opt/tfenv/bin/* /bin && \
+  chown -R ${user}:${user} /opt/tfenv
+
 USER ${user}
 
-# Install tfenv
-RUN git clone https://github.com/tfutils/tfenv.git ~/.tfenv && \
-  echo 'PATH=${HOME}/.tfenv/bin:${PATH}' >> ~/.bashrc && \
-  . ~/.bashrc
+RUN tfenv install 0.11.7 && \
+  tfenv use 0.11.7
