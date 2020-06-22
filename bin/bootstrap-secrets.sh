@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e
 
+dir=$(cd -P -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
+
 keyvaultname=${1}
 
 function usage() {
@@ -16,7 +18,7 @@ fi
 function readSecret () {
     local secret_name="${1}"
     rm -f secrets/${secret_name}
-    az keyvault secret download --vault-name ${keyvaultname} --name ${secret_name} --query value -o tsv -f secrets/${secret_name}
+    az keyvault secret download --vault-name ${keyvaultname} --name ${secret_name} --query value -o tsv -f "${dir}/../secrets/${secret_name}"
 }
 
 readSecret slack-token
