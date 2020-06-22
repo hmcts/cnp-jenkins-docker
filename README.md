@@ -8,7 +8,7 @@ i.e.
 $ ls cnp-jenkins-
 cnp-jenkins-config/  cnp-jenkins-docker/
 ```
-Run `./bootstrap-secrets.sh cftsbox-intsvc`, which will fetch the secrets required from the sandbox key vault.
+Run `./bin/bootstrap-secrets.sh cftsbox-intsvc`, which will fetch the secrets required from the sandbox key vault.
 
 Then run `docker-compose up -d`
 
@@ -19,4 +19,4 @@ The config is pulled from `cac-test-local.yml`, environment variables set in `do
 
 ## To create the ACR task
 
-Run `acr_task_creation.sh`, which will create the required tasks to automatically re-build the images when you merge a commit to the master branch.
+Run `./bin/acr-task-creation.sh`, which will create the required tasks to automatically re-build the images when you merge a commit to the master branch.
