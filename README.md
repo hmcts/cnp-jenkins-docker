@@ -16,14 +16,14 @@ A fully automated Jenkins image will be spun up exposed on port 8088 The credent
 
 The config is pulled from `cac-test-local.yml`, environment variables set in `docker-compose.yml` and organisation config in `cnp-jenkins-config/jobdsl/organisations.groovy`
 
+## Updating Jenkins
+
 We run Jenkins in a docker container running on Kubernetes.
 
 All configuration is managed in cnp-flux-config, there's [common configuration](https://github.com/hmcts/cnp-flux-config/blob/master/k8s/namespaces/jenkins/jenkins.yaml) and [per-instance configuration](https://github.com/hmcts/cnp-flux-config/blob/master/k8s/namespaces/jenkins/patches/cftptl/cluster-00/jenkins.yaml).
 
-The Jenkins image is built from [cnp-jenkins-docker](https://github.com/hmcts/cnp-jenkins-docker), after a pull request is merged
+The Jenkins image is built from this repo, after a pull request is merged
 an ACR task will automatically build and publish an image.
-
-## Updating Jenkins
 
 ### Jenkins Plugins
 
