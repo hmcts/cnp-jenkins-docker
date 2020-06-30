@@ -39,7 +39,7 @@ cloudbees-folder:6.14
 command-launcher:1.4
 configuration-as-code:1.41
 credentials-binding:1.23
-credentials:2.3.10
+credentials:2.3.11
 custom-tools-plugin:0.7
 dark-theme:0.0.3
 display-url-api:2.3.2
