@@ -59,7 +59,7 @@ After the PR is merged wait a few minutes for the ACR task to build it
 
 Check for the latest tag in the container registry:
 ```shell
-az acr repository show-tags -n hmctspublic --repository jenkins --subscription DCD-CNP-PROD --orderby time_desc --query [0] -o tsv
+az acr repository show-tags -n hmctspublic --repository jenkins/jenkins --subscription DCD-CNP-PROD --orderby time_desc --query [0] -o tsv
 ```
 
 Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-flux-config/blob/master/k8s/namespaces/jenkins/jenkins.yaml#L25).
