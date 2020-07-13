@@ -34,6 +34,7 @@ RUN apt-get update && \
   xvfb \
   libxi6 \
   libgconf-2-4 && \
+  ln -s /usr/bin/google-chrome /usr/bin/chrome && \
   apt-get -y autoremove && \
   rm -rf /var/lib/apt/lists/*
 
