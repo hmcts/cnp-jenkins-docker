@@ -37,8 +37,8 @@ RUN apt-get update && \
   ln -s /usr/bin/google-chrome /usr/bin/chrome && \
   curl -sL -o /usr/local/bin/kubectl https://storage.googleapis.com/kubernetes-release/release/v1.18.0/bin/linux/amd64/kubectl && \
   curl -sL -o - https://get.helm.sh/helm-v3.1.2-linux-amd64.tar.gz | tar xz && \
-  mv /linux-amd64/helm /usr/local/bin/helm && \
-  rm -rf /linux-amd64  && \
+  mv ./linux-amd64/helm /usr/local/bin/helm && \
+  rm -rf ./linux-amd64  && \
   chmod +x /usr/local/bin/kubectl && \
   apt-get -y autoremove && \
   rm -rf /var/lib/apt/lists/*
