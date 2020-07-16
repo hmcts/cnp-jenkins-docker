@@ -40,6 +40,8 @@ RUN apt-get update && \
   curl -sL -o - https://get.helm.sh/helm-v3.1.2-linux-amd64.tar.gz | tar xz && \
   mv ./linux-amd64/helm /usr/local/bin/helm && \
   rm -rf ./linux-amd64  && \
+  mkdir /opt/nvm && \
+  curl -sL -o - https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | NVM_DIR=/opt/nvm bash && \
   apt-get -y autoremove && \
   rm -rf /var/lib/apt/lists/*
 
