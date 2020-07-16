@@ -49,11 +49,11 @@ RUN git clone -b v2.0.0 https://github.com/tfutils/tfenv.git /opt/tfenv && \
   ln -s /opt/tfenv/bin/* /bin && \
   chown -R ${user}:${user} /opt/tfenv
 
-RUN mkdir -p /usr/share/jenkins/ref/.ssh && \
-  ssh-keyscan -t rsa github.com >> /usr/share/jenkins/ref/.ssh/known_hosts && \
-  chown -R ${user}:${user} /usr/share/jenkins/ref/.ssh  && \
-  chmod 700 /usr/share/jenkins/ref/.ssh && \  
-  chmod 644 /usr/share/jenkins/ref/.ssh/known_hosts  
+RUN mkdir -p /home/jenkins/.ssh && \
+  ssh-keyscan -t rsa github.com >> /home/jenkins/.ssh/known_hosts && \
+  chown -R ${user}:${user} /home/jenkins/.ssh  && \
+  chmod 700 /home/jenkins/.ssh && \  
+  chmod 644 /home/jenkins/.ssh/known_hosts  
 
 USER ${user}
 
