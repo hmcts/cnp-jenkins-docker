@@ -42,6 +42,9 @@ RUN apt-get update && \
   rm -rf ./linux-amd64  && \
   mkdir /opt/nvm && \
   curl -sL -o - https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | NVM_DIR=/opt/nvm bash && \
+  cd /bin && \
+  rm -f sh && \
+  ln -s bash sh && \
   apt-get -y autoremove && \
   rm -rf /var/lib/apt/lists/*
 
