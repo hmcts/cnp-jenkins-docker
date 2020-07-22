@@ -41,7 +41,7 @@ configuration-as-code:1.42
 credentials-binding:1.23
 credentials:2.3.12
 custom-tools-plugin:0.7
-dark-theme:0.0.3
+dark-theme:0.0.5
 display-url-api:2.3.3
 docker-commons:1.17
 docker-workflow:1.23
@@ -98,10 +98,10 @@ pipeline-model-api:1.7.1
 pipeline-model-declarative-agent:1.1.1
 pipeline-model-definition:1.7.1
 pipeline-model-extensions:1.7.1
-pipeline-rest-api:incrementals;org.jenkins-ci.plugins.pipeline-stage-view;2.14-rc306.5ae27918601c
+pipeline-rest-api:incrementals;org.jenkins-ci.plugins.pipeline-stage-view;2.14-rc307.c66953f95383
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.7.1
-pipeline-stage-view:incrementals;org.jenkins-ci.plugins.pipeline-stage-view;2.14-rc306.5ae27918601c
+pipeline-stage-view:incrementals;org.jenkins-ci.plugins.pipeline-stage-view;2.14-rc307.c66953f95383
 pipeline-utility-steps:2.6.1
 plain-credentials:1.7
 prometheus:2.0.7
