@@ -80,7 +80,7 @@ kubernetes-credentials:0.7.0
 kubernetes:1.26.4
 ldap:1.24
 lockable-resources:2.8
-mailer:1.32
+mailer:1.31
 matrix-auth:2.6.2
 matrix-project:1.17
 maven-plugin:3.7
