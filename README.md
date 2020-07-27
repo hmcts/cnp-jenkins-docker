@@ -27,18 +27,20 @@ an ACR task will automatically build and publish an image.
 
 ### Jenkins Plugins
 
-[Story for automating plugin update](https://dev.azure.com/hmcts/Platform%20Engineering/_backlogs/backlog/Platform%20Engineering%20Team/Stories/?workitem=954)
+[Story for automating PRs of plugin updates and testing](https://dev.azure.com/hmcts/Platform%20Engineering/_backlogs/backlog/Platform%20Engineering%20Team/Stories/?workitem=954)
 
-Currently updating Jenkins plugins is a very manual process,
+We update plugins using the Jenkins [plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool).
 
-You need to start Jenkins [locally](#testing-locally),
-Review if there's any out of date plugins.
-
-If there's any out of date plugins update them in [plugins.txt](jenkins/plugins.txt)
+Run:
+```command
+./bin/update-plugins.sh
+```
 
 Rebuild the Jenkins container `docker-compose up --build`.
 
-Check that it starts up, you can log in, and there's no errors on the 'Manage Jenkins' page about plugins failing to load.
+Check that Jenkins starts up, you can log in, and there's no errors on the 'Manage Jenkins' page about plugins failing to load.
+
+Create a PR with the change
 
 ### Jenkins Master
 
