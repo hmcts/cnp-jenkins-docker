@@ -193,7 +193,7 @@ unclassified:
         #name: SonarQube
         #credentialsId: 'sonarcloud-api-token'
         #serverUrl: 'https://sonarcloud.io'
-  timestamperConfig:
+  timestamper:
     allPipelines: true
 
 credentials:
