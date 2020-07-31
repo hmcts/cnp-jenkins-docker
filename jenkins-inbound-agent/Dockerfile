@@ -61,5 +61,5 @@ RUN mkdir -p /home/jenkins/.ssh && \
 
 USER ${user}
 
-RUN tfenv install 0.11.7 && \
-  tfenv use 0.11.7
+RUN tfenv install 0.12.2 && \
+  tfenv use 0.12.2
