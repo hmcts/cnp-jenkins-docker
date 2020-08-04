@@ -1,0 +1,23 @@
+version: 1.0.0
+
+steps:
+  - id: build-minimal-agent
+    build: -f Dockerfile_minimal -t {{.Run.Registry}}/jenkins/minimal-agent:{{.Run.ID}} -t {{.Run.Registry}}/jenkins/minimal-agent:latest .
+    keep: true
+  - id: push-minimal-agent
+    push:
+      - "{{.Run.Registry}}/jenkins/minimal-agent:{{.Run.ID}}"
+      - "{{.Run.Registry}}/jenkins/minimal-agent:latest"
+    when:
+      - build-minimal-agent
+  - id: build-build-agent
+    build: -f Dockerfile_build --build-arg version={{.Run.ID}} -t {{.Run.Registry}}/jenkins/build-agent:{{.Run.ID}} -t {{.Run.Registry}}/jenkins/build-agent:latest .
+    keep: true
+    when:
+      - push-minimal-agent
+  - id: push-build-agent
+    push:
+      - "{{.Run.Registry}}/jenkins/build-agent:{{.Run.ID}}"
+      - "{{.Run.Registry}}/jenkins/build-agent:latest"
+    when:
+      - build-build-agent
