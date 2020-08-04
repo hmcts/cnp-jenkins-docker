@@ -5,10 +5,9 @@ export GIT_PAT=$(az keyvault secret show --vault-name infra-vault-prod --name hm
 
 az acr task create \
   --registry $ACR_NAME \
-  --name jenkins-inbound-agent \
-  --image jenkins/inbound-agent:{{.Run.ID}} \
-  --context https://github.com/hmcts/cnp-jenkins-docker.git#master:jenkins-inbound-agent \
-  --file Dockerfile \
+  --name jenkins-agent \
+  --context https://github.com/hmcts/cnp-jenkins-docker.git#master:jenkins-agent \
+  --file acr-agents-build-task.yaml \
   --git-access-token $GIT_PAT \
   --subscription DCD-CNP-PROD
 
