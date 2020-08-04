@@ -13,36 +13,14 @@ RUN apt-get update && \
   git \
   unzip \
   rsync \
-  docker.io && \
-  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - && \
-  echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list && \
-  curl -sL https://deb.nodesource.com/setup_12.x | bash - && \
-  apt-get update && \
-  # Install Node
-  apt-get -y install \
-  nodejs \
-  build-essential \
-  yarn \
   && \
   # Install Azure CLI
   curl -sL https://aka.ms/InstallAzureCLIDeb | bash && \
-  # Install Headless Chrome
-  curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - && \
-  echo "deb [arch=amd64]  http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list && \
-  apt-get -y update && \
-  apt-get -y install \
-  google-chrome-stable \
-  xvfb \
-  libxi6 \
-  libgconf-2-4 && \
-  ln -s /usr/bin/google-chrome /usr/bin/chrome && \
   curl -sL -o /usr/local/bin/kubectl https://storage.googleapis.com/kubernetes-release/release/v1.18.0/bin/linux/amd64/kubectl && \
   chmod +x /usr/local/bin/kubectl && \
   curl -sL -o - https://get.helm.sh/helm-v3.1.2-linux-amd64.tar.gz | tar xz && \
   mv ./linux-amd64/helm /usr/local/bin/helm && \
   rm -rf ./linux-amd64  && \
-  mkdir /opt/nvm && \
-  curl -sL -o - https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | NVM_DIR=/opt/nvm bash && \
   cd /bin && \
   rm -f sh && \
   ln -s bash sh && \
