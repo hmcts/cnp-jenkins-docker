@@ -4,5 +4,5 @@ update_configs:
     directory: "/jenkins"
     update_schedule: "daily"
   - package_manager: "docker"
-    directory: "/jenkins-inbound-agent"
+    directory: "/jenkins-agent"
     update_schedule: "daily"
