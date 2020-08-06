@@ -21,6 +21,8 @@ RUN apt-get update && \
   curl -sL -o - https://get.helm.sh/helm-v3.1.2-linux-amd64.tar.gz | tar xz && \
   mv ./linux-amd64/helm /usr/local/bin/helm && \
   rm -rf ./linux-amd64  && \
+  curl -sL -o /tini https://github.com/krallin/tini/releases/download/v0.19.0/tini && \
+  chmod +x /tini && \
   cd /bin && \
   rm -f sh && \
   ln -s bash sh && \
