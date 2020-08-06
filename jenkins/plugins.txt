@@ -45,7 +45,7 @@ dark-theme:0.0.5
 display-url-api:2.3.3
 docker-commons:1.17
 docker-workflow:1.23
-durable-task:1.34
+durable-task:1.33
 extended-choice-parameter:0.78
 extended-read-permission:3.2
 external-monitor-job:1.7
