@@ -29,8 +29,8 @@ RUN apt-get update && \
   google-chrome-stable \
   xvfb \
   libxi6 \
+  libxss1 \
   libgconf-2-4 && \
-  libxss1 && \
   ln -s /usr/bin/google-chrome /usr/bin/chrome && \
   mkdir /opt/nvm && \
   curl -sL -o - https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | NVM_DIR=/opt/nvm bash && \
