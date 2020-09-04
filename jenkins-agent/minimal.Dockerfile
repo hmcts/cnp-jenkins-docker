@@ -1,4 +1,4 @@
-ARG version=4.3-8-jdk11
+ARG version=4.3-9-jdk11
 
 FROM jenkins/inbound-agent:${version}
 
