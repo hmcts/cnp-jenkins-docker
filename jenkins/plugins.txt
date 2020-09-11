@@ -120,7 +120,7 @@ sonar:latest:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2
 timestamper:1.11.5
 token-macro:2.12
 theme-manager:0.5
-trilead-api:1.0.8
+trilead-api:1.0.10
 variant:1.3
 windows-slaves:1.6
 workflow-aggregator:2.6
