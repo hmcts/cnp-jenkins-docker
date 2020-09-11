@@ -1,4 +1,5 @@
 {
   "enabledManagers": ["jenkins"],
-  "automerge": true
+  "automerge": true,
+  "requiredStatusChecks": null
 }
