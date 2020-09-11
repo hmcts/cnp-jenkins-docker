@@ -47,7 +47,7 @@ docker-commons:1.17
 docker-workflow:1.24
 durable-task:1.35
 echarts-api:4.8.0-2
-extended-choice-parameter:0.78
+extended-choice-parameter:0.82
 extended-read-permission:3.2
 external-monitor-job:1.7
 favorite:2.3.2
