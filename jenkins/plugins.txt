@@ -79,7 +79,7 @@ junit:1.34
 kubernetes-client-api:4.9.2-2
 kubernetes-credentials:0.7.0
 kubernetes:1.27.1
-ldap:1.24
+ldap:1.25
 lockable-resources:2.8
 mailer:1.32
 matrix-auth:2.6.2
