@@ -112,7 +112,7 @@ scm-api:2.6.3
 script-security:1.74
 simple-theme-plugin:0.6
 slack:2.42
-snakeyaml-api:1.26.4
+snakeyaml-api:1.27.0
 sse-gateway:1.23
 ssh-credentials:1.18.1
 structs:1.20
