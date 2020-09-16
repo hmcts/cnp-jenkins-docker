@@ -26,7 +26,7 @@ blueocean-pipeline-api-impl:1.23.2
 blueocean-pipeline-editor:1.23.3
 blueocean-pipeline-scm-api:1.23.2
 blueocean-rest-impl:1.23.2
-blueocean-rest:1.23.2
+blueocean-rest:1.23.3
 blueocean-web:1.23.2
 blueocean:1.23.3
 bouncycastle-api:2.18
