@@ -69,7 +69,7 @@ jacoco:3.0.8
 jaxb:2.3.0.1
 javadoc:1.6
 jdk-tool:1.4
-jenkins-design-language:1.23.3
+jenkins-design-language:1.24.0
 jira:3.1.1
 job-dsl:1.77
 jquery-detached:1.2.1
