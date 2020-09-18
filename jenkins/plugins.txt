@@ -22,7 +22,7 @@ blueocean-i18n:1.23.3
 blueocean-jira:1.23.3
 blueocean-jwt:1.23.3
 blueocean-personalization:1.23.3
-blueocean-pipeline-api-impl:1.23.3
+blueocean-pipeline-api-impl:1.24.0
 blueocean-pipeline-editor:1.23.3
 blueocean-pipeline-scm-api:1.24.0
 blueocean-rest-impl:1.24.0
