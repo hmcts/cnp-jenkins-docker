@@ -43,3 +43,4 @@ USER ${user}
 
 RUN tfenv install 0.11.7 && \
   tfenv use 0.11.7
+
