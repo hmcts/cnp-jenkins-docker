@@ -33,7 +33,7 @@ bouncycastle-api:2.18
 branch-api:2.6.0
 build-monitor-plugin:1.12+build.201809061734
 cloud-stats:0.25
-cloudbees-bitbucket-branch-source:2.9.2
+cloudbees-bitbucket-branch-source:2.9.3
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.14
 command-launcher:1.4
