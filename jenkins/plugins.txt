@@ -28,7 +28,7 @@ blueocean-pipeline-scm-api:1.24.0
 blueocean-rest-impl:1.24.1
 blueocean-rest:1.24.0
 blueocean-web:1.24.1
-blueocean:1.24.0
+blueocean:1.24.1
 bouncycastle-api:2.18
 branch-api:2.6.0
 build-monitor-plugin:1.12+build.201809061734
