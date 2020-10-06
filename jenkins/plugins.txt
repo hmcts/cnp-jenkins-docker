@@ -15,7 +15,7 @@ blueocean-config:1.24.0
 blueocean-core-js:1.24.0
 blueocean-dashboard:1.24.0
 blueocean-display-url:2.4.0
-blueocean-events:1.24.0
+blueocean-events:1.24.1
 blueocean-git-pipeline:1.24.0
 blueocean-github-pipeline:1.24.0
 blueocean-i18n:1.24.0
