@@ -24,7 +24,7 @@ blueocean-jwt:1.24.0
 blueocean-personalization:1.24.1
 blueocean-pipeline-api-impl:1.24.0
 blueocean-pipeline-editor:1.24.1
-blueocean-pipeline-scm-api:1.24.0
+blueocean-pipeline-scm-api:1.24.1
 blueocean-rest-impl:1.24.1
 blueocean-rest:1.24.0
 blueocean-web:1.24.1
