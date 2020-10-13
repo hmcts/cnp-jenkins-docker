@@ -78,7 +78,7 @@ jsch:0.1.55.2
 junit:1.37
 kubernetes-client-api:4.9.2-2
 kubernetes-credentials:0.7.0
-kubernetes:1.27.2
+kubernetes:1.27.3
 ldap:1.26
 lockable-resources:2.10
 mailer:1.32
