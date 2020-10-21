@@ -118,7 +118,7 @@ sse-gateway:1.23
 ssh-credentials:1.18.1
 structs:1.20
 sonar:latest:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.11-hmcts/sonar.hpi
-timestamper:1.11.5
+timestamper:1.11.7
 token-macro:2.12
 theme-manager:0.5
 trilead-api:1.0.11
