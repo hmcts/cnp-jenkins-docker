@@ -86,7 +86,7 @@ mailer:1.32.1
 matrix-auth:2.6.3
 matrix-project:1.18
 maven-plugin:3.8
-mercurial:2.10
+mercurial:2.11
 momentjs:1.1.1
 monitoring:1.86.0
 pam-auth:1.6
