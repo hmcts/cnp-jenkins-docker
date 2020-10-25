@@ -37,7 +37,7 @@ cloudbees-bitbucket-branch-source:2.9.4
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.14
 command-launcher:1.4
-configuration-as-code:1.44
+configuration-as-code:1.45
 credentials-binding:1.24
 credentials:2.3.13
 custom-tools-plugin:0.7
