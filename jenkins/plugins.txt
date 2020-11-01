@@ -20,7 +20,7 @@ blueocean-git-pipeline:1.24.1
 blueocean-github-pipeline:1.24.1
 blueocean-i18n:1.24.1
 blueocean-jira:1.24.1
-blueocean-jwt:1.24.1
+blueocean-jwt:1.24.3
 blueocean-personalization:1.24.1
 blueocean-pipeline-api-impl:1.24.1
 blueocean-pipeline-editor:1.24.1
