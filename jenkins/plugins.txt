@@ -114,7 +114,7 @@ script-security:1.75
 simple-theme-plugin:0.6
 slack:2.43
 snakeyaml-api:1.27.0
-sse-gateway:1.23
+sse-gateway:1.24
 ssh-credentials:1.18.1
 structs:1.20
 sonar:latest:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.11-hmcts/sonar.hpi
