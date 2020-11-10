@@ -30,7 +30,7 @@ blueocean-rest:1.24.1
 blueocean-web:1.24.1
 blueocean:1.24.1
 bouncycastle-api:2.18
-branch-api:2.6.0
+branch-api:2.6.3
 build-monitor-plugin:1.12+build.201809061734
 cloud-stats:0.25
 cloudbees-bitbucket-branch-source:2.9.4
