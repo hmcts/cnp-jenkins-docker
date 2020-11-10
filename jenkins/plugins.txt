@@ -35,7 +35,7 @@ build-monitor-plugin:1.12+build.201809061734
 cloud-stats:0.25
 cloudbees-bitbucket-branch-source:2.9.4
 cloudbees-disk-usage-simple:0.10
-cloudbees-folder:6.14
+cloudbees-folder:6.15
 command-launcher:1.5
 configuration-as-code:1.45
 credentials-binding:1.24
