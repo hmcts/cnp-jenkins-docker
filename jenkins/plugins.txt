@@ -58,7 +58,7 @@ git:4.4.5
 github-api:1.116
 github-branch-source:2.9.1
 github-checks:1.0.4
-github:1.31.0
+github:1.32.0
 github-scm-trait-notification-context:1.1
 greenballs:1.15
 handlebars:1.1.1
