@@ -66,7 +66,7 @@ handy-uri-templates-2-api:2.1.8-1.0
 htmlpublisher:1.23
 http_request:1.8.27
 jackson2-api:2.11.3
-jacoco:3.0.8
+jacoco:3.1.0
 jaxb:2.3.0.1
 javadoc:1.6
 jdk-tool:1.4
