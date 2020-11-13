@@ -44,7 +44,7 @@ custom-tools-plugin:0.7
 dark-theme:0.0.10
 display-url-api:2.3.3
 docker-commons:1.17
-docker-workflow:1.24
+docker-workflow:1.25
 durable-task:1.35
 echarts-api:4.9.0-2
 extended-choice-parameter:0.82
