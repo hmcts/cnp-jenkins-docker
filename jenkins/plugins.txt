@@ -112,7 +112,7 @@ sauce-ondemand:1.192
 scm-api:2.6.4
 script-security:1.75
 simple-theme-plugin:0.6
-slack:2.43
+slack:2.44
 snakeyaml-api:1.27.0
 sse-gateway:1.24
 ssh-credentials:1.18.1
