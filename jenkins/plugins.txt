@@ -42,7 +42,7 @@ credentials-binding:1.24
 credentials:2.3.13
 custom-tools-plugin:0.7
 dark-theme:0.0.10
-display-url-api:2.3.3
+display-url-api:2.3.4
 docker-commons:1.17
 docker-workflow:1.25
 durable-task:1.35
