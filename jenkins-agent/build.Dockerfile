@@ -20,6 +20,7 @@ RUN apt-get update && \
   nodejs \
   build-essential \
   yarn \
+  postgresql-client \
   && \
   # Install Headless Chrome
   curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - && \
