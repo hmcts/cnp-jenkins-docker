@@ -104,7 +104,7 @@ saml:1.1.7
 sauce-ondemand:1.192
 scm-api:2.6.4
 script-security:1.75
-slack:2.44
+slack:2.45
 snakeyaml-api:1.27.0
 sse-gateway:1.24
 ssh-credentials:1.18.1
