@@ -3,7 +3,7 @@ ansicolor:0.7.3
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.10-2.0
 authentication-tokens:1.4
-azure-commons:1.0.5
+azure-commons:1.1.0
 azure-credentials:4.0.3
 azure-keyvault:2.1
 azure-vm-agents:1.5.1
