@@ -113,7 +113,7 @@ jenkins:
     globalMatrix:
       permissions:
         - "Overall/Administer:authenticated"
-        - "Overall/Administer:300e771f-856c-45cc-b899-40d78281e9c1"
+        - "Overall/Administer:e7ea2042-4ced-45dd-8ae3-e051c6551789"
         - "Overall/Read:authenticated"
         - "View/Create:authenticated"
         - "View/Read:authenticated"
