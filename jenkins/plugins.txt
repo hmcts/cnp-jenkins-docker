@@ -47,7 +47,7 @@ docker-workflow:1.25
 durable-task:1.35
 echarts-api:4.9.0-2
 extended-read-permission:3.2
-favorite:2.3.2
+favorite:2.3.3
 gatling:1.3.0
 git-client:3.5.1
 git-server:1.9
