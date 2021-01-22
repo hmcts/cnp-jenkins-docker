@@ -23,7 +23,7 @@ blueocean-jira:1.24.3
 blueocean-jwt:1.24.3
 blueocean-personalization:1.24.3
 blueocean-pipeline-api-impl:1.24.3
-blueocean-pipeline-editor:1.24.3
+blueocean-pipeline-editor:1.24.4
 blueocean-pipeline-scm-api:1.24.3
 blueocean-rest-impl:1.24.3
 blueocean-rest:1.24.3
