@@ -1,5 +1,5 @@
 ace-editor:1.1
-ansicolor:0.7.3
+ansicolor:0.7.4
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.10-2.0
 authentication-tokens:1.4
