@@ -17,13 +17,13 @@ blueocean-dashboard:1.24.3
 blueocean-display-url:2.4.0
 blueocean-events:1.24.3
 blueocean-git-pipeline:1.24.4
-blueocean-github-pipeline:1.24.3
+blueocean-github-pipeline:1.24.4
 blueocean-i18n:1.24.3
-blueocean-jira:1.24.3
+blueocean-jira:1.24.4
 blueocean-jwt:1.24.3
-blueocean-personalization:1.24.3
+blueocean-personalization:1.24.4
 blueocean-pipeline-api-impl:1.24.3
-blueocean-pipeline-editor:1.24.3
+blueocean-pipeline-editor:1.24.4
 blueocean-pipeline-scm-api:1.24.3
 blueocean-rest-impl:1.24.3
 blueocean-rest:1.24.3
@@ -63,7 +63,7 @@ handy-uri-templates-2-api:2.1.8-1.0
 htmlpublisher:1.25
 http_request:1.8.27
 jackson2-api:2.12.0
-jacoco:3.1.0
+jacoco:3.1.1
 jaxb:2.3.0.1
 javadoc:1.6
 jdk-tool:1.4
