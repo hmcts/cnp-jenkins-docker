@@ -12,7 +12,7 @@ blueocean-autofavorite:1.2.4
 blueocean-bitbucket-pipeline:1.24.4
 blueocean-commons:1.24.4
 blueocean-config:1.24.4
-blueocean-core-js:1.24.3
+blueocean-core-js:1.24.4
 blueocean-dashboard:1.24.4
 blueocean-display-url:2.4.0
 blueocean-events:1.24.4
