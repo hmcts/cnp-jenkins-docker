@@ -19,7 +19,7 @@ blueocean-events:1.24.3
 blueocean-git-pipeline:1.24.3
 blueocean-github-pipeline:1.24.3
 blueocean-i18n:1.24.3
-blueocean-jira:1.24.3
+blueocean-jira:1.24.4
 blueocean-jwt:1.24.3
 blueocean-personalization:1.24.4
 blueocean-pipeline-api-impl:1.24.3
