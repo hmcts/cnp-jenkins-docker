@@ -18,7 +18,7 @@ blueocean-display-url:2.4.0
 blueocean-events:1.24.4
 blueocean-git-pipeline:1.24.4
 blueocean-github-pipeline:1.24.4
-blueocean-i18n:1.24.3
+blueocean-i18n:1.24.4
 blueocean-jira:1.24.4
 blueocean-jwt:1.24.4
 blueocean-personalization:1.24.4
