@@ -40,7 +40,7 @@ command-launcher:1.5
 configuration-as-code:1.46
 credentials-binding:1.24
 credentials:2.3.14
-dark-theme:0.0.10
+dark-theme:0.0.11
 display-url-api:2.3.4
 docker-commons:1.17
 docker-workflow:1.25
