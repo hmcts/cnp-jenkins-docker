@@ -100,7 +100,7 @@ run-condition:1.5
 saml:1.1.7
 sauce-ondemand:1.192
 scm-api:2.6.4
-script-security:1.75
+script-security:1.76
 slack:2.45
 snakeyaml-api:1.27.0
 sse-gateway:1.24
