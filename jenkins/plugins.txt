@@ -90,7 +90,7 @@ pipeline-model-definition:1.7.2
 pipeline-model-extensions:1.7.2
 pipeline-rest-api:2.19
 pipeline-stage-step:2.5
-pipeline-stage-tags-metadata:1.7.2
+pipeline-stage-tags-metadata:1.8.0
 pipeline-stage-view:2.19
 pipeline-utility-steps:2.6.1
 plain-credentials:1.7
