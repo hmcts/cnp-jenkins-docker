@@ -1,6 +1,6 @@
 {
   "enabledManagers": ["jenkins"],
   "automerge": true,
-  "requiredStatusChecks": null
+  "requiredStatusChecks": null,
   "groupName": "all"
 }
