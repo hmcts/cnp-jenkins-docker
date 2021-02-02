@@ -1,5 +1,5 @@
 ace-editor:1.1
-ansicolor:0.7.4
+ansicolor:0.7.5
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
@@ -52,7 +52,7 @@ git-client:3.6.0
 git-server:1.9
 git:4.5.2
 github-api:1.122
-github-branch-source:2.9.3
+github-branch-source:2.10.0
 github-checks:1.0.9
 github:1.32.0
 github-scm-trait-notification-context:1.1
@@ -84,10 +84,10 @@ pipeline-build-step:2.13
 pipeline-github-lib:1.0
 pipeline-graph-analysis:1.10
 pipeline-input-step:2.12
-pipeline-milestone-step:1.3.1
-pipeline-model-api:1.7.2
-pipeline-model-definition:1.7.2
-pipeline-model-extensions:1.7.2
+pipeline-milestone-step:1.3.2
+pipeline-model-api:1.8.0
+pipeline-model-definition:1.8.0
+pipeline-model-extensions:1.8.0
 pipeline-rest-api:2.19
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.8.0
@@ -100,7 +100,7 @@ run-condition:1.5
 saml:1.1.7
 sauce-ondemand:1.192
 scm-api:2.6.4
-script-security:1.75
+script-security:1.76
 slack:2.45
 snakeyaml-api:1.27.0
 sse-gateway:1.24
@@ -108,7 +108,7 @@ ssh-credentials:1.18.1
 structs:1.20
 sonar:latest:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.11-hmcts/sonar.hpi
 timestamper:1.11.8
-token-macro:2.14
+token-macro:2.15
 theme-manager:0.6
 trilead-api:1.0.13
 variant:1.4
