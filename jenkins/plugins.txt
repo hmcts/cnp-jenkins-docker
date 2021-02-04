@@ -36,7 +36,7 @@ cloudbees-bitbucket-branch-source:2.9.7
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.15
 command-launcher:1.5
-configuration-as-code:1.46
+configuration-as-code:1.47
 credentials-binding:1.24
 credentials:2.3.14
 dark-theme:0.0.11
@@ -72,7 +72,7 @@ jsch:0.1.55.2
 junit:1.48
 kubernetes-client-api:4.11.1
 kubernetes-credentials:0.8.0
-kubernetes:1.28.7
+kubernetes:1.29.0
 lockable-resources:2.10
 mailer:1.32.1
 matrix-auth:2.6.5
