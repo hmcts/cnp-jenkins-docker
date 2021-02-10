@@ -52,9 +52,9 @@ git-client:3.6.0
 git-server:1.9
 git:4.5.2
 github-api:1.122
-github-branch-source:2.10.0
+github-branch-source:2.10.1
 github-checks:1.0.9
-github:1.32.0
+github:1.33.0
 github-scm-trait-notification-context:1.1
 greenballs:1.15.1
 handlebars:1.1.1
