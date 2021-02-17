@@ -65,7 +65,7 @@ jackson2-api:2.12.1
 jacoco:3.1.1
 jaxb:2.3.0.1
 javadoc:1.6
-jdk-tool:1.4
+jdk-tool:1.5
 jenkins-design-language:1.24.4
 job-dsl:1.77
 jsch:0.1.55.2
@@ -116,7 +116,7 @@ workflow-aggregator:2.6
 workflow-api:2.41
 workflow-basic-steps:2.23
 workflow-cps-global-lib:2.17
-workflow-cps:2.88
+workflow-cps:2.89
 workflow-durable-task-step:2.37
 workflow-job:2.40
 workflow-multibranch:2.22
