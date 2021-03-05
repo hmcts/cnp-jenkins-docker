@@ -98,12 +98,12 @@ pipeline-stage-tags-metadata:1.8.4
 pipeline-stage-view:2.19
 pipeline-utility-steps:2.6.1
 plain-credentials:1.7
-plugin-util-api:1.7.1
+plugin-util-api:2.0.0
 popper-api:1.16.1-1
 prometheus:2.0.8
 pubsub-light:1.13
 run-condition:1.5
-saml:1.1.7
+saml:2.0.0
 sauce-ondemand:1.193
 scm-api:2.6.4
 script-security:1.76
