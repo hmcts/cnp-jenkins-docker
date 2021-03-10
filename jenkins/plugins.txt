@@ -104,7 +104,7 @@ prometheus:2.0.8
 pubsub-light:1.13
 run-condition:1.5
 saml:2.0.0
-sauce-ondemand:1.193
+sauce-ondemand:1.194
 scm-api:2.6.4
 script-security:1.76
 slack:2.45
