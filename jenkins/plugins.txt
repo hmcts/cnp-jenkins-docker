@@ -55,7 +55,7 @@ git-server:1.9
 git:4.6.0
 github-api:1.123
 github-branch-source:2.10.2
-github-checks:1.0.10
+github-checks:1.0.11
 github:1.33.1
 github-scm-trait-notification-context:1.1
 handlebars:1.1.1
