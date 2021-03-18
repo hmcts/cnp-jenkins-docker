@@ -50,9 +50,9 @@ extended-read-permission:3.2
 favorite:2.3.3
 font-awesome-api:5.15.2-2
 gatling:1.3.0
-git-client:3.6.0
+git-client:3.7.0
 git-server:1.9
-git:4.6.0
+git:4.7.0
 github-api:1.123
 github-branch-source:2.10.2
 github-checks:1.0.11
@@ -77,7 +77,7 @@ kubernetes-credentials:0.8.0
 kubernetes:1.29.2
 lockable-resources:2.10
 mailer:1.33
-matrix-auth:2.6.5
+matrix-auth:2.6.6
 matrix-project:1.18
 maven-plugin:3.10
 metrics:4.0.2.7
