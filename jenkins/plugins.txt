@@ -5,8 +5,8 @@ apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
 azure-commons:1.1.1
 azure-credentials:4.0.6
-azure-keyvault:2.2
-azure-vm-agents:1.5.3
+azure-keyvault:116.v4c0cbc857be0
+azure-vm-agents:763.vedbebdfd1222
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.4
 blueocean-bitbucket-pipeline:1.24.5
@@ -32,6 +32,7 @@ bootstrap4-api:4.6.0-2
 bouncycastle-api:2.20
 branch-api:2.6.3
 build-monitor-plugin:1.12+build.201809061734
+checks-api:1.6.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:2.9.7
 cloudbees-disk-usage-simple:0.10
@@ -95,7 +96,7 @@ pipeline-rest-api:2.19
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.8.4
 pipeline-stage-view:2.19
-pipeline-utility-steps:2.7.0
+pipeline-utility-steps:2.7.1
 plain-credentials:1.7
 plugin-util-api:2.1.0
 popper-api:1.16.1-2
@@ -112,7 +113,7 @@ sse-gateway:1.24
 ssh-credentials:1.18.2
 structs:1.22
 sonar:latest:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.11-hmcts/sonar.hpi
-timestamper:1.11.8
+timestamper:1.12
 token-macro:2.15
 theme-manager:0.6
 trilead-api:1.0.13
