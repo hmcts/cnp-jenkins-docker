@@ -3,7 +3,7 @@ ansicolor:0.7.5
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-commons:1.1.1
+azure-commons:1.1.2
 azure-credentials:4.0.6
 azure-keyvault:116.v4c0cbc857be0
 azure-vm-agents:763.vedbebdfd1222
@@ -51,9 +51,9 @@ extended-read-permission:3.2
 favorite:2.3.3
 font-awesome-api:5.15.2-2
 gatling:1.3.0
-git-client:3.7.0
+git-client:3.7.1
 git-server:1.9
-git:4.7.0
+git:4.7.1
 github-api:1.123
 github-branch-source:incrementals;org.jenkins-ci.plugins;2.10.3-rc1407.85594d4c4ae7
 github-checks:1.0.11
@@ -83,7 +83,7 @@ matrix-project:1.18
 maven-plugin:3.10
 metrics:4.0.2.7
 momentjs:1.1.1
-monitoring:1.86.0
+monitoring:1.87.0
 pipeline-build-step:2.13
 pipeline-github-lib:1.0
 pipeline-graph-analysis:1.10
