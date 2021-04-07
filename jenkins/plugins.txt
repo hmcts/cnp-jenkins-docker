@@ -112,7 +112,7 @@ snakeyaml-api:1.27.0
 sse-gateway:1.24
 ssh-credentials:1.18.2
 structs:1.22
-sonar:latest:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.11-hmcts/sonar.hpi
+sonar:2.13
 timestamper:1.12
 token-macro:2.15
 theme-manager:0.6
