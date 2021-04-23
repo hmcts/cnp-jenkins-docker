@@ -46,7 +46,7 @@ display-url-api:2.3.4
 docker-commons:1.17
 docker-workflow:1.26
 durable-task:1.35
-echarts-api:5.0.2-1
+echarts-api:5.1.0-1
 extended-read-permission:3.2
 favorite:2.3.3
 font-awesome-api:5.15.2-2
