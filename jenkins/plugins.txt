@@ -74,9 +74,9 @@ jjwt-api:0.11.2-9.c8b45b8bb173
 job-dsl:1.77
 jsch:0.1.55.2
 junit:1.49
-kubernetes-client-api:4.13.2-1
+kubernetes-client-api:4.13.3-1
 kubernetes-credentials:0.8.0
-kubernetes:1.29.2
+kubernetes:1.29.4
 lockable-resources:2.10
 mailer:1.34
 matrix-auth:2.6.6
