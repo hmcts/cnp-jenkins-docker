@@ -1,0 +1,17 @@
+version: 2
+updates:
+- package-ecosystem: docker
+  directory: "/jenkins"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: jenkins/jenkins
+    versions:
+    - 2.282.pre.jdk11
+    - 2.287.pre.jdk11
+- package-ecosystem: docker
+  directory: "/jenkins-agent"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
