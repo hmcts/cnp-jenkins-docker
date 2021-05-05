@@ -38,14 +38,14 @@ cloudbees-bitbucket-branch-source:2.9.8
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.15
 command-launcher:1.5
-configuration-as-code:1.47
+configuration-as-code:1.50
 credentials-binding:1.24
 credentials:2.3.18
 dark-theme:0.0.12
 display-url-api:2.3.4
 docker-commons:1.17
 docker-workflow:1.26
-durable-task:1.35
+durable-task:1.36
 echarts-api:5.1.0-1
 extended-read-permission:3.2
 favorite:2.3.3
@@ -63,7 +63,7 @@ github-scm-trait-notification-context:1.1
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-1.0
 htmlpublisher:1.25
-http_request:1.8.27
+http_request:1.9.0
 jackson2-api:2.12.3
 jacoco:3.1.1
 jaxb:2.3.0.1
@@ -122,7 +122,7 @@ variant:1.4
 workflow-aggregator:2.6
 workflow-api:2.42
 workflow-basic-steps:2.23
-workflow-cps-global-lib:2.18
+workflow-cps-global-lib:2.19
 workflow-cps:2.90
 workflow-durable-task-step:2.38
 workflow-job:2.40
