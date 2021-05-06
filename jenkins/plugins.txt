@@ -30,7 +30,7 @@ blueocean-web:1.24.6
 blueocean:1.24.6
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.20
-branch-api:2.6.3
+branch-api:2.6.4
 build-monitor-plugin:1.12+build.201809061734
 checks-api:1.7.0
 cloud-stats:0.27
@@ -102,7 +102,7 @@ plain-credentials:1.7
 plugin-util-api:2.1.0
 popper-api:1.16.1-2
 prometheus:2.0.10
-pubsub-light:1.13
+pubsub-light:1.14
 run-condition:1.5
 saml:2.0.3
 sauce-ondemand:1.194
