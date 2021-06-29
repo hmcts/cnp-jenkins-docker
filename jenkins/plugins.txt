@@ -1,12 +1,43 @@
+Step 1/4 : FROM jenkins/jenkins:2.299-jdk11
+2.299-jdk11: Pulling from jenkins/jenkins
+Digest: sha256:1f15139893d3b546b62acb2adf174d961d88e51397bb55ad8448a25269040e5c
+Status: Downloaded newer image for jenkins/jenkins:2.299-jdk11
+ ---> 02144a2c7563
+Step 2/4 : COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
+ ---> 7a066b71520d
+Step 3/4 : RUN jenkins-plugin-cli --latest=false -f /usr/share/jenkins/ref/plugins.txt
+ ---> Running in 4fef6ed860bf
+[91mJun 29, 2021 2:42:17 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://updates.jenkins.io:443: The target server failed to respond
+[0m[91mJun 29, 2021 2:42:17 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://updates.jenkins.io:443: The target server failed to respond
+[0m[91mJun 29, 2021 2:42:17 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {s}->https://updates.jenkins.io:443
+[0m[91mJun 29, 2021 2:42:17 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {s}->https://updates.jenkins.io:443
+[0m[91mJun 29, 2021 2:42:18 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://updates.jenkins.io:443: The target server failed to respond
+[0m[91mJun 29, 2021 2:42:18 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {s}->https://updates.jenkins.io:443
+[0mDone
+Removing intermediate container 4fef6ed860bf
+ ---> 9aa612cb7479
+Step 4/4 : RUN mkdir -p /usr/share/jenkins/ref/.ssh && ssh-keyscan -t rsa github.com >> /usr/share/jenkins/ref/.ssh/known_hosts
+ ---> Running in 174062f08af1
+Removing intermediate container 174062f08af1
+ ---> a9a53270c4b2
+
+Successfully built a9a53270c4b2
+Successfully tagged hmcts/jenkins:latest
 ace-editor:1.1
 ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:168.ve6e7e368dbf6
+azure-ad:173.v0a210fffb510
 azure-artifact-manager:92.v5205e9195328
 azure-credentials:182.v3ccd4a755864
-azure-keyvault:122.v72c88cfc0c2b
+azure-keyvault:123.v1aba71c2d365
 azure-vm-agents:783.v58077630847d
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.4
