@@ -3,10 +3,10 @@ ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:168.ve6e7e368dbf6
+azure-ad:173.v0a210fffb510
 azure-artifact-manager:92.v5205e9195328
 azure-credentials:182.v3ccd4a755864
-azure-keyvault:122.v72c88cfc0c2b
+azure-keyvault:123.v1aba71c2d365
 azure-vm-agents:783.v58077630847d
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.4
