@@ -1,0 +1,12 @@
+version: 2
+updates:
+- package-ecosystem: docker
+  directory: "/jenkins"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+- package-ecosystem: docker
+  directory: "/jenkins-agent"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
