@@ -3,7 +3,7 @@ ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:175.v5513346d764a
+azure-ad:178.v7b93892fbe4c
 azure-artifact-manager:92.v5205e9195328
 azure-credentials:182.v3ccd4a755864
 azure-keyvault:123.v1aba71c2d365
