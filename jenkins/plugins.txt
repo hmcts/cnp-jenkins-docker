@@ -88,6 +88,7 @@ monitoring:1.88.0
 pipeline-build-step:2.14
 pipeline-github-lib:1.0
 pipeline-graph-analysis:1.11
+pipeline-graph-view:31.v8b1fff43b697
 pipeline-input-step:2.12
 pipeline-milestone-step:1.3.2
 pipeline-model-api:1.8.5
