@@ -31,7 +31,7 @@ blueocean-rest:1.24.8
 blueocean-web:1.24.8
 blueocean:1.24.8
 bootstrap4-api:4.6.0-3
-bouncycastle-api:2.20
+bouncycastle-api:2.21
 branch-api:2.6.5
 build-monitor-plugin:1.12+build.201809061734
 checks-api:1.7.2
@@ -81,7 +81,7 @@ kubernetes-credentials:0.9.0
 kubernetes:1.30.1
 lockable-resources:2.11
 mailer:1.34
-matrix-auth:2.6.7
+matrix-auth:2.6.8
 matrix-project:1.19
 maven-plugin:3.12
 metrics:4.0.2.8
