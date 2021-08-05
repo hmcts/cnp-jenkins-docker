@@ -87,7 +87,7 @@ maven-plugin:3.12
 metrics:4.0.2.8
 momentjs:1.1.1
 monitoring:1.88.0
-pipeline-build-step:2.14
+pipeline-build-step:2.15
 pipeline-github-lib:1.0
 pipeline-graph-analysis:1.11
 pipeline-graph-view:31.v8b1fff43b697
