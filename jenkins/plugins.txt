@@ -48,7 +48,7 @@ dark-theme:0.0.12
 display-url-api:2.3.5
 docker-commons:1.17
 docker-workflow:1.26
-durable-task:1.38
+durable-task:1.39
 echarts-api:5.1.2-3
 extended-read-permission:3.2
 favorite:2.3.3
@@ -75,7 +75,7 @@ jenkins-design-language:1.24.8
 jjwt-api:0.11.2-9.c8b45b8bb173
 job-dsl:1.77
 jsch:0.1.55.2
-junit:1.51
+junit:1.52
 kubernetes-client-api:5.4.1
 kubernetes-credentials:0.9.0
 kubernetes:1.30.1
