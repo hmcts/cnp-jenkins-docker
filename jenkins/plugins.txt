@@ -31,7 +31,7 @@ blueocean-rest:1.24.8
 blueocean-web:1.24.8
 blueocean:1.24.8
 bootstrap4-api:4.6.0-3
-bouncycastle-api:2.21
+bouncycastle-api:2.22
 branch-api:2.6.5
 build-monitor-plugin:1.12+build.201809061734
 checks-api:1.7.2
@@ -126,7 +126,7 @@ variant:1.4
 windows-azure-storage:358.v5c001416d74f
 workflow-aggregator:2.6
 workflow-api:2.46
-workflow-basic-steps:2.23
+workflow-basic-steps:2.24
 workflow-cps-global-lib:2.21
 workflow-cps:2.93
 workflow-durable-task-step:2.39
