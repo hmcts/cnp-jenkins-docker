@@ -7,9 +7,9 @@ COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
 # should be in 2.309
 ARG PLUGIN_CLI_VERSION=2.10.2
 ARG PLUGIN_CLI_URL=https://github.com/jenkinsci/plugin-installation-manager-tool/releases/download/${PLUGIN_CLI_VERSION}/jenkins-plugin-manager-${PLUGIN_CLI_VERSION}.jar
-User root
+USER root
 RUN curl -fsSL ${PLUGIN_CLI_URL} -o /opt/jenkins-plugin-manager.jar
-User jenkins
+USER jenkins
 
 RUN jenkins-plugin-cli --latest=false -f /usr/share/jenkins/ref/plugins.txt
 
