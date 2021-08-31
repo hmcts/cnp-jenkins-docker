@@ -1,5 +1,5 @@
 # TODO remove plugin cli override when updating this version
-FROM jenkins/jenkins:2.308-jdk11
+FROM jenkins/jenkins:2.309-jdk11
 
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
 
