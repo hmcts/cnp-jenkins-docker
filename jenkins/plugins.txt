@@ -3,12 +3,12 @@ ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:179.vf6841393099e
+azure-ad:180.v8b1e80e6f242
 azure-artifact-manager:94.vcb8b76839313
 azure-credentials:182.v3ccd4a755864
 azure-keyvault:incrementals;org.jenkins-ci.plugins;125.vfe1a7baf2b0a
 azure-sdk:30.vf3165534d6e8
-azure-vm-agents:783.v58077630847d
+azure-vm-agents:incrementals;org.jenkins-ci.plugins;789.vd6ebee3ebed0
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.4
 blueocean-bitbucket-pipeline:1.24.8
@@ -49,10 +49,10 @@ display-url-api:2.3.5
 docker-commons:1.17
 docker-workflow:1.26
 durable-task:1.39
-echarts-api:5.1.2-9
+echarts-api:5.1.2-11
 extended-read-permission:3.2
 favorite:2.3.3
-font-awesome-api:5.15.3-4
+font-awesome-api:5.15.4-1
 gatling:1.3.0
 git-client:3.9.0
 git-server:1.10
@@ -60,7 +60,7 @@ git:4.8.2
 github-api:1.123
 github-branch-source:2.11.2
 github-checks:1.0.13
-github:1.34.0
+github:1.34.1
 github-scm-trait-notification-context:1.1
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-1.0
