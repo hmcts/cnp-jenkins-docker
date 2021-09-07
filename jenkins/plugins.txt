@@ -8,7 +8,7 @@ azure-artifact-manager:94.vcb8b76839313
 azure-credentials:182.v3ccd4a755864
 azure-keyvault:incrementals;org.jenkins-ci.plugins;125.vfe1a7baf2b0a
 azure-sdk:30.vf3165534d6e8
-azure-vm-agents:incrementals;org.jenkins-ci.plugins;789.vd6ebee3ebed0
+azure-vm-agents:incrementals;org.jenkins-ci.plugins;790.vb89835b3c519
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.4
 blueocean-bitbucket-pipeline:1.24.8
