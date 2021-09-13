@@ -41,7 +41,7 @@ cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.16
 command-launcher:1.6
 configuration-as-code:1.52
-copyartifact:1.46.1
+copyartifact:1.46.2
 credentials-binding:1.27
 credentials:2.5
 dark-theme:0.0.12
@@ -128,7 +128,7 @@ workflow-aggregator:2.6
 workflow-api:2.46
 workflow-basic-steps:2.24
 workflow-cps-global-lib:2.21
-workflow-cps:2.93
+workflow-cps:2.94
 workflow-durable-task-step:2.39
 workflow-job:2.41
 workflow-multibranch:2.26
