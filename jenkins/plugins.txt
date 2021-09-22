@@ -3,12 +3,12 @@ ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:180.v8b1e80e6f242
+azure-ad:184.v44f04b65bdd5
 azure-artifact-manager:94.vcb8b76839313
-azure-credentials:182.v3ccd4a755864
-azure-keyvault:incrementals;org.jenkins-ci.plugins;125.vfe1a7baf2b0a
-azure-sdk:30.vf3165534d6e8
-azure-vm-agents:incrementals;org.jenkins-ci.plugins;790.vb89835b3c519
+azure-credentials:190.v059127ae17bb
+azure-keyvault:129.vb7a46bc7b588
+azure-sdk:48.veb7555463c4b
+azure-vm-agents:789.va0c40e4d0070
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.4
 blueocean-bitbucket-pipeline:1.25.0
@@ -43,7 +43,7 @@ command-launcher:1.6
 configuration-as-code:1.53
 copyartifact:1.46.2
 credentials-binding:1.27
-credentials:2.5
+credentials:2.6.1
 dark-theme:0.0.12
 display-url-api:2.3.5
 docker-commons:1.17
@@ -90,7 +90,7 @@ monitoring:1.88.0
 pipeline-build-step:2.15
 pipeline-github-lib:1.0
 pipeline-graph-analysis:1.11
-pipeline-graph-view:45.v8d8f990ab4bf
+pipeline-graph-view:46.vedbf23da719f
 pipeline-input-step:2.12
 pipeline-milestone-step:1.3.2
 pipeline-model-api:1.9.2
@@ -123,7 +123,7 @@ token-macro:266.v44a80cf277fd
 theme-manager:0.6
 trilead-api:1.0.13
 variant:1.4
-windows-azure-storage:359.v09573e5ff73f
+windows-azure-storage:361.vfd353ee551ee
 workflow-aggregator:2.6
 workflow-api:2.46
 workflow-basic-steps:2.24
