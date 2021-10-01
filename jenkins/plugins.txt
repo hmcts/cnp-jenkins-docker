@@ -40,7 +40,7 @@ cloudbees-bitbucket-branch-source:2.9.11
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.16
 command-launcher:1.6
-configuration-as-code:1.53
+configuration-as-code:1.54
 copyartifact:1.46.2
 credentials-binding:1.27
 credentials:2.6.1
@@ -54,7 +54,7 @@ extended-read-permission:3.2
 favorite:2.3.3
 font-awesome-api:5.15.4-1
 gatling:1.3.0
-git-client:3.9.0
+git-client:3.10.0
 git-server:1.10
 git:4.8.2
 github-api:1.133
