@@ -125,12 +125,12 @@ trilead-api:1.0.13
 variant:1.4
 windows-azure-storage:361.vfd353ee551ee
 workflow-aggregator:2.6
-workflow-api:2.46
+workflow-api:2.47
 workflow-basic-steps:2.24
 workflow-cps-global-lib:2.21
 workflow-cps:2.94
 workflow-durable-task-step:2.40
-workflow-job:2.41
+workflow-job:2.42
 workflow-multibranch:2.26
 workflow-scm-step:2.13
 workflow-step-api:2.24
