@@ -1,6 +1,6 @@
 ace-editor:1.1
 ansicolor:1.0.0
-antisamy-markup-formatter:2.3
+antisamy-markup-formatter:2.4
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
 azure-ad:184.v44f04b65bdd5
