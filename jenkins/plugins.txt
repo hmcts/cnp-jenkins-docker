@@ -43,7 +43,7 @@ command-launcher:1.6
 configuration-as-code:1.54
 copyartifact:1.46.2
 credentials-binding:1.27
-credentials:2.6.1
+credentials:2.6.2
 dark-theme:0.0.12
 display-url-api:2.3.5
 docker-commons:1.17
