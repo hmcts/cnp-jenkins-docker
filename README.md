@@ -20,7 +20,7 @@ The config is pulled from `cac-test-local.yml`, environment variables set in `do
 
 We run Jenkins in a docker container running on Kubernetes.
 
-All configuration is managed in cnp-flux-config, there's [common configuration](https://github.com/hmcts/cnp-flux-config/blob/master/k8s/namespaces/jenkins/jenkins.yaml) and [per-instance configuration](https://github.com/hmcts/cnp-flux-config/blob/master/k8s/namespaces/jenkins/patches/cftptl/cluster-00/jenkins.yaml).
+All configuration is managed in cnp-flux-config, there's [common configuration](https://github.com/hmcts/cnp-flux-config/blob/master/apps/jenkins/jenkins/jenkins.yaml) and [per-instance configuration](https://github.com/hmcts/cnp-flux-config/blob/master/apps/jenkins/jenkins/ptl-intsvc/jenkins.yaml).
 
 The Jenkins image is built from this repo, after a pull request is merged
 an ACR task will automatically build and publish an image.
@@ -64,7 +64,7 @@ Check for the latest tag in the container registry:
 az acr repository show-tags -n hmctspublic --repository jenkins/jenkins --subscription DCD-CNP-PROD --orderby time_desc --query [0] -o tsv
 ```
 
-Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-flux-config/blob/master/k8s/namespaces/jenkins/jenkins.yaml#L25).
+Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-flux-config/blob/master/apps/jenkins/jenkins/jenkins.yaml#L15).
 
 Only merge the PR for prod Jenkins very early in the day, or in very quiet times, it can take ~15 minutes to startup sometimes,
 likely due to the number of jobs and the number of traffic that it gets which slows down the startup.
