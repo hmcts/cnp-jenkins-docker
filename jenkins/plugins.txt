@@ -65,7 +65,7 @@ github-scm-trait-notification-context:1.1
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-1.0
 htmlpublisher:1.28
-http_request:1.11
+http_request:1.12
 jackson2-api:2.13.0-230.v59243c64b0a5
 jacoco:3.3.0
 jaxb:2.3.0.1
@@ -78,7 +78,7 @@ jsch:0.1.55.2
 junit:1.53
 kubernetes-client-api:5.4.1
 kubernetes-credentials:0.9.0
-kubernetes:1.30.7
+kubernetes:1.30.9
 lockable-resources:2.12
 mailer:1.34
 matrix-auth:2.6.8
