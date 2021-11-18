@@ -8,7 +8,7 @@ azure-artifact-manager:97.v074e1332e88d
 azure-credentials:198.vf9c2fdfde55c
 azure-keyvault:incrementals;org.jenkins-ci.plugins;125.vfe1a7baf2b0a
 azure-sdk:61.v6a8af1f5f5b6
-azure-vm-agents:797.v31f530348574
+azure-vm-agents:799.va4c741108611
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.4
 blueocean-bitbucket-pipeline:1.25.1
@@ -36,7 +36,7 @@ branch-api:2.7.0
 build-monitor-plugin:1.13+build.202111180915
 checks-api:1.7.2
 cloud-stats:0.27
-cloudbees-bitbucket-branch-source:2.9.11
+cloudbees-bitbucket-branch-source:726.vb0c1ea6c9336
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.16
 command-launcher:1.6
@@ -44,12 +44,12 @@ configuration-as-code:1.54
 copyartifact:1.46.2
 credentials-binding:1.27
 credentials:2.6.2
-dark-theme:0.0.12
+dark-theme:155.v497c78bbdbb3
 display-url-api:2.3.5
 docker-commons:1.17
 docker-workflow:1.26
-durable-task:1.39
-echarts-api:5.2.1-2
+durable-task:493.v195aefbb0ff2
+echarts-api:5.2.2-1
 extended-read-permission:3.2
 favorite:2.3.3
 font-awesome-api:5.15.4-1
@@ -127,9 +127,9 @@ windows-azure-storage:365.vf41653c43b01
 workflow-aggregator:2.6
 workflow-api:2.47
 workflow-basic-steps:2.24
-workflow-cps-global-lib:2.21
-workflow-cps:2.94
-workflow-durable-task-step:2.40
+workflow-cps-global-lib:548.v9085a486966a
+workflow-cps:2633.v6baeedc13805
+workflow-durable-task-step:1097.veac1aacfbda8
 workflow-job:2.42
 workflow-multibranch:2.26
 workflow-scm-step:2.13
