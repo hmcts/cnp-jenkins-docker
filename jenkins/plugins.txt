@@ -1,6 +1,6 @@
 ace-editor:1.1
 ansicolor:1.0.1
-antisamy-markup-formatter:2.4
+antisamy-markup-formatter:2.5
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
 azure-ad:185.v3b416408dcb1
@@ -33,7 +33,7 @@ blueocean:1.25.1
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:2.7.0
-build-monitor-plugin:1.13+build.202110011223
+build-monitor-plugin:1.13+build.202111180915
 checks-api:1.7.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:2.9.11
@@ -118,7 +118,7 @@ ssh-credentials:1.19
 sshd:3.1.0
 structs:1.23
 sonar:2.14
-timestamper:1.13
+timestamper:1.14
 token-macro:267.vcdaea6462991
 theme-manager:0.6
 trilead-api:1.0.13
