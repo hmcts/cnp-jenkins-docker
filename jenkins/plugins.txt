@@ -117,7 +117,7 @@ sse-gateway:1.24
 ssh-credentials:1.19
 sshd:3.1.0
 structs:1.23
-sonar:2.14-PR-182-1:https://github.com/hmcts/sonarqube-plugin/releases/download/2.14-PR-182-1/sonar.hpi
+sonar:2.14
 timestamper:1.13
 token-macro:267.vcdaea6462991
 theme-manager:0.6
