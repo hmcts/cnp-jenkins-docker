@@ -68,7 +68,7 @@ jenkins:
             templateDesc: "Jenkins build agents for HMCTS"
             templateDisabled: false
             templateName: "cnp-jenkins-builders"
-            usageMode: "Use this node as much as possible"
+            usageMode: "NORMAL"
             usePrivateIP: true
             virtualMachineSize: "Standard_D4_v3"
             virtualNetworkName: "mgmt-infra-sandbox"
