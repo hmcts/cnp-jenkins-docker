@@ -33,10 +33,10 @@ blueocean:1.25.2
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:2.7.0
-build-monitor-plugin:1.13+build.202111220004
+build-monitor-plugin:1.13+build.202111240043
 checks-api:1.7.2
 cloud-stats:0.27
-cloudbees-bitbucket-branch-source:726.vb0c1ea6c9336
+cloudbees-bitbucket-branch-source:731.v1f980b7eba32
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.16
 command-launcher:1.6
@@ -89,7 +89,7 @@ momentjs:1.1.1
 monitoring:1.88.0
 pipeline-build-step:2.15
 pipeline-github-lib:1.0
-pipeline-graph-analysis:1.11
+pipeline-graph-analysis:1.12
 pipeline-graph-view:46.vedbf23da719f
 pipeline-input-step:2.12
 pipeline-milestone-step:1.3.2
@@ -116,7 +116,7 @@ snakeyaml-api:1.29.1
 sse-gateway:1.24
 ssh-credentials:1.19
 sshd:3.1.0
-structs:1.23
+structs:1.24
 sonar:2.14
 timestamper:1.14
 token-macro:267.vcdaea6462991
@@ -129,7 +129,7 @@ workflow-api:2.47
 workflow-basic-steps:2.24
 workflow-cps-global-lib:548.v9085a486966a
 workflow-cps:2633.v6baeedc13805
-workflow-durable-task-step:1097.veac1aacfbda8
+workflow-durable-task-step:1101.vf832bc1ac745
 workflow-job:2.42
 workflow-multibranch:2.26
 workflow-scm-step:2.13
