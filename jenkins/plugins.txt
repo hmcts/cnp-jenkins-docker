@@ -33,7 +33,7 @@ blueocean:1.25.2
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:2.7.0
-build-monitor-plugin:1.13+build.202111240043
+build-monitor-plugin:1.13+build.202112012056
 checks-api:1.7.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:726.vb0c1ea6c9336
@@ -100,7 +100,7 @@ pipeline-rest-api:2.19
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.9.3
 pipeline-stage-view:2.19
-pipeline-utility-steps:2.10.0
+pipeline-utility-steps:2.11.0
 plain-credentials:1.7
 plugin-util-api:2.5.1
 popper-api:1.16.1-2
@@ -118,7 +118,7 @@ ssh-credentials:1.19
 sshd:3.1.0
 structs:1.24
 sonar:2.14
-timestamper:1.14
+timestamper:1.15
 token-macro:267.vcdaea6462991
 theme-manager:0.6
 trilead-api:1.0.13
