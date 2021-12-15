@@ -86,7 +86,7 @@ matrix-project:1.19
 maven-plugin:3.15.1
 metrics:4.0.2.8
 momentjs:1.1.1
-monitoring:1.89.0
+monitoring:1.90.0
 pipeline-build-step:2.15
 pipeline-github-lib:1.0
 pipeline-graph-analysis:1.12
