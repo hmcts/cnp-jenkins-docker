@@ -33,7 +33,7 @@ blueocean:1.25.2
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:2.7.0
-build-monitor-plugin:1.13+build.202112271752
+build-monitor-plugin:1.13+build.202201031653
 checks-api:1.7.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:726.vb0c1ea6c9336
@@ -78,7 +78,7 @@ jsch:0.1.55.2
 junit:1.53
 kubernetes-client-api:5.4.1
 kubernetes-credentials:0.9.0
-kubernetes:1.31.1
+kubernetes:1.31.2
 lockable-resources:2.13
 mailer:1.34
 matrix-auth:2.6.11
@@ -102,7 +102,7 @@ pipeline-stage-tags-metadata:1.9.3
 pipeline-stage-view:2.20
 pipeline-utility-steps:2.11.0
 plain-credentials:1.7
-plugin-util-api:2.10.0
+plugin-util-api:2.11.0
 popper-api:1.16.1-2
 prometheus:2.0.10
 pubsub-light:1.16
