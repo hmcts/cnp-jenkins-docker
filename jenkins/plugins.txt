@@ -33,7 +33,7 @@ blueocean:1.25.2
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:2.7.0
-build-monitor-plugin:1.13+build.202201031653
+build-monitor-plugin:1.13+build.202201101632
 checks-api:1.7.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:737.vdf9dc06105be
@@ -65,7 +65,7 @@ github-scm-trait-notification-context:1.1
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-1.0
 htmlpublisher:1.28
-http_request:1.12
+http_request:1.13
 jackson2-api:2.13.1-246.va8a9f3eaf46a
 jacoco:3.3.1
 jaxb:2.3.0.1
@@ -118,7 +118,7 @@ ssh-credentials:1.19
 sshd:3.1.0
 structs:308.v852b473a2b8c
 sonar:2.14
-timestamper:1.15
+timestamper:1.16
 token-macro:267.vcdaea6462991
 theme-manager:0.6
 trilead-api:1.0.13
