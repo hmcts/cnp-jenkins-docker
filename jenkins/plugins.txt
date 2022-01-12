@@ -36,13 +36,13 @@ branch-api:2.7.0
 build-monitor-plugin:1.13+build.202201101632
 checks-api:1.7.2
 cloud-stats:0.27
-cloudbees-bitbucket-branch-source:737.vdf9dc06105be
+cloudbees-bitbucket-branch-source:746.v350d2781c184
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.17
 command-launcher:1.6
-configuration-as-code:1.55
+configuration-as-code:1.55.1
 copyartifact:1.46.2
-credentials-binding:1.27
+credentials-binding:1.27.1
 credentials:1074.v60e6c29b_b_44b_
 dark-theme:155.v497c78bbdbb3
 display-url-api:2.3.5
@@ -80,11 +80,11 @@ kubernetes-client-api:5.11.2-182.v0f1cf4c5904e
 kubernetes-credentials:0.9.0
 kubernetes:1.31.3
 lockable-resources:2.13
-mailer:391.ve4a_38c1b_cf4b_
+mailer:408.vd726a_1130320
 matrix-auth:3.0
 matrix-project:1.20
 maven-plugin:3.16
-metrics:4.0.2.8
+metrics:4.0.2.8.1
 momentjs:1.1.1
 monitoring:1.90.0
 pipeline-build-step:2.15
@@ -134,4 +134,4 @@ workflow-job:1145.v7f2433caa07f
 workflow-multibranch:706.vd43c65dec013
 workflow-scm-step:2.13
 workflow-step-api:622.vb_8e7c15b_c95a_
-workflow-support:804.vba10a18a1476
+workflow-support:813.vb_d7c3d2984a_0
