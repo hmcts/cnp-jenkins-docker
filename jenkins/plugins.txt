@@ -1,6 +1,6 @@
 ace-editor:1.1
 ansicolor:1.0.1
-antisamy-markup-formatter:2.6
+antisamy-markup-formatter:2.7
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
 azure-ad:189.v2da14dccdb43
@@ -46,8 +46,8 @@ credentials-binding:1.27
 credentials:1074.v60e6c29b_b_44b_
 dark-theme:155.v497c78bbdbb3
 display-url-api:2.3.5
-docker-commons:1.17
-docker-workflow:1.26
+docker-commons:1.18
+docker-workflow:1.27
 durable-task:493.v195aefbb0ff2
 echarts-api:5.2.2-2
 extended-read-permission:3.2
@@ -78,11 +78,11 @@ jsch:0.1.55.2
 junit:1.53
 kubernetes-client-api:5.11.2-182.v0f1cf4c5904e
 kubernetes-credentials:0.9.0
-kubernetes:1.31.2
+kubernetes:1.31.3
 lockable-resources:2.13
 mailer:391.ve4a_38c1b_cf4b_
 matrix-auth:3.0
-matrix-project:1.19
+matrix-project:1.20
 maven-plugin:3.16
 metrics:4.0.2.8
 momentjs:1.1.1
