@@ -33,7 +33,7 @@ blueocean:1.25.2
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:2.7.0
-build-monitor-plugin:1.13+build.202201171633
+build-monitor-plugin:1.13+build.202201201901
 checks-api:1.7.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:751.vda_24678a_f781
@@ -56,7 +56,7 @@ font-awesome-api:5.15.4-5
 gatling:1.3.0
 git-client:3.11.0
 git-server:1.10
-git:4.10.2
+git:4.10.3
 github-api:1.301-378.v9807bd746da5
 github-branch-source:2.11.4
 github-checks:1.0.16
