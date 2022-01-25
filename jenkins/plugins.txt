@@ -101,8 +101,8 @@ pipeline-stage-step:291.vf0a8a7aeeb50
 pipeline-stage-tags-metadata:1.9.3
 pipeline-stage-view:2.20
 pipeline-utility-steps:2.12.0
-plain-credentials:1.7
-plugin-util-api:2.12.0
+plain-credentials:1.8
+plugin-util-api:2.13.0
 popper-api:1.16.1-2
 prometheus:2.0.10
 pubsub-light:1.16
