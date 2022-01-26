@@ -111,7 +111,7 @@ saml:2.1.1-275.va_5718591a_999
 sauce-ondemand:1.199
 scm-api:595.vd5a_df5eb_0e39
 script-security:1131.v8b_b_5eda_c328e
-slack:2.49
+slack:602.v0da_f7458945d
 snakeyaml-api:1.29.1
 sse-gateway:1.24
 ssh-credentials:1.19
