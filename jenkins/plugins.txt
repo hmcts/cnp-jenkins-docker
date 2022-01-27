@@ -46,7 +46,7 @@ credentials-binding:1.27.1
 credentials:1074.v60e6c29b_b_44b_
 dark-theme:155.v497c78bbdbb3
 display-url-api:2.3.5
-docker-commons:1.18
+docker-commons:1.19
 docker-workflow:1.27
 durable-task:493.v195aefbb0ff2
 echarts-api:5.2.2-2
@@ -113,7 +113,7 @@ scm-api:595.vd5a_df5eb_0e39
 script-security:1131.v8b_b_5eda_c328e
 slack:602.v0da_f7458945d
 snakeyaml-api:1.29.1
-sse-gateway:1.24
+sse-gateway:1.25
 ssh-credentials:1.19
 sshd:3.1.0
 structs:308.v852b473a2b8c
