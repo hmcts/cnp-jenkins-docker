@@ -47,7 +47,7 @@ credentials:1074.v60e6c29b_b_44b_
 dark-theme:155.v497c78bbdbb3
 display-url-api:2.3.5
 docker-commons:1.19
-docker-workflow:1.27
+docker-workflow:1.28
 durable-task:493.v195aefbb0ff2
 echarts-api:5.2.2-2
 extended-read-permission:3.2
