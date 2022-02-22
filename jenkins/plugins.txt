@@ -33,12 +33,12 @@ blueocean:1.25.2
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:2.7.0
-build-monitor-plugin:1.13+build.202202151850
+build-monitor-plugin:1.13+build.202202212113
 checks-api:1.7.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:751.vda_24678a_f781
 cloudbees-disk-usage-simple:0.10
-cloudbees-folder:6.688.vfc7a_a_69059e0
+cloudbees-folder:6.708.ve61636eb_65a_5
 command-launcher:1.6
 configuration-as-code:1346.ve8cfa_3473c94
 copyartifact:1.46.2
@@ -131,7 +131,7 @@ workflow-cps-global-lib:564.ve62a_4eb_b_e039
 workflow-cps:2659.v52d3de6044d0
 workflow-durable-task-step:1121.va_65b_d2701486
 workflow-job:1167.v8fe861b_09ef9
-workflow-multibranch:707.v71c3f0a_6ccdb_
+workflow-multibranch:711.vdfef37cda_816
 workflow-scm-step:2.13
 workflow-step-api:622.vb_8e7c15b_c95a_
 workflow-support:813.vb_d7c3d2984a_0
