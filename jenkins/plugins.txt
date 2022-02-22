@@ -78,7 +78,7 @@ jsch:0.1.55.2
 junit:1.55
 kubernetes-client-api:5.11.2-182.v0f1cf4c5904e
 kubernetes-credentials:0.9.0
-kubernetes:1.31.3
+kubernetes:3538.v6b_005a_ddced1
 lockable-resources:2.14
 mailer:408.vd726a_1130320
 matrix-auth:3.0.1
@@ -110,7 +110,7 @@ run-condition:1.5
 saml:2.1.1-275.va_5718591a_999
 sauce-ondemand:1.199
 scm-api:595.vd5a_df5eb_0e39
-script-security:1131.v8b_b_5eda_c328e
+script-security:1138.v8e727069a_025
 slack:602.v0da_f7458945d
 snakeyaml-api:1.29.1
 sse-gateway:1.25
