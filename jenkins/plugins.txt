@@ -40,7 +40,7 @@ cloudbees-bitbucket-branch-source:756.v081ee2205040
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.708.ve61636eb_65a_5
 command-launcher:1.6
-configuration-as-code:1346.ve8cfa_3473c94
+configuration-as-code:1413.vb_1b_8cb_c67a_f4
 copyartifact:1.46.2
 credentials-binding:1.27.1
 credentials:1074.v60e6c29b_b_44b_
@@ -58,7 +58,7 @@ git-client:3.11.0
 git-server:1.10
 git:4.10.3
 github-api:1.301-378.v9807bd746da5
-github-branch-source:2.11.4
+github-branch-source:1577.v83564088883f
 github-checks:1.0.17
 github:1.34.2
 github-scm-trait-notification-context:1.1
@@ -119,7 +119,7 @@ sshd:3.1.0
 structs:308.v852b473a2b8c
 sonar:2.14
 timestamper:1.17
-token-macro:277.v7c8f82a_d66b_3
+token-macro:280.v97a_82642793c
 theme-manager:0.6
 trilead-api:1.0.13
 variant:1.4
