@@ -36,7 +36,7 @@ branch-api:2.7.0
 build-monitor-plugin:1.13+build.202202212113
 checks-api:1.7.2
 cloud-stats:0.27
-cloudbees-bitbucket-branch-source:756.v081ee2205040
+cloudbees-bitbucket-branch-source:757.vddedc5f2589a_
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.708.ve61636eb_65a_5
 command-launcher:1.6
