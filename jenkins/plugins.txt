@@ -124,7 +124,7 @@ theme-manager:1.0
 trilead-api:1.0.13
 variant:1.4
 windows-azure-storage:373.v582b31a65906
-workflow-aggregator:2.6
+workflow-aggregator:2.7
 workflow-api:1138.v619fd5201b_2f
 workflow-basic-steps:937.v7a_b_7579e07a_3
 workflow-cps-global-lib:564.ve62a_4eb_b_e039
