@@ -41,7 +41,7 @@ cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.708.ve61636eb_65a_5
 command-launcher:1.6
 configuration-as-code:1414.v878271fc496f
-copyartifact:1.46.2
+copyartifact:1.46.3
 credentials-binding:1.27.1
 credentials:1074.v60e6c29b_b_44b_
 dark-theme:157.v2587a07bf876
@@ -66,7 +66,7 @@ handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-1.0
 htmlpublisher:1.29
 http_request:1.14
-jackson2-api:2.13.1-246.va8a9f3eaf46a
+jackson2-api:2.13.2-260.v43d711474c77
 jacoco:3.3.1
 jaxb:2.3.0.1
 javadoc:217.v905b_86277a_2a_
