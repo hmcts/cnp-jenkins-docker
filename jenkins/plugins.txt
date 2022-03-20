@@ -76,9 +76,9 @@ jjwt-api:0.11.2-9.c8b45b8bb173
 job-dsl:1.78.3
 jsch:0.1.55.2
 junit:1.56
-kubernetes-client-api:5.11.2-182.v0f1cf4c5904e
+kubernetes-client-api:5.12.1-187.v577c3e368fb_6
 kubernetes-credentials:0.9.0
-kubernetes:3546.v6103d89542d6
+kubernetes:3568.vde94f6b_41b_c8
 lockable-resources:2.14
 mailer:408.vd726a_1130320
 matrix-auth:3.1
@@ -110,8 +110,8 @@ run-condition:1.5
 saml:2.291.vd3f2cd6d1c3e
 sauce-ondemand:1.199
 scm-api:595.vd5a_df5eb_0e39
-script-security:1140.vf967fb_efa_55a_
-slack:602.v0da_f7458945d
+script-security:1145.vb_cf6cf6ed960
+slack:608.v19e3b_44b_b_9ff
 snakeyaml-api:1.29.1
 sse-gateway:1.25
 ssh-credentials:1.19
@@ -128,7 +128,7 @@ workflow-aggregator:2.7
 workflow-api:1143.v2d42f1e9dea_5
 workflow-basic-steps:941.vdfe1b_a_132c64
 workflow-cps-global-lib:564.ve62a_4eb_b_e039
-workflow-cps:2660.vb_c0412dc4e6d
+workflow-cps:2680.vf642ed4fa_d55
 workflow-durable-task-step:1121.va_65b_d2701486
 workflow-job:1174.vdcb_d054cf74a_
 workflow-multibranch:711.vdfef37cda_816
