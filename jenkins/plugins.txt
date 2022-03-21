@@ -107,7 +107,7 @@ popper-api:1.16.1-2
 prometheus:2.0.11
 pubsub-light:1.16
 run-condition:1.5
-saml:2.291.vd3f2cd6d1c3e
+saml:2.296.v0016349946db_
 sauce-ondemand:1.199
 scm-api:595.vd5a_df5eb_0e39
 script-security:1145.vb_cf6cf6ed960
