@@ -109,7 +109,7 @@ pubsub-light:1.16
 run-condition:1.5
 saml:2.296.v0016349946db_
 sauce-ondemand:1.199
-scm-api:595.vd5a_df5eb_0e39
+scm-api:incrementals;org.jenkins-ci.plugins;596.v32a_eeb_ce4e9e
 script-security:1145.vb_cf6cf6ed960
 slack:608.v19e3b_44b_b_9ff
 snakeyaml-api:1.29.1
