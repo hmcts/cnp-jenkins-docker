@@ -43,7 +43,7 @@ command-launcher:1.6
 configuration-as-code:1414.v878271fc496f
 copyartifact:1.46.3
 credentials-binding:1.27.1
-credentials:1074.v60e6c29b_b_44b_
+credentials:1111.v35a_307992395
 dark-theme:157.v2587a07bf876
 display-url-api:2.3.6
 docker-commons:1.19
