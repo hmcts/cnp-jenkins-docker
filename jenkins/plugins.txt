@@ -58,7 +58,7 @@ git-client:3.11.0
 git-server:1.10
 git:4.11.0
 github-api:1.301-378.v9807bd746da5
-github-branch-source:1583.v18d333ef7379
+github-branch-source:1598.v91207e9f9b_4a_
 github-checks:1.0.18
 github:1.34.3
 github-scm-trait-notification-context:1.1
@@ -118,7 +118,7 @@ sse-gateway:1.25
 ssh-credentials:1.19
 sshd:3.1.0
 structs:308.v852b473a2b8c
-support-core:1140.vb_b_3b_7d866b_a_8
+support-core:1148.vedff8cb_56a_da_
 timestamper:1.17
 token-macro:285.vff7645a_56ff0
 theme-manager:1.1
