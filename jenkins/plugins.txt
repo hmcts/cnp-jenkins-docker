@@ -86,7 +86,7 @@ matrix-project:758.v7a_ea_491852f3
 maven-plugin:3.18
 metrics:4.1.6.1
 momentjs:1.1.1
-monitoring:1.90.0
+monitoring:1.91.0
 pipeline-build-step:2.16
 pipeline-github-lib:36.v4c01db_ca_ed16
 pipeline-graph-analysis:188.v3a01e7973f2c
