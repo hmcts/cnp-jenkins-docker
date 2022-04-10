@@ -121,7 +121,7 @@ structs:308.v852b473a2b8c
 support-core:1148.vedff8cb_56a_da_
 timestamper:1.17
 token-macro:285.vff7645a_56ff0
-theme-manager:1.1
+theme-manager:1.2
 trilead-api:1.57.v6e90e07157e1
 variant:1.4
 windows-azure-storage:373.v582b31a65906
