@@ -87,6 +87,7 @@ maven-plugin:3.18
 metrics:4.1.6.1
 momentjs:1.1.1
 monitoring:1.91.0
+opentelemetry:incrementals;io.jenkins.plugins;2.3.1-rc635.b40e8755dccc
 pipeline-build-step:2.16
 pipeline-github-lib:36.v4c01db_ca_ed16
 pipeline-graph-analysis:188.v3a01e7973f2c
@@ -109,7 +110,7 @@ pubsub-light:1.16
 run-condition:1.5
 saml:2.296.v0016349946db_
 sauce-ondemand:1.199
-scm-api:incrementals;org.jenkins-ci.plugins;596.v32a_eeb_ce4e9e
+scm-api:incrementals;org.jenkins-ci.plugins;599.v8779fb_f2436d
 script-security:1145.vb_cf6cf6ed960
 slack:608.v19e3b_44b_b_9ff
 snakeyaml-api:1.29.1
