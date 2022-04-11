@@ -33,7 +33,7 @@ blueocean:1.25.3
 bootstrap4-api:4.6.0-3
 bouncycastle-api:2.25
 branch-api:incrementals;org.jenkins-ci.plugins;2.7.1-rc1043.a_e8ff696079e
-build-monitor-plugin:1.13+build.202204041635
+build-monitor-plugin:1.13+build.202204111503
 checks-api:1.7.2
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:762.v969cfe087fc0
