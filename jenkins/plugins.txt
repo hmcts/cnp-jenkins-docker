@@ -36,7 +36,7 @@ branch-api:incrementals;org.jenkins-ci.plugins;2.7.1-rc1043.a_e8ff696079e
 build-monitor-plugin:1.13+build.202204111503
 checks-api:1.7.2
 cloud-stats:0.27
-cloudbees-bitbucket-branch-source:762.v969cfe087fc0
+cloudbees-bitbucket-branch-source:765.v5a_2d6a_23c01d
 cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.714.v79e858ef76a_2
 command-launcher:1.6
