@@ -27,13 +27,14 @@ an ACR task will automatically build and publish an image.
 
 ### Jenkins Plugins
 
-[Story for automating PRs of plugin updates and testing](https://dev.azure.com/hmcts/Platform%20Engineering/_backlogs/backlog/Platform%20Engineering%20Team/Stories/?workitem=954)
+Plugins should be automatically updated by a combination of [renovate](https://docs.renovatebot.com/modules/manager/jenkins/) and
+a GitHub action running the [plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool).
 
-We update plugins using the Jenkins [plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool).
-
-Run:
+If you need to manually update plugins you can use:
 ```command
 ./bin/update-plugins.sh
+# or without docker
+./bin/update-plugins-no-docker.sh
 ```
 
 Rebuild the Jenkins container `docker-compose up --build`.
@@ -42,7 +43,7 @@ Check that Jenkins starts up, you can log in, and there's no errors on the 'Mana
 
 Create a PR with the change
 
-### Jenkins Master
+### Jenkins Controller
 
 Normally dependabot will create a PR automatically (https://github.com/hmcts/cnp-jenkins-docker/pull/42), you can approve it and it will be automatically merged.
 
@@ -57,9 +58,9 @@ check that it starts up, you can log in, and there's no errors on the 'Manage Je
 
 Create a pull request with your change in this repo.
 
-After the PR is merged wait a few minutes for the ACR task to build it
+After the PR is merged you can monitor the [GitHub action build](https://github.com/hmcts/cnp-jenkins-docker/actions) waiting for it to complete.
 
-Check for the latest tag in the container registry:
+You can either check the GitHub action log in the 'Build and Push step' to find the new tag or run the below script:
 ```shell
 az acr repository show-tags -n hmctspublic --repository jenkins/jenkins --subscription DCD-CNP-PROD --orderby time_desc --query [0] -o tsv
 ```
@@ -68,7 +69,3 @@ Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-fl
 
 Only merge the PR for prod Jenkins very early in the day, or in very quiet times, it can take ~15 minutes to startup sometimes,
 likely due to the number of jobs and the number of traffic that it gets which slows down the startup.
-
-## To create the ACR task
-
-Run `./bin/acr-task-creation.sh`, which will create the required tasks to automatically re-build the images when you merge a commit to the master branch.
