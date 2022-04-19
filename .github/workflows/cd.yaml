@@ -22,11 +22,20 @@ jobs:
           java-version: 11
       - run: ./bin/update-plugins-no-docker.sh
         name: Update plugins
+
+      - uses: tibdex/github-app-token@v1
+        id: generate-token
+        with:
+          app_id: ${{ secrets.DEPENDENCY_UPDATER_APP_ID }}
+          private_key: ${{ secrets.DEPENDENCY_UPDATER_APP_PRIVATE_KEY }}
+
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
         with:
           commit-message: 'Update Jenkins plugins'
-          author: 'GitHub <41898282+github-actions[bot]@users.noreply.github.com>'
+          token: ${{ steps.generate-token.outputs.token }}
+          author: hmcts-dependency-updater <104018155+hmcts-dependency-updater[bot]@users.noreply.github.com>
+          committer: hmcts-dependency-updater <104018155+hmcts-dependency-updater[bot]@users.noreply.github.com>
           signoff: true
           title: 'Update Jenkins plugins'
