@@ -3,7 +3,7 @@ ansicolor:1.0.1
 antisamy-markup-formatter:2.7
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:191.vfc8019068670
+azure-ad:194.v70a6d5203ce4
 azure-artifact-manager:97.v074e1332e88d
 azure-credentials:216.ve0b_4a_485ffc2
 azure-keyvault:131.v867845ef6ae9
@@ -84,7 +84,7 @@ mailer:408.vd726a_1130320
 matrix-auth:3.1
 matrix-project:758.v7a_ea_491852f3
 maven-plugin:3.18
-metrics:4.1.6.1
+metrics:4.1.6.2
 momentjs:1.1.1
 monitoring:1.91.0
 opentelemetry:incrementals;io.jenkins.plugins;2.3.1-rc633.a6cffa904dab
