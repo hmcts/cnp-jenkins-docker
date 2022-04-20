@@ -153,6 +153,8 @@ unclassified:
   location:
     adminAddress: jenkins-reform@hmcts.net
     url: 'http://localhost:8088'
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleOnOver
   globalLibraries:
     libraries:
       - name: 'Infrastructure'
@@ -211,102 +213,6 @@ credentials:
               secret: '${slack-token}'
               description: Slack token
           - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_cmc"
-              password: "${hmcts-github-apikey-cmc}"
-              scope: GLOBAL
-              username: "jenkins-reform-cmc"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_div"
-              password: "${hmcts-github-apikey-div}"
-              scope: GLOBAL
-              username: "jenkins-reform-div"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_bsp"
-              password: "${hmcts-github-apikey-bsp}"
-              scope: GLOBAL
-              username: "jenkins-reform-bulkscan"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_finrem"
-              password: "${hmcts-github-apikey-finrem}"
-              scope: GLOBAL
-              username: "jenkins-reform-finrem"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_cdm"
-              password: "${hmcts-github-apikey-cdm}"
-              scope: GLOBAL
-              username: "jenkins-reform-cdm"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_iac"
-              password: "${hmcts-github-apikey-iac}"
-              scope: GLOBAL
-              username: "jenkins-reform-iac"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_platform"
-              password: "${hmcts-github-apikey-platform}"
-              scope: GLOBAL
-              username: "jenkins-reform-platform"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_rpa"
-              password: "${hmcts-github-apikey-rpa}"
-              scope: GLOBAL
-              username: "jenkins-reform-rpa"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_sscs"
-              password: "${hmcts-github-apikey-sscs}"
-              scope: GLOBAL
-              username: "jenkins-reform-sscs"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_probate"
-              password: "${hmcts-github-apikey-probate}"
-              scope: GLOBAL
-              username: "jenkins-reform-probate"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_feepay"
-              password: "${hmcts-github-apikey-feepay}"
-              scope: GLOBAL
-              username: "jenkins-reform-feepay"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_sl"
-              password: "${hmcts-github-apikey-sl}"
-              scope: GLOBAL
-              username: "jenkins-reform-sl"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_cnp"
-              password: "${hmcts-github-apikey-cnp}"
-              scope: GLOBAL
-              username: "jenkins-reform-cnp"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_idam"
-              password: "${hmcts-github-apikey-idam}"
-              scope: GLOBAL
-              username: "jenkins-reform-idam"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_cet"
-              password: "${hmcts-github-apikey-cet}"
-              scope: GLOBAL
-              username: "jenkins-reform-cet"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_fpl"
-              password: "${hmcts-github-apikey-fpl}"
-              scope: GLOBAL
-              username: "jenkins-reform-fpl"
-          - usernamePassword:
               description: "SSH credentials for Jenkins agents"
               id: "vm_agent_creds"
               password: "${mgmt-bastion-creds-password}"
@@ -344,42 +250,16 @@ credentials:
               scope: GLOBAL
               subscriptionId: "${jenkins-sp-subscription-id}"
               tenant: "${jenkins-sp-tenant-id}"
-          - usernamePassword:
-              description: "Jenkins-reform-am GitHub API token"
-              id: "jenkins-github-hmcts-api-token_am"
-              password: "${hmcts-github-apikey-am}"
-              scope: GLOBAL
-              username: "jenkins-reform-am"
-          - usernamePassword:
-              description: "Jenkins-reform-ctsc GitHub API token"
-              id: "jenkins-github-hmcts-api-token_ctsc"
-              password: "${hmcts-github-apikey-ctsc}"
-              scope: GLOBAL
-              username: "jenkins-reform-ctsc"
-          - usernamePassword:
-              description: "Jenkins HMCTS GitHub credentials (Username/password format)"
-              id: "jenkins-github-hmcts-api-token_ethos"
-              password: "${hmcts-github-apikey-ethos}"
-              scope: GLOBAL
-              username: "jenkins-reform-ethos"
-          - basicSSHUserPrivateKey:
-              description: "GitHub APP Key - RPE"
-              id: "hmcts-jenkins-rpe"
-              scope: GLOBAL
-              username: "52866"
-              passphrase: ""
-              privateKeySource:
-                directEntry:
-                  privateKey: ${hmcts-jenkins-rpe-ghapp}
-          - basicSSHUserPrivateKey:
-              description: "GitHub APP Key - CNP"
+          - gitHubApp:
+              appID: "52960"
+              description: "GitHub APP Key - cnp"
               id: "hmcts-jenkins-cnp"
-              scope: GLOBAL
-              username: "52960"
-              passphrase: ""
-              privateKeySource:
-                directEntry:
-                  privateKey: ${hmcts-jenkins-cnp-ghapp}
+              privateKey: "${hmcts-jenkins-cnp-ghapp}"
+          - gitHubApp:
+              appID: "149849"
+              description: "GitHub APP Key - cft"
+              id: "hmcts-jenkins-cft"
+              privateKey: "${hmcts-jenkins-cft-ghapp}"
 
 jobs:
   - file: '/usr/share/jenkins/jobdsl/organisations-cnptest.groovy'
