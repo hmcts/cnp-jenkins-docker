@@ -9,7 +9,7 @@ services:
       - '8088:8080'
     environment:
       - CASC_JENKINS_CONFIG=/usr/share/jenkins/jenkins.yaml
-      - JAVA_OPTS='-Djenkins.install.runSetupWizard=false -Dorg.apache.commons.jelly.tags.fmt.timeZone=Europe/London -Dhudson.model.DirectoryBrowserSupport.CSP=\"default-src ''self''; script-src ''self'' ''unsafe-inline''; style-src ''self'' ''unsafe-inline''; font-src data:\"'
+      - JAVA_OPTS=-Djenkins.install.runSetupWizard=false -Dorg.apache.commons.jelly.tags.fmt.timeZone=Europe/London
       - ENVIRONMENT=sandbox
     volumes:
       - './cac-test-local.yml:/usr/share/jenkins/jenkins.yaml'
