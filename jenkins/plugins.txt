@@ -81,7 +81,7 @@ kubernetes-credentials:0.9.0
 kubernetes:3580.v78271e5631dc
 lockable-resources:2.14
 mailer:408.vd726a_1130320
-matrix-auth:3.1
+matrix-auth:3.1.1
 matrix-project:758.v7a_ea_491852f3
 maven-plugin:3.18
 metrics:4.1.6.2
@@ -99,7 +99,7 @@ pipeline-model-definition:2.2075.vce74e77b_ce40
 pipeline-model-extensions:2.2075.vce74e77b_ce40
 pipeline-rest-api:2.23
 pipeline-stage-step:291.vf0a8a7aeeb50
-pipeline-stage-tags-metadata:2.2075.vce74e77b_ce40
+pipeline-stage-tags-metadata:2.2077.vc78ec45162f1
 pipeline-stage-view:2.23
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
