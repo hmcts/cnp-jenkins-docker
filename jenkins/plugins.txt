@@ -42,7 +42,7 @@ cloudbees-folder:6.714.v79e858ef76a_2
 command-launcher:1.6
 configuration-as-code:1429.v09b_044a_c93de
 copyartifact:1.46.3
-credentials-binding:1.27.1
+credentials-binding:523.vd859a_4b_122e6
 credentials:1126.ve05618c41e62
 dark-theme:171.v2540e8184da_0
 display-url-api:2.3.6
@@ -128,7 +128,7 @@ variant:1.4
 windows-azure-storage:373.v582b31a65906
 workflow-aggregator:2.7
 workflow-api:1144.v61c3180fa_03f
-workflow-basic-steps:941.vdfe1b_a_132c64
+workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps-global-lib:570.v21311f4951f8
 workflow-cps:2687.v3f09155513c1
 workflow-durable-task-step:1130.v8fd69d0b_8857
