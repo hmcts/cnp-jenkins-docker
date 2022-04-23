@@ -41,7 +41,7 @@ cloudbees-disk-usage-simple:0.10
 cloudbees-folder:6.714.v79e858ef76a_2
 command-launcher:1.6
 configuration-as-code:1429.v09b_044a_c93de
-copyartifact:1.46.3
+copyartifact:1.46.4
 credentials-binding:523.vd859a_4b_122e6
 credentials:1126.ve05618c41e62
 dark-theme:171.v2540e8184da_0
@@ -65,7 +65,7 @@ github-scm-trait-notification-context:1.1
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.29
-http_request:1.14
+http_request:1.15
 jackson2-api:2.13.2.20220328-273.v11d70a_b_a_1a_52
 jacoco:3.3.1
 jaxb:2.3.0.1
