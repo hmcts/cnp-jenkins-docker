@@ -48,7 +48,7 @@ dark-theme:171.v2540e8184da_0
 display-url-api:2.3.6
 docker-commons:1.19
 docker-workflow:1.28
-durable-task:495.v29cd95ec10f2
+durable-task:496.va67c6f9eefa7
 echarts-api:5.3.2-1
 extended-read-permission:3.2
 favorite:2.4.1
@@ -118,7 +118,7 @@ sonar:2.14
 sse-gateway:1.25
 ssh-credentials:1.19
 sshd:3.228.v4c9f9e652c86
-structs:308.v852b473a2b8c
+structs:317.vf68c51f71b_e2
 support-core:1158.v9189f64fec8c
 timestamper:1.17
 token-macro:293.v283932a_0a_b_49
