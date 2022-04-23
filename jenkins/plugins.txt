@@ -88,7 +88,7 @@ metrics:4.1.6.2
 momentjs:1.1.1
 monitoring:1.91.0
 opentelemetry:incrementals;io.jenkins.plugins;2.3.1-rc633.a6cffa904dab
-pipeline-build-step:2.17
+pipeline-build-step:2.18
 pipeline-github-lib:36.v4c01db_ca_ed16
 pipeline-graph-analysis:195.v5812d95a_a_2f9
 pipeline-graph-view:51.v5a693b766483
