@@ -31,7 +31,7 @@ blueocean-rest:1.25.3
 blueocean-web:1.25.3
 blueocean:1.25.3
 bootstrap4-api:4.6.0-4
-bouncycastle-api:2.25
+bouncycastle-api:2.26
 branch-api:2.1046.v0ca_37783ecc5
 build-monitor-plugin:1.13+build.202204241251
 checks-api:1.7.3
@@ -116,7 +116,7 @@ slack:608.v19e3b_44b_b_9ff
 snakeyaml-api:1.30.1
 sonar:2.14
 sse-gateway:1.25
-ssh-credentials:1.19
+ssh-credentials:277.v95c2fec1c047
 sshd:3.228.v4c9f9e652c86
 structs:318.va_f3ccb_729b_71
 support-core:1162.vb_b_e5198c6b_22
