@@ -33,7 +33,7 @@ blueocean:1.25.3
 bootstrap4-api:4.6.0-4
 bouncycastle-api:2.25
 branch-api:2.1046.v0ca_37783ecc5
-build-monitor-plugin:1.13+build.202204181545
+build-monitor-plugin:1.13+build.202204241251
 checks-api:1.7.3
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:765.v5a_2d6a_23c01d
