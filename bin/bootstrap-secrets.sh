@@ -37,5 +37,12 @@ readSecret jenkins-sp-client-id
 readSecret jenkins-sp-client-secret
 readSecret jenkins-sp-tenant-id
 
-readSecret hmcts-jenkins-cft-ghapp
-readSecret hmcts-jenkins-cnp-ghapp
+readSecret hmcts-jenkins-a-to-c-ghapp
+readSecret hmcts-jenkins-a-to-c-appid
+
+readSecret hmcts-jenkins-d-to-i-ghapp
+readSecret hmcts-jenkins-d-to-i-appid
+
+readSecret hmcts-jenkins-j-to-z-ghapp
+readSecret hmcts-jenkins-j-to-z-appid
+  
