@@ -8,7 +8,7 @@ i.e.
 $ ls cnp-jenkins-
 cnp-jenkins-config/  cnp-jenkins-docker/
 ```
-Run `./bin/bootstrap-secrets.sh dtscftsboxintsvckv`, which will fetch the secrets required from the sandbox key vault.
+Run `./bin/bootstrap-secrets.sh cftsbox-intsvc`, which will fetch the secrets required from the sandbox key vault.
 
 Then run `docker-compose up -d`
 

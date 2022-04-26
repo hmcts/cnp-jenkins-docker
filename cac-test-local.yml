@@ -251,15 +251,20 @@ credentials:
               subscriptionId: "${jenkins-sp-subscription-id}"
               tenant: "${jenkins-sp-tenant-id}"
           - gitHubApp:
-              appID: "52960"
-              description: "GitHub APP Key - cnp"
-              id: "hmcts-jenkins-cnp"
-              privateKey: "${hmcts-jenkins-cnp-ghapp}"
+              appID: "${hmcts-jenkins-a-to-c-appid}"
+              description: "GitHub APP Key - A to C"
+              id: "hmcts-jenkins-a-to-c"
+              privateKey: "${hmcts-jenkins-a-to-c-ghapp}"
           - gitHubApp:
-              appID: "149849"
-              description: "GitHub APP Key - cft"
-              id: "hmcts-jenkins-cft"
-              privateKey: "${hmcts-jenkins-cft-ghapp}"
+              appID: "${hmcts-jenkins-d-to-i-appid}"
+              description: "GitHub APP Key - D to I"
+              id: "hmcts-jenkins-d-to-i"
+              privateKey: "${hmcts-jenkins-d-to-i-ghapp}"
+          - gitHubApp:
+              appID: "${hmcts-jenkins-j-to-z-appid}"
+              description: "GitHub APP Key - J to Z"
+              id: "hmcts-jenkins-j-to-z"
+              privateKey: "${hmcts-jenkins-j-to-z-ghapp}"
 
 jobs:
   - file: '/usr/share/jenkins/jobdsl/organisations-cnptest.groovy'
