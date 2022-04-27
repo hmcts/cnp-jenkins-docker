@@ -110,7 +110,7 @@ pubsub-light:1.16
 run-condition:1.5
 saml:2.296.v0016349946db_
 sauce-ondemand:1.199
-scm-api:602.v6a_81757a_31d2
+scm-api:608.vfa_f971c5a_a_e9
 script-security:1158.v7c1b_73a_69a_08
 slack:608.v19e3b_44b_b_9ff
 snakeyaml-api:1.30.1
