@@ -80,7 +80,7 @@ kubernetes-client-api:5.12.1-187.v577c3e368fb_6
 kubernetes-credentials:0.9.0
 kubernetes:3580.v78271e5631dc
 lockable-resources:2.14
-mailer:408.vd726a_1130320
+mailer:414.vcc4c33714601
 matrix-auth:3.1.1
 matrix-project:758.v7a_ea_491852f3
 maven-plugin:3.18
