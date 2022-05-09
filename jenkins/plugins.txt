@@ -127,7 +127,7 @@ trilead-api:1.57.v6e90e07157e1
 variant:1.4
 windows-azure-storage:373.v582b31a65906
 workflow-aggregator:2.7
-workflow-api:1144.v61c3180fa_03f
+workflow-api:1153.vb_912c0e47fb_a_
 workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps-global-lib:575.v24fa_0a_b_f7383
 workflow-cps:2689.v434009a_31b_f1
