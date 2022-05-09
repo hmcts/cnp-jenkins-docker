@@ -1,3 +1,5 @@
+Tried downloading update-center-2.346 from https://updates.jenkins.io/dynamic-2.344/update-center.json (attempt 1 of 3)
+Tried downloading plugin-versions from https://updates.jenkins.io/current/plugin-versions.json (attempt 1 of 3)
 ace-editor:1.1
 ansicolor:1.0.1
 antisamy-markup-formatter:2.7
@@ -33,7 +35,7 @@ blueocean:1.25.3
 bootstrap4-api:4.6.0-5
 bouncycastle-api:2.26
 branch-api:2.1046.v0ca_37783ecc5
-build-monitor-plugin:1.13+build.202204241251
+build-monitor-plugin:1.13+build.202205071934
 checks-api:1.7.4
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:765.v5a_2d6a_23c01d
