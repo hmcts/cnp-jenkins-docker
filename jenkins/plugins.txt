@@ -3,7 +3,7 @@ ansicolor:1.0.1
 antisamy-markup-formatter:2.7
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:213.v5b_00db_295f49
+azure-ad:218.v90f6a_980b_a_61
 azure-artifact-manager:97.v074e1332e88d
 azure-credentials:216.ve0b_4a_485ffc2
 azure-keyvault:136.veb1d1296db97
@@ -87,7 +87,7 @@ maven-plugin:3.18
 metrics:4.1.6.2
 momentjs:1.1.1
 monitoring:1.91.0
-opentelemetry:2.6.0-rc1
+opentelemetry:2.6.0
 pipeline-build-step:2.18
 pipeline-github-lib:36.v4c01db_ca_ed16
 pipeline-graph-analysis:195.v5812d95a_a_2f9
@@ -129,7 +129,7 @@ windows-azure-storage:373.v582b31a65906
 workflow-aggregator:2.7
 workflow-api:1153.vb_912c0e47fb_a_
 workflow-basic-steps:948.v2c72a_091b_b_68
-workflow-cps-global-lib:575.v24fa_0a_b_f7383
+workflow-cps-global-lib:581.ve633085a_8a_87
 workflow-cps:2689.v434009a_31b_f1
 workflow-durable-task-step:1139.v252a_e12e8463
 workflow-job:1180.v04c4e75dce43
