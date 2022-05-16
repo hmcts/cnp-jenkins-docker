@@ -66,7 +66,7 @@ handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.30
 http_request:1.15
-jackson2-api:2.13.2.20220328-281.v9ecc7a_5e834f
+jackson2-api:2.13.3-285.vc03c0256d517
 jacoco:3.3.2
 jaxb:2.3.6-1
 javadoc:217.v905b_86277a_2a_
