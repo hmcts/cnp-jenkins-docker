@@ -1,6 +1,7 @@
 # cnp-jenkins-docker
 Jenkins docker image
 
+
 ## Testing locally
 You need to checkout the cnp-jenkins-config and place it next to the cnp-jenkins-docker repo
 i.e.
