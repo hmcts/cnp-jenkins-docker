@@ -117,7 +117,7 @@ snakeyaml-api:1.30.1
 sonar:2.14
 sse-gateway:1.25
 ssh-credentials:277.v95c2fec1c047
-sshd:3.228.v4c9f9e652c86
+sshd:3.236.ved5e1b_cb_50b_2
 structs:318.va_f3ccb_729b_71
 support-core:1174.vc46f6b_04d894
 timestamper:1.17
