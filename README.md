@@ -62,7 +62,7 @@ After the PR is merged you can monitor the [GitHub action build](https://github.
 
 You can either check the GitHub action log in the 'Build and Push step' to find the new tag or run the below script:
 ```shell
-az acr repository show-tags -n hmctspublic --repository jenkins/jenkins --subscription DCD-CNP-PROD --orderby time_desc --query [0] -o tsv
+az acr repository show-tags -n hmctspublic --repository jenkins/jenkins --subscription DCD-CNP-PROD --orderby time_desc --query "[?\!starts_with(@, 'pr')] | [0]" -o tsv
 ```
 
 Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-flux-config/blob/master/apps/jenkins/jenkins/jenkins.yaml#L15).
