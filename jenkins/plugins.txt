@@ -44,7 +44,7 @@ configuration-as-code:1429.v09b_044a_c93de
 copyartifact:1.46.4
 credentials-binding:523.vd859a_4b_122e6
 credentials:1129.vef26f5df883c
-dark-theme:180.vff872db_1b_de6
+dark-theme:183.vcf51f72075b_8
 display-url-api:2.3.6
 docker-commons:1.19
 docker-workflow:1.28
