@@ -75,7 +75,7 @@ jenkins-design-language:1.25.5
 jjwt-api:0.11.2-71.v2722b_b_06a_2a_f
 job-dsl:1.79
 jsch:0.1.55.2
-junit:1.63
+junit:1119.va_a_5e9068da_d7
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
 kubernetes:3600.v144b_cd192ca_a_
@@ -87,7 +87,7 @@ maven-plugin:3.18
 metrics:4.1.6.2
 momentjs:1.1.1
 monitoring:1.91.0
-opentelemetry:2.7.0
+opentelemetry:2.7.1-rc2
 pipeline-build-step:2.18
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:195.v5812d95a_a_2f9
