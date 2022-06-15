@@ -3,7 +3,7 @@ ansicolor:1.0.1
 antisamy-markup-formatter:2.7
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
-azure-ad:218.v90f6a_980b_a_61
+azure-ad:233.v934e074916c7
 azure-artifact-manager:97.v074e1332e88d
 azure-credentials:216.ve0b_4a_485ffc2
 azure-keyvault:136.veb1d1296db97
@@ -78,7 +78,7 @@ jsch:0.1.55.2
 junit:1119.va_a_5e9068da_d7
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
-kubernetes:3636.v84b_a_1dea_6240
+kubernetes:3646.va_b_469a_7666b_7
 lockable-resources:2.15
 mailer:414.vcc4c33714601
 matrix-auth:3.1.2
