@@ -8,7 +8,7 @@ azure-artifact-manager:97.v074e1332e88d
 azure-credentials:216.ve0b_4a_485ffc2
 azure-keyvault:136.veb1d1296db97
 azure-sdk:106.v552de1e64d56
-azure-vm-agents:816.v27bbb474b2b2
+azure-vm-agents:822.v3a18fc3d2de1
 basic-branch-build-strategies:1.3.2
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.25.5
@@ -87,7 +87,7 @@ maven-plugin:3.19
 metrics:4.1.6.2
 momentjs:1.1.1
 monitoring:1.91.0
-opentelemetry:2.7.1
+opentelemetry:2.8.0-rc1
 pipeline-build-step:2.18
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:195.v5812d95a_a_2f9
