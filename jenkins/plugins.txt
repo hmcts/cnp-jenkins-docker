@@ -81,7 +81,7 @@ kubernetes-credentials:0.9.0
 kubernetes:3651.v908e7db_10d06
 lockable-resources:2.15
 mailer:414.vcc4c33714601
-matrix-auth:3.1.4
+matrix-auth:3.1.5
 matrix-project:772.v494f19991984
 maven-plugin:3.19
 metrics:4.1.6.2
