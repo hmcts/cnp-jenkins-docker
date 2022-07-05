@@ -5,7 +5,7 @@ apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
 azure-ad:241.vb_e5cd7c35b_2e
 azure-artifact-manager:97.v074e1332e88d
-azure-cosmosdb:1.vd506a_7d9c28e:https://github.com/timja/azure-cosmosdb-plugin-temp-binaries/releases/download/1.vd506a_7d9c28e/azure-cosmosdb.hpi
+azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:216.ve0b_4a_485ffc2
 azure-keyvault:136.veb1d1296db97
 azure-sdk:118.v43f74dd9ca_dc
