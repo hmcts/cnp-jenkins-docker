@@ -74,7 +74,7 @@ javadoc:217.v905b_86277a_2a_
 jdk-tool:1.5
 jenkins-design-language:1.25.5
 jjwt-api:0.11.5-77.v646c772fddb_0
-job-dsl:1.80
+job-dsl:1.81
 jsch:0.1.55.2
 junit:1119.1121.vc43d0fc45561
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
