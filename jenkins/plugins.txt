@@ -38,7 +38,7 @@ build-monitor-plugin:1.13+build.202205140447
 checks-api:1.7.4
 cloud-stats:0.27
 cloudbees-bitbucket-branch-source:773.v4b_9b_005b_562b_
-cloudbees-disk-usage-simple:0.10
+cloudbees-disk-usage-simple:170.va_fd5b_4ee6858
 cloudbees-folder:6.729.v2b_9d1a_74d673
 command-launcher:84.v4a_97f2027398
 configuration-as-code:1512.vb_79d418d5fc8
