@@ -1,5 +1,5 @@
 ace-editor:1.1
-ansicolor:1.0.1
+ansicolor:1.0.2
 antisamy-markup-formatter:2.7
 apache-httpcomponents-client-4-api:4.5.13-1.0
 authentication-tokens:1.4
@@ -123,7 +123,7 @@ sshd:3.242.va_db_9da_b_26a_c3
 structs:324.va_f5d6774f3a_d
 support-core:1204.v7ee88742a_53f
 timestamper:1.18
-token-macro:293.v283932a_0a_b_49
+token-macro:308.v4f2b_ed62b_b_16
 theme-manager:1.4
 trilead-api:1.67.vc3938a_35172f
 variant:1.4
