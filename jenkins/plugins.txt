@@ -1,7 +1,7 @@
 ace-editor:1.1
 ansicolor:1.0.2
 antisamy-markup-formatter:2.7
-apache-httpcomponents-client-4-api:4.5.13-1.0
+apache-httpcomponents-client-4-api:4.5.13-138.v4e7d9a_7b_a_e61
 authentication-tokens:1.4
 azure-ad:241.vb_e5cd7c35b_2e
 azure-artifact-manager:108.v7989b9c6a1c5
@@ -119,7 +119,7 @@ snakeyaml-api:1.30.2-76.vc104f7ce9870
 sonar:2.14
 sse-gateway:1.25
 ssh-credentials:295.vced876c18eb_4
-sshd:3.242.va_db_9da_b_26a_c3
+sshd:3.249.v2dc2ea_416e33
 structs:324.va_f5d6774f3a_d
 support-core:1204.v7ee88742a_53f
 timestamper:1.18
@@ -130,7 +130,7 @@ variant:59.vf075fe829ccb
 windows-azure-storage:378.vb2cb9797e1e5
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1188.v0016b_4f29881
-workflow-basic-steps:980.v82219a_ed188e
+workflow-basic-steps:986.v6b_9c830a_6b_37
 workflow-cps:2759.v87459c4eea_ca_
 workflow-durable-task-step:1199.v02b_9244f8064
 workflow-job:1232.v5a_4c994312f1
