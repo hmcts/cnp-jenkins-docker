@@ -47,7 +47,7 @@ credentials-binding:523.vd859a_4b_122e6
 credentials:1139.veb_9579fca_33b_
 dark-theme:185.v276b_5a_8966a_e
 display-url-api:2.3.6
-docker-commons:1.19
+docker-commons:1.20
 docker-workflow:521.v1a_a_dd2073b_2e
 durable-task:500.v8927d9fd99d8
 echarts-api:5.3.3-1
