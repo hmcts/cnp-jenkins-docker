@@ -7,7 +7,7 @@ azure-ad:267.v5b_dfb_514d9fd
 azure-artifact-manager:108.v7989b9c6a1c5
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:216.ve0b_4a_485ffc2
-azure-keyvault:136.veb1d1296db97
+azure-keyvault:143.v73ce6f5bcdbc
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
 basic-branch-build-strategies:1.3.2
@@ -45,7 +45,7 @@ configuration-as-code:1512.vb_79d418d5fc8
 copyartifact:1.47
 credentials-binding:523.vd859a_4b_122e6
 credentials:1143.vb_e8b_b_ceee347
-dark-theme:185.v276b_5a_8966a_e
+dark-theme:245.vb_a_2b_b_010ea_96
 display-url-api:2.3.6
 docker-commons:1.21
 docker-workflow:521.v1a_a_dd2073b_2e
@@ -59,7 +59,7 @@ git-client:3.11.2
 git:4.11.5
 github-api:1.303-400.v35c2d8258028
 github-branch-source:1687.v7618247e672d
-github-checks:1.0.18
+github-checks:1.0.19
 github:1.35.0
 github-scm-trait-notification-context:1.1
 handlebars:3.0.8
