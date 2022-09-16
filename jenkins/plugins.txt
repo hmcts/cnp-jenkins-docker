@@ -64,7 +64,7 @@ github:1.35.0
 github-scm-trait-notification-context:1.1
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
-htmlpublisher:1.30
+htmlpublisher:1.31
 http_request:1.16
 instance-identity:116.vf8f487400980
 jackson2-api:2.13.3-285.vc03c0256d517
