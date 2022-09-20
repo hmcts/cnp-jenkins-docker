@@ -53,7 +53,7 @@ durable-task:500.v8927d9fd99d8
 echarts-api:5.3.3-1
 extended-read-permission:3.2
 favorite:2.4.1
-font-awesome-api:6.1.2-1
+font-awesome-api:6.2.0-1
 gatling:1.3.0
 git-client:3.12.0
 git:4.12.1
@@ -114,7 +114,7 @@ saml:4.352.vb_722786ea_79d
 sauce-ondemand:1.207
 scm-api:621.vda_a_b_055e58f7
 script-security:1183.v774b_0b_0a_a_451
-slack:616.v03b_1e98d13dd
+slack:625.va_eeb_b_168ffb_0
 snakeyaml-api:1.31-84.ve43da_fb_49d0b
 sonar:2.14
 sse-gateway:1.26
