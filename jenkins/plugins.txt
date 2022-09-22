@@ -53,7 +53,7 @@ durable-task:500.v8927d9fd99d8
 echarts-api:5.3.3-1
 extended-read-permission:3.2
 favorite:2.4.1
-font-awesome-api:6.2.0-2
+font-awesome-api:6.2.0-3
 gatling:1.3.0
 git-client:3.12.0
 git:4.12.1
@@ -92,7 +92,7 @@ opentelemetry:2.9.2
 pipeline-build-step:2.18
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:195.v5812d95a_a_2f9
-pipeline-graph-view:96.v2f4958ef9b_a_b
+pipeline-graph-view:97.vf8a_7e8cfa_a_34
 pipeline-groovy-lib:612.v84da_9c54906d
 pipeline-input-step:451.vf1a_a_4f405289
 pipeline-milestone-step:101.vd572fef9d926
