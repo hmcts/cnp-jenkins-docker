@@ -10,7 +10,7 @@ azure-credentials:242.vb_f9c4fa_6b_2b_6
 azure-keyvault:146.v0df546b_c98a_5
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
-basic-branch-build-strategies:1.3.2
+basic-branch-build-strategies:71.vc1421f89888e
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.25.8
 blueocean-commons:1.25.8
@@ -67,7 +67,7 @@ handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.31
 http_request:1.16
 instance-identity:116.vf8f487400980
-jackson2-api:2.13.4-293.vee957901b_6fb
+jackson2-api:2.13.4.20221013-295.v8e29ea_354141
 jacoco:3.3.2
 jaxb:2.3.6-2
 javadoc:226.v71211feb_e7e9
