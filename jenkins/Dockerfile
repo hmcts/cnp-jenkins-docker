@@ -2,7 +2,9 @@ FROM jenkins/jenkins:2.375-jdk11
 
 USER root
 RUN apt-get update \
-    && apt-get install -y curl \
+    && apt-get install --no-install-recommends -y curl \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* \
     && curl --fail --location https://github.com/timja/jenkins/releases/download/debug-broken-symbol/jenkins.war -o /usr/share/jenkins/jenkins.war
 USER jenkins
 
