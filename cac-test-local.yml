@@ -73,6 +73,147 @@ jenkins:
             virtualMachineSize: "Standard_D4_v3"
             virtualNetworkName: "mgmt-infra-sandbox"
             virtualNetworkResourceGroupName: "mgmt-infra-sandbox"
+    - kubernetes:
+        addMasterProxyEnvVars: true
+        containerCap: 10
+        containerCapStr: "10"
+        jenkinsTunnel: "jenkins-agent:50000"
+        jenkinsUrl: "http://jenkins:8080"
+        maxRequestsPerHost: 32
+        maxRequestsPerHostStr: "32"
+        name: "kubernetes"
+        namespace: "jenkins"
+        podLabels:
+          - key: "aadpodidbinding"
+            value: "jenkins"
+          - key: "cloud"
+            value: "kubernetes"
+        templates:
+          - activeDeadlineSeconds: 120
+            activeDeadlineSecondsStr: "120"
+            containers:
+              - args: "/bin/sh -c cat"
+                command: "/tini --"
+                image: "hmctspublic.azurecr.io/jenkins/build-agent:db8a7c"
+                livenessProbe:
+                  failureThreshold: 3
+                  initialDelaySeconds: 150
+                  periodSeconds: 15
+                  successThreshold: 1
+                  timeoutSeconds: 5
+                name: "inbound-agent"
+                resourceLimitCpu: "3000m"
+                resourceLimitMemory: "8Gi"
+                resourceRequestCpu: "1000m"
+                resourceRequestMemory: "2Gi"
+                ttyEnabled: true
+                workingDir: "/home/jenkins/agent"
+              - image: "hmctspublic.azurecr.io/jenkins/minimal-agent:db6hu6"
+                livenessProbe:
+                  failureThreshold: 3
+                  initialDelaySeconds: 150
+                  periodSeconds: 15
+                  successThreshold: 1
+                  timeoutSeconds: 5
+                name: "jnlp"
+                resourceLimitCpu: "2000m"
+                resourceLimitMemory: "6Gi"
+                resourceRequestCpu: "500m"
+                resourceRequestMemory: "1Gi"
+                ttyEnabled: false
+                workingDir: "/home/jenkins/agent"
+            hostNetwork: false
+            idleMinutes: 10
+            idleMinutesStr: "10"
+            instanceCap: 10
+            instanceCapStr: "10"
+            label: "k8s-agent"
+            name: "k8s-inbound-agent"
+            namespace: "jenkins"
+            podRetention: "never"
+            serviceAccount: "jenkins"
+            supplementalGroups: "118"
+            volumes:
+              - hostPathVolume:
+                  hostPath: "/var/run/docker.sock"
+                  mountPath: "/var/run/docker.sock"
+              - emptyDirVolume:
+                  memory: false
+                  mountPath: "/opt/jenkins"
+              - emptyDirVolume:
+                  memory: false
+                  mountPath: "/home/jenkins/.ssh"
+              - hostPathVolume:
+                  hostPath: "/tmp/jenkins-agent"
+                  mountPath: "/tmp/jenkins-agent"
+            yaml: |-
+              metadata:
+                labels:
+                  app.kubernetes.io/name: jenkins
+                  app.kubernetes.io/component: jenkins-agent
+              spec:
+                securityContext:
+                  runAsUser: 1000
+                  fsGroup: 118
+                initContainers:
+                - name: init-agent
+                  image: hmctspublic.azurecr.io/jenkins/minimal-agent:db6hu6
+                  command:
+                    - /bin/sh
+                    - -c
+                    - "chown 0:118 /tmp/jenkins-agent && chmod g+rwx /tmp/jenkins-agent"
+                  volumeMounts:
+                    - mountPath: /tmp/jenkins-agent
+                      name: volume-3
+                  securityContext:
+                    runAsUser: 0
+                    runAsGroup: 0
+                    privileged: true
+                affinity:
+                  podAntiAffinity:
+                    requiredDuringSchedulingIgnoredDuringExecution:
+                      - labelSelector:
+                          matchExpressions:
+                            - key: app.kubernetes.io/component
+                              operator: In
+                              values:
+                                - jenkins-master
+                        topologyKey: "kubernetes.io/hostname"
+            yamlMergeStrategy: "merge"
+            yamls:
+              - |-
+                metadata:
+                  labels:
+                    app.kubernetes.io/name: jenkins
+                    app.kubernetes.io/component: jenkins-agent
+                spec:
+                  securityContext:
+                    runAsUser: 1000
+                    fsGroup: 118
+                  initContainers:
+                  - name: init-agent
+                    image: hmctspublic.azurecr.io/jenkins/minimal-agent:db6hu6
+                    command:
+                      - /bin/sh
+                      - -c
+                      - "chown 0:118 /tmp/jenkins-agent && chmod g+rwx /tmp/jenkins-agent"
+                    volumeMounts:
+                      - mountPath: /tmp/jenkins-agent
+                        name: volume-3
+                    securityContext:
+                      runAsUser: 0
+                      runAsGroup: 0
+                      privileged: true
+                  affinity:
+                    podAntiAffinity:
+                      requiredDuringSchedulingIgnoredDuringExecution:
+                        - labelSelector:
+                            matchExpressions:
+                              - key: app.kubernetes.io/component
+                                operator: In
+                                values:
+                                  - jenkins-master
+                          topologyKey: "kubernetes.io/hostname"
   systemMessage: >-
     This jenkins is managed by configuration as code, update <a
     href="https://github.com/hmcts/cnp-jenkins-config/blob/master/cac-test.yml">here</a>
@@ -109,39 +250,51 @@ jenkins:
   views:
     - all:
         name: all
+    - buildMonitor:
+        includeRegex: >-
+          ^HMCTS_.*(Platform|CNP).*\/(draft-store|rpe-pdf-service|feature-toggle-api|service-auth-provider-app|spring-boot-template|cnp-rhubarb-recipes-service|cnp-plum-recipes-service|cnp-plum-frontend|cnp-plum-shared-infrastructure)\/master
+        name: Platform
+        recurse: true
+        title: Platform
+    - buildMonitor:
+        includeRegex: >-
+          ^HMCTS_.*LABS-.*\/.+\/master
+        name: LABS
+        recurse: true
+        title: Labs
   authorizationStrategy:
     globalMatrix:
       permissions:
-        - "Overall/Administer:authenticated"
-        - "Overall/Administer:e7ea2042-4ced-45dd-8ae3-e051c6551789"
-        - "Overall/Read:authenticated"
-        - "View/Create:authenticated"
-        - "View/Read:authenticated"
-        - "View/Configure:authenticated"
-        - "View/Delete:authenticated"
-        - "Agent/Create:authenticated"
-        - "Agent/Build:authenticated"
-        - "Agent/Connect:authenticated"
-        - "Agent/Delete:authenticated"
-        - "Agent/Configure:authenticated"
-        - "Agent/Disconnect:authenticated"
-        - "Run/Delete:authenticated"
-        - "Run/Replay:authenticated"
-        - "Run/Update:authenticated"
-        - "Job/Configure:authenticated"
-        - "Job/Cancel:authenticated"
-        - "Job/Read:authenticated"
-        - "Job/Build:authenticated"
-        - "Job/Move:authenticated"
-        - "Job/Discover:authenticated"
-        - "Job/Discover:anonymous"
-        - "Job/Create:authenticated"
-        - "Job/Workspace:authenticated"
-        - "Job/Delete:authenticated"
-        - "Credentials/View:authenticated"
-        - "Lockable Resources/Unlock:authenticated"
-        - "Lockable Resources/Reserve:authenticated"
-        - "SCM/Tag:authenticated"
+        - "GROUP:Overall/Administer:authenticated"
+        - "GROUP:Overall/Administer:e7ea2042-4ced-45dd-8ae3-e051c6551789"
+        - "GROUP:Overall/Read:authenticated"
+        - "GROUP:View/Create:authenticated"
+        - "GROUP:View/Read:authenticated"
+        - "GROUP:View/Configure:authenticated"
+        - "GROUP:View/Delete:authenticated"
+        - "GROUP:Agent/Create:authenticated"
+        - "GROUP:Agent/Build:authenticated"
+        - "GROUP:Agent/Connect:authenticated"
+        - "GROUP:Agent/Delete:authenticated"
+        - "GROUP:Agent/Configure:authenticated"
+        - "GROUP:Agent/Disconnect:authenticated"
+        - "GROUP:Run/Delete:authenticated"
+        - "GROUP:Run/Replay:authenticated"
+        - "GROUP:Run/Update:authenticated"
+        - "GROUP:Job/Configure:authenticated"
+        - "GROUP:Job/Cancel:authenticated"
+        - "GROUP:Job/Read:authenticated"
+        - "GROUP:Job/Build:authenticated"
+        - "GROUP:Job/Move:authenticated"
+        - "GROUP:Job/Discover:authenticated"
+        - "USER:Job/Discover:anonymous"
+        - "GROUP:Job/Create:authenticated"
+        - "GROUP:Job/Workspace:authenticated"
+        - "GROUP:Job/Delete:authenticated"
+        - "GROUP:Credentials/View:authenticated"
+        - "GROUP:Lockable Resources/Unlock:authenticated"
+        - "GROUP:Lockable Resources/Reserve:authenticated"
+        - "GROUP:SCM/Tag:authenticated"
   securityRealm:
     local:
       allowsSignup: false
@@ -183,20 +336,43 @@ unclassified:
   slackNotifier:
     teamDomain: hmcts-reform
     tokenCredentialId: slack-token
+    botUser: true
+  globalDefaultFlowDurabilityLevel:
+    durabilityHint: PERFORMANCE_OPTIMIZED
   themeManager:
     theme: "darkSystem"
   azureKeyVault:
     keyVaultURL: https://infra-vault-sandbox.vault.azure.net
     credentialID: jenkinsServicePrincipal
-  #sonarGlobalConfiguration:
-    #buildWrapperEnabled: false
-    #installations:
-      #- additionalAnalysisProperties: sonar.organization=hmcts
-        #name: SonarQube
-        #credentialsId: 'sonarcloud-api-token'
-        #serverUrl: 'https://sonarcloud.io'
+  sonarGlobalConfiguration:
+    installations:
+      - additionalAnalysisProperties: sonar.organization=hmcts
+        name: SonarQube
+        credentialsId: 'sonarcloud-api-token'
+        serverUrl: 'https://sonarcloud.io'
   timestamper:
     allPipelines: true
+  buildDiscarders:
+    configuredBuildDiscarders:
+      - "jobBuildDiscarder"
+      - simpleBuildDiscarder:
+          discarder:
+            logRotator:
+              artifactDaysToKeepStr: "14"
+              artifactNumToKeepStr: "20"
+              daysToKeepStr: "14"
+              numToKeepStr: "20"
+  openTelemetry:
+    authentication: "noAuthentication"
+    disabledResourceProviders: "io.opentelemetry.sdk.extension.resources.ProcessResourceProvider"
+    endpoint: "http://opentelemetry-collector.monitoring:4317"
+    exportOtelConfigurationAsEnvironmentVariables: false
+    ignoredSteps: "dir,echo,isUnix,pwd,properties"
+    serviceName: "jenkins"
+    serviceNamespace: "jenkins"
+    observabilityBackends:
+      - dynatrace:
+          url: "https://yrk32651.live.dynatrace.com/"
 
 credentials:
   system:

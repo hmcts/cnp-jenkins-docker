@@ -1,5 +1,11 @@
 FROM jenkins/jenkins:2.375-jdk11
 
+USER root
+RUN apt-get update \
+    && apt-get install -y curl \
+    && curl --fail --location https://github.com/timja/jenkins/releases/download/debug-broken-symbol/jenkins.war -o /usr/share/jenkins/jenkins.war
+USER jenkins
+
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
 
 RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
