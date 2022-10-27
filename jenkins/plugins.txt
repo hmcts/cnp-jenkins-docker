@@ -72,6 +72,7 @@ jackson2-api:2.13.4.20221013-295.v8e29ea_354141
 jacoco:3.3.2
 jaxb:2.3.7-1
 javadoc:226.v71211feb_e7e9
+javax-mail-api:1.6.2-8
 jdk-tool:55.v1b_32b_6ca_f9ca
 jenkins-design-language:1.25.8
 jjwt-api:0.11.5-77.v646c772fddb_0
