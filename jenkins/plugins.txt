@@ -36,7 +36,7 @@ bouncycastle-api:2.26
 branch-api:2.1046.v0ca_37783ecc5
 build-monitor-plugin:1.13+build.202205140447
 checks-api:1.7.5
-cloud-stats:0.27
+cloud-stats:incrementals;org.jenkins-ci.plugins;<REPLACE-WITH-VERSION>
 cloudbees-bitbucket-branch-source:791.vb_eea_a_476405b
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudbees-folder:6.773.vd2dcc704ee7e

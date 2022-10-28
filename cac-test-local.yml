@@ -6,7 +6,7 @@ jenkins:
         azureCredentialsId: "jenkinsServicePrincipal"
         cloudName: "cnp-azure"
         deploymentTimeout: 1200
-        existingResourceGroupName: "mgmt-vmimg-store-sandbox"
+        existingResourceGroupName: "aks-infra-cftsbox-intsvc-rg"
         maxVirtualMachinesLimit: 10
         resourceGroupReferenceType: "existing"
         vmTemplates:
@@ -18,10 +18,13 @@ jenkins:
             doNotUseMachineIfInitFails: true
             enableMSI: false
             executeInitScriptAsRoot: true
-            existingStorageAccountName: "mgmtvmimgstoresandbox"
+            existingStorageAccountName: "hmctsjenkinssbox"
             imageReference:
-              id: "/subscriptions/bf308a5c-0624-4334-8ff8-8dca9fd43783/resourceGroups/cnp-vmimages-sandbox/providers/Microsoft.Compute/images/moj-centos-agent74-20181113164555"
-              version: "latest"
+              galleryImageDefinition: "jenkins-ubuntu"
+              galleryImageVersion: "1.4.19"
+              galleryName: "hmcts"
+              galleryResourceGroup: "hmcts-image-gallery-rg"
+              gallerySubscriptionId: "2b1afc19-5ca9-4796-a56f-574a58670244"
             imageTopLevelType: "advanced"
             initScript: |
               usermod -a -G docker jenkinsssh
@@ -64,15 +67,15 @@ jenkins:
             shutdownOnIdle: false
             storageAccountNameReferenceType: "existing"
             storageAccountType: "Standard_LRS"
-            subnetName: "jenkins-subnet"
+            subnetName: "iaas"
             templateDesc: "Jenkins build agents for HMCTS"
             templateDisabled: false
             templateName: "cnp-jenkins-builders"
             usageMode: "NORMAL"
             usePrivateIP: true
-            virtualMachineSize: "Standard_D4_v3"
-            virtualNetworkName: "mgmt-infra-sandbox"
-            virtualNetworkResourceGroupName: "mgmt-infra-sandbox"
+            virtualMachineSize: "Standard_D4s_v3"
+            virtualNetworkName: "cft-ptlsbox-vnet"
+            virtualNetworkResourceGroupName: "cft-ptlsbox-network-rg"
     - kubernetes:
         addMasterProxyEnvVars: true
         containerCap: 10
@@ -362,18 +365,6 @@ unclassified:
               artifactNumToKeepStr: "20"
               daysToKeepStr: "14"
               numToKeepStr: "20"
-  openTelemetry:
-    authentication: "noAuthentication"
-    disabledResourceProviders: "io.opentelemetry.sdk.extension.resources.ProcessResourceProvider"
-    endpoint: "http://opentelemetry-collector.monitoring:4317"
-    exportOtelConfigurationAsEnvironmentVariables: false
-    ignoredSteps: "dir,echo,isUnix,pwd,properties"
-    serviceName: "jenkins"
-    serviceNamespace: "jenkins"
-    observabilityBackends:
-      - dynatrace:
-          url: "https://yrk32651.live.dynatrace.com/"
-
 credentials:
   system:
     domainCredentials:
