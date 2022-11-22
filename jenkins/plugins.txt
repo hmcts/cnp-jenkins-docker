@@ -53,7 +53,7 @@ durable-task:501.ve5d4fc08b0be
 echarts-api:5.4.0-1
 extended-read-permission:3.2
 favorite:2.4.1
-font-awesome-api:6.2.0-3
+font-awesome-api:6.2.1-1
 gatling:1.3.0
 git-client:3.13.0
 git:4.13.0
