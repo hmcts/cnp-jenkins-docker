@@ -118,7 +118,7 @@ scm-api:621.vda_a_b_055e58f7
 script-security:1218.v39ca_7f7ed0a_c
 slack:631.v40deea_40323b
 snakeyaml-api:1.33-90.v80dcb_3814d35
-sonar:2.14
+sonar:2.15
 sse-gateway:1.26
 ssh-credentials:305.v8f4381501156
 sshd:3.249.v2dc2ea_416e33
