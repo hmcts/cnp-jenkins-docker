@@ -7,7 +7,7 @@ azure-ad:267.v5b_dfb_514d9fd
 azure-artifact-manager:109.vaf4232a14e2e
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:242.vb_f9c4fa_6b_2b_6
-azure-keyvault:146.v0df546b_c98a_5
+azure-keyvault:154.v5b_0f56b_a_4078
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
 basic-branch-build-strategies:71.vc1421f89888e
