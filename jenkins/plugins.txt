@@ -79,8 +79,8 @@ jjwt-api:0.11.5-77.v646c772fddb_0
 job-dsl:1.81
 jsch:0.1.55.61.va_e9ee26616e7
 junit:1166.va_436e268e972
-kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
-kubernetes-credentials:0.9.0
+kubernetes-client-api:6.3.1-206.v76d3b_6b_14db_b
+kubernetes-credentials:0.10.0
 kubernetes:3743.v1fa_4c724c3b_7
 lockable-resources:1106.vc9153f1a_ff25
 mailer:438.v02c7f0a_12fa_4
