@@ -81,7 +81,7 @@ jsch:0.1.55.61.va_e9ee26616e7
 junit:1166.va_436e268e972
 kubernetes-client-api:6.3.1-206.v76d3b_6b_14db_b
 kubernetes-credentials:0.10.0
-kubernetes:3743.v1fa_4c724c3b_7
+kubernetes:3802.vb_b_600831fcb_3
 lockable-resources:1106.vc9153f1a_ff25
 mailer:438.v02c7f0a_12fa_4
 matrix-auth:3.1.6
