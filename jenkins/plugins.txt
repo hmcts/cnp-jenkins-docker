@@ -101,10 +101,10 @@ pipeline-milestone-step:111.v449306f708b_7
 pipeline-model-api:2.2118.v31fd5b_9944b_5
 pipeline-model-definition:2.2118.v31fd5b_9944b_5
 pipeline-model-extensions:2.2118.v31fd5b_9944b_5
-pipeline-rest-api:2.29
+pipeline-rest-api:2.30
 pipeline-stage-step:296.v5f6908f017a_5
 pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
-pipeline-stage-view:2.29
+pipeline-stage-view:2.30
 pipeline-utility-steps:2.15.0
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:2.20.0
