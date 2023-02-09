@@ -90,7 +90,7 @@ maven-plugin:3.20
 metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
 monitoring:1.91.0
-opentelemetry:2.10.1
+opentelemetry:2.11.0
 pipeline-build-step:2.18
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:202.va_d268e64deb_3
@@ -133,7 +133,7 @@ windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:994.vd57e3ca_46d24
-workflow-cps:3611.v201b_d9f9eb_f7
+workflow-cps:3616.vb_2e7168f4b_0c
 workflow-durable-task-step:1223.v7f1a_98a_8863e
 workflow-job:1268.v6eb_e2ee1a_85a
 workflow-multibranch:716.vc692a_e52371b_
