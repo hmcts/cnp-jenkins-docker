@@ -6,7 +6,7 @@ authentication-tokens:1.4
 azure-ad:313.v14b_f37ff114d
 azure-artifact-manager:109.vaf4232a14e2e
 azure-cosmosdb:2.v738e7ec0eeea_
-azure-credentials:253.v887e0f9e898b
+azure-credentials:254.v64da_8176c83a
 azure-keyvault:161.va_60991a_5d3d2
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
@@ -78,7 +78,7 @@ jenkins-design-language:1.27.1
 jjwt-api:0.11.5-77.v646c772fddb_0
 job-dsl:1.81
 jsch:0.1.55.61.va_e9ee26616e7
-junit:1166.va_436e268e972
+junit:1177.v90374a_ef4d09
 kubernetes-client-api:6.3.1-206.v76d3b_6b_14db_b
 kubernetes-credentials:0.10.0
 kubernetes:3852.v41ea_166a_ed1b_
@@ -91,7 +91,7 @@ metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
 monitoring:1.91.0
 opentelemetry:2.11.0
-pipeline-build-step:2.18
+pipeline-build-step:2.18.1
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:144.vf3924feb_7e35
