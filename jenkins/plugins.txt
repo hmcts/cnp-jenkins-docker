@@ -72,7 +72,7 @@ jackson2-api:2.14.2-319.v37853346a_229
 jacoco:3.3.2
 jaxb:2.3.8-1
 javadoc:226.v71211feb_e7e9
-javax-mail-api:1.6.2-8
+javax-mail-api:1.6.2-9
 jdk-tool:63.v62d2fd4b_4793
 jenkins-design-language:1.27.1
 jjwt-api:0.11.5-77.v646c772fddb_0
@@ -124,7 +124,7 @@ ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
 structs:324.va_f5d6774f3a_d
 support-core:1258.v665d89fa_3607
-timestamper:1.21
+timestamper:1.22
 token-macro:321.vd7cc1f2a_52c8
 theme-manager:1.6
 trilead-api:2.84.v72119de229b_7
@@ -132,9 +132,9 @@ variant:59.vf075fe829ccb
 windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1208.v0cc7c6e0da_9e
-workflow-basic-steps:994.vd57e3ca_46d24
+workflow-basic-steps:1010.vf7a_b_98e847c1
 workflow-cps:3618.v13db_a_21f0fcf
-workflow-durable-task-step:1223.v7f1a_98a_8863e
+workflow-durable-task-step:1234.v019404b_3832a
 workflow-job:1268.v6eb_e2ee1a_85a
 workflow-multibranch:733.v109046189126
 workflow-scm-step:400.v6b_89a_1317c9a_
