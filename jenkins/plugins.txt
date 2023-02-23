@@ -94,7 +94,7 @@ opentelemetry:2.11.0
 pipeline-build-step:2.18.1
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:156.v61fcf9a_7fb_e7
+pipeline-graph-view:157.vd6123e1b_a_e2e
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
@@ -105,7 +105,7 @@ pipeline-rest-api:2.31
 pipeline-stage-step:305.ve96d0205c1c6
 pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
 pipeline-stage-view:2.31
-pipeline-utility-steps:2.15.0
+pipeline-utility-steps:2.15.1
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:2.20.0
 popper-api:1.16.1-3
