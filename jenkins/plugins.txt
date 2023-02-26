@@ -89,12 +89,12 @@ matrix-project:785.v06b_7f47b_c631
 maven-plugin:3.20
 metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
-monitoring:1.91.0
+monitoring:1.92.0
 opentelemetry:2.11.0
 pipeline-build-step:2.18.1
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:159.vde98932a_0eeb
+pipeline-graph-view:163.v84cf2343b_266
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
