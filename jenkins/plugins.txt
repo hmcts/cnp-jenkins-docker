@@ -86,7 +86,7 @@ lockable-resources:1123.v4002ee23c671
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.6
 matrix-project:785.v06b_7f47b_c631
-maven-plugin:3.20
+maven-plugin:3.21
 metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
 monitoring:1.92.0
@@ -123,7 +123,7 @@ sse-gateway:1.26
 ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
 structs:324.va_f5d6774f3a_d
-support-core:1260.va_12d1e2d609a
+support-core:1262.vc248605ec68b
 timestamper:1.22
 token-macro:321.vd7cc1f2a_52c8
 theme-manager:1.6
