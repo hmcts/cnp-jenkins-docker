@@ -91,7 +91,7 @@ metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
 monitoring:1.92.0
 opentelemetry:2.11.0
-pipeline-build-step:2.18.1
+pipeline-build-step:486.vd08f550cceee
 pipeline-github-lib:38.v445716ea_edda_
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:163.v84cf2343b_266
