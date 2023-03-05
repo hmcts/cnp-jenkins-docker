@@ -1,7 +1,7 @@
 ace-editor:1.1
 ansicolor:1.0.2
 antisamy-markup-formatter:155.v795fb_8702324
-apache-httpcomponents-client-4-api:4.5.13-138.v4e7d9a_7b_a_e61
+apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
 authentication-tokens:1.4
 azure-ad:313.v14b_f37ff114d
 azure-artifact-manager:109.vaf4232a14e2e
