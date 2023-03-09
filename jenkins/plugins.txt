@@ -34,7 +34,7 @@ blueocean:1.27.2
 bootstrap4-api:4.6.0-5
 bouncycastle-api:2.27
 branch-api:2.1071.v1a_188a_562481
-build-monitor-plugin:1.13+build.202205140447
+build-monitor-plugin:1.14-651.v429b_16b_db_60e
 checks-api:1.8.1
 cloud-stats:267.v577e3742c282
 cloudbees-bitbucket-branch-source:796.v6cb_1559e1673
@@ -130,7 +130,7 @@ theme-manager:1.6
 trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
 windows-azure-storage:380.va3a027b784f4
-workflow-aggregator:590.v6a_d052e5a_a_b_5
+workflow-aggregator:596.v8c21c963d92d
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:1010.vf7a_b_98e847c1
 workflow-cps:3635.vedb_8602eefa_c
