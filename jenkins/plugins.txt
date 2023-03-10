@@ -92,9 +92,9 @@ momentjs:1.1.1
 monitoring:1.92.0
 opentelemetry:2.11.0
 pipeline-build-step:486.vd08f550cceee
-pipeline-github-lib:38.v445716ea_edda_
+pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:171.v555d316c37d1
+pipeline-graph-view:172.v99e155998e80
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
