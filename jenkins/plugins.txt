@@ -45,15 +45,15 @@ configuration-as-code:1569.vb_72405b_80249
 copyartifact:686.v6fd37018d7c2
 credentials-binding:523.vd859a_4b_122e6
 credentials:1214.v1de940103927
-dark-theme:302.vf069cb_e01486
+dark-theme:314.v7b_671931d8b_4
 display-url-api:2.3.7
 docker-commons:419.v8e3cd84ef49c
 docker-workflow:563.vd5d2e5c4007f
 durable-task:504.vb10d1ae5ba2f
-echarts-api:5.4.0-1
+echarts-api:5.4.0-2
 extended-read-permission:3.2
 favorite:2.4.1
-font-awesome-api:6.2.1-1
+font-awesome-api:6.3.0-1
 gatling:1.3.0
 git-client:4.1.0
 git:5.0.0
@@ -107,7 +107,7 @@ pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
 pipeline-stage-view:2.31
 pipeline-utility-steps:2.15.1
 plain-credentials:143.v1b_df8b_d3b_e48
-plugin-util-api:2.20.0
+plugin-util-api:3.1.0
 popper-api:1.16.1-3
 prometheus:2.1.1
 pubsub-light:1.17
