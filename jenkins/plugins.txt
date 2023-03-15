@@ -35,7 +35,7 @@ bootstrap4-api:4.6.0-5
 bouncycastle-api:2.27
 branch-api:2.1071.v1a_188a_562481
 build-monitor-plugin:1.14-653.va_1c684a_30b_ff
-checks-api:1.8.1
+checks-api:2.0.0
 cloud-stats:267.v577e3742c282
 cloudbees-bitbucket-branch-source:796.v6cb_1559e1673
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
