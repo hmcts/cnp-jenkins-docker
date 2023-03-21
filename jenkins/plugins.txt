@@ -69,7 +69,7 @@ htmlpublisher:1.31
 http_request:1.16
 instance-identity:142.v04572ca_5b_265
 jackson2-api:2.14.2-319.v37853346a_229
-jacoco:3.3.2
+jacoco:3.3.2.1
 jaxb:2.3.8-1
 javadoc:226.v71211feb_e7e9
 javax-mail-api:1.6.2-9
