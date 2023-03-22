@@ -1,6 +1,8 @@
 {
   "enabledManagers": ["jenkins"],
   "automerge": true,
+  "automergeType": "pr",
+  "platformAutomerge": true
   "separateMajorMinor": false,
   "groupName": "all"
 }
