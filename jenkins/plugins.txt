@@ -76,12 +76,12 @@ javax-mail-api:1.6.2-9
 jdk-tool:63.v62d2fd4b_4793
 jenkins-design-language:1.27.3
 jjwt-api:0.11.5-77.v646c772fddb_0
-job-dsl:1.82
+job-dsl:1.83
 jsch:0.1.55.61.va_e9ee26616e7
 junit:1189.v1b_e593637fa_e
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
-kubernetes:3896.v19b_160fd9589
+kubernetes:3900.va_dce992317b_4
 lockable-resources:1131.vb_7c3d377e723
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.6
