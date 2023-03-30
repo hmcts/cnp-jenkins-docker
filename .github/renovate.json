@@ -2,5 +2,7 @@
   "extends": [
     "github>hmcts/.github//renovate/global",
     "github>hmcts/.github//renovate/automerge-all"
-  ]
+  ],
+  "separateMajorMinor": false,
+  "groupName": "all"
 }
