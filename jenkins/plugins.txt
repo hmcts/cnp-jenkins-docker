@@ -90,7 +90,7 @@ maven-plugin:3.21
 metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
 monitoring:1.92.0
-opentelemetry:2.11.0
+opentelemetry:2.12.0
 pipeline-build-step:487.va_823138eee8b_
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
