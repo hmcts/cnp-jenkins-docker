@@ -2,7 +2,7 @@ ace-editor:1.1
 ansicolor:1.0.2
 antisamy-markup-formatter:159.v25b_c67cd35fb_
 apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
-authentication-tokens:1.4
+authentication-tokens:1.53.v1c90fd9191a_b_
 azure-ad:340.vdef002cf6415
 azure-artifact-manager:109.vaf4232a14e2e
 azure-cosmosdb:2.v738e7ec0eeea_
