@@ -7,7 +7,7 @@ azure-ad:340.vdef002cf6415
 azure-artifact-manager:109.vaf4232a14e2e
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
-azure-keyvault:185.v950b_a_591c8d5
+azure-keyvault:187.va_cd5fecd198a_
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:825.v470cb_9e7361a_
 basic-branch-build-strategies:71.vc1421f89888e
@@ -41,7 +41,7 @@ cloudbees-bitbucket-branch-source:800.va_b_b_9a_a_5035c1
 cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudbees-folder:6.815.v0dd5a_cb_40e0e
 command-launcher:90.v669d7ccb_7c31
-configuration-as-code:1616.v11393eccf675
+configuration-as-code:1625.v27444588cc3d
 copyartifact:686.v6fd37018d7c2
 credentials-binding:523.vd859a_4b_122e6
 credentials:1224.vc23ca_a_9a_2cb_0
@@ -91,7 +91,7 @@ metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
 monitoring:1.92.0
 opentelemetry:2.12.0
-pipeline-build-step:487.va_823138eee8b_
+pipeline-build-step:488.v8993df156e8d
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:175.vb_1a_b_b_cd0fb_86

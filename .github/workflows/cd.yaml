@@ -31,7 +31,7 @@ jobs:
 
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v5
         with:
           commit-message: 'Update Jenkins plugins'
           token: ${{ steps.generate-token.outputs.token }}
