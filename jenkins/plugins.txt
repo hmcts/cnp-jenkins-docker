@@ -81,7 +81,7 @@ jsch:0.1.55.61.va_e9ee26616e7
 junit:1189.v1b_e593637fa_e
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
-kubernetes:3900.va_dce992317b_4
+kubernetes:3909.v1f2c633e8590
 lockable-resources:1131.vb_7c3d377e723
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.6
@@ -94,7 +94,7 @@ opentelemetry:2.12.0
 pipeline-build-step:488.v8993df156e8d
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:175.vb_1a_b_b_cd0fb_86
+pipeline-graph-view:183.v9e27732d970f
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
