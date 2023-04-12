@@ -90,12 +90,12 @@ maven-plugin:3.21
 metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
 monitoring:1.92.0
-opentelemetry:2.12.0
+opentelemetry:2.13.0
 pipeline-build-step:488.v8993df156e8d
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:183.v9e27732d970f
-pipeline-groovy-lib:629.vb_5627b_ee2104
+pipeline-groovy-lib:656.va_a_ceeb_6ffb_f7
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
 pipeline-model-api:2.2125.vddb_a_44a_d605e
