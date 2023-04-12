@@ -7,7 +7,7 @@ azure-ad:340.vdef002cf6415
 azure-artifact-manager:109.vaf4232a14e2e
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
-azure-keyvault:187.va_cd5fecd198a_
+azure-keyvault:188.vf46b_7fa_846a_1
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:825.v470cb_9e7361a_
 basic-branch-build-strategies:71.vc1421f89888e
@@ -43,7 +43,7 @@ cloudbees-folder:6.815.v0dd5a_cb_40e0e
 command-launcher:90.v669d7ccb_7c31
 configuration-as-code:1625.v27444588cc3d
 copyartifact:686.v6fd37018d7c2
-credentials-binding:523.vd859a_4b_122e6
+credentials-binding:604.vb_64480b_c56ca_
 credentials:1224.vc23ca_a_9a_2cb_0
 dark-theme:315.va_22e7d692ea_a
 display-url-api:2.3.7
@@ -81,7 +81,7 @@ jsch:0.1.55.61.va_e9ee26616e7
 junit:1189.v1b_e593637fa_e
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
-kubernetes:3909.v1f2c633e8590
+kubernetes:3910.ve59cec5e33ea_
 lockable-resources:1141.v7c5f8f31d2ee
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.6
