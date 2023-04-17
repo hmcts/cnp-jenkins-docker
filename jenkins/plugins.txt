@@ -71,7 +71,7 @@ instance-identity:142.v04572ca_5b_265
 jackson2-api:2.14.2-319.v37853346a_229
 jacoco:3.3.3
 jaxb:2.3.8-1
-javadoc:226.v71211feb_e7e9
+javadoc:233.vdc1a_ec702cff
 javax-mail-api:1.6.2-9
 jdk-tool:63.v62d2fd4b_4793
 jenkins-design-language:1.27.3
@@ -81,7 +81,7 @@ jsch:0.1.55.61.va_e9ee26616e7
 junit:1189.v1b_e593637fa_e
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
-kubernetes:3910.ve59cec5e33ea_
+kubernetes:3923.v294a_d4250b_91
 lockable-resources:1141.v7c5f8f31d2ee
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.6
@@ -89,7 +89,7 @@ matrix-project:785.v06b_7f47b_c631
 maven-plugin:3.21
 metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
-monitoring:1.92.0
+monitoring:1.94.0
 opentelemetry:2.13.0
 pipeline-build-step:488.v8993df156e8d
 pipeline-github-lib:42.v0739460cda_c4
