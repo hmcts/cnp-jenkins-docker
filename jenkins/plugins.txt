@@ -9,7 +9,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
 azure-keyvault:188.vf46b_7fa_846a_1
 azure-sdk:132.v62b_48eb_6f32f
-azure-vm-agents:825.v470cb_9e7361a_
+azure-vm-agents:842.v9fedb_4cc1b_e9
 basic-branch-build-strategies:71.vc1421f89888e
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.3
@@ -42,7 +42,7 @@ cloudbees-disk-usage-simple:178.v1a_4d2f6359a_8
 cloudbees-folder:6.815.v0dd5a_cb_40e0e
 command-launcher:90.v669d7ccb_7c31
 configuration-as-code:1625.v27444588cc3d
-copyartifact:697.v12c6e8c8fb_34
+copyartifact:698.v393f578eb_ddc
 credentials-binding:604.vb_64480b_c56ca_
 credentials:1224.vc23ca_a_9a_2cb_0
 dark-theme:315.va_22e7d692ea_a
@@ -125,7 +125,7 @@ sshd:3.275.v9e17c10f2571
 structs:324.va_f5d6774f3a_d
 support-core:1266.v6d096c154c90
 timestamper:1.24
-token-macro:321.vd7cc1f2a_52c8
+token-macro:359.vb_cde11682e0c
 theme-manager:1.6
 trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
@@ -133,7 +133,7 @@ windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:1010.vf7a_b_98e847c1
-workflow-cps:3653.v07ea_433c90b_4
+workflow-cps:3659.v582dc37621d8
 workflow-durable-task-step:1244.vee71f675dee6
 workflow-job:1289.vd1c337fd5354
 workflow-multibranch:733.v109046189126
