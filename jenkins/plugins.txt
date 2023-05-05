@@ -9,7 +9,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
 azure-keyvault:192.v8723b_823cd7a_
 azure-sdk:132.v62b_48eb_6f32f
-azure-vm-agents:846.v5a_f7e3dce959
+azure-vm-agents:851.v16b_dcb_e85c85
 basic-branch-build-strategies:71.vc1421f89888e
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.3
@@ -77,7 +77,7 @@ jdk-tool:66.vd8fa_64ee91b_d
 jenkins-design-language:1.27.3
 jjwt-api:0.11.5-77.v646c772fddb_0
 job-dsl:1.83
-jsch:0.1.55.61.va_e9ee26616e7
+jsch:0.2.8-65.v052c39de79b_2
 junit:1198.ve38db_d1b_c975
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
