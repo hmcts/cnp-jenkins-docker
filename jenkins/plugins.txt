@@ -89,12 +89,12 @@ matrix-project:789.v57a_725b_63c79
 maven-plugin:3.22
 metrics:4.2.13-420.vea_2f17932dd6
 momentjs:1.1.1
-monitoring:1.94.0
+monitoring:1.94.1
 opentelemetry:2.13.0
 pipeline-build-step:491.v1fec530da_858
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:183.v9e27732d970f
+pipeline-graph-view:190.vb_6fdf3c1ccfa
 pipeline-groovy-lib:656.va_a_ceeb_6ffb_f7
 pipeline-input-step:468.va_5db_051498a_4
 pipeline-milestone-step:111.v449306f708b_7
@@ -124,7 +124,7 @@ ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
 structs:324.va_f5d6774f3a_d
 support-core:1278.vf26a_78c372f1
-timestamper:1.24
+timestamper:1.25
 token-macro:359.vb_cde11682e0c
 theme-manager:193.vcef22f6c5f2b_
 trilead-api:2.84.v72119de229b_7
