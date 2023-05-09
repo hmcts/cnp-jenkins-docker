@@ -44,7 +44,7 @@ command-launcher:100.v2f6722292ee8
 configuration-as-code:1625.v27444588cc3d
 copyartifact:698.v393f578eb_ddc
 credentials-binding:604.vb_64480b_c56ca_
-credentials:1236.v31e44e6060c0
+credentials:1254.vb_96f366e7b_a_d
 dark-theme:315.va_22e7d692ea_a
 display-url-api:2.3.7
 docker-commons:419.v8e3cd84ef49c
@@ -82,7 +82,7 @@ junit:1198.ve38db_d1b_c975
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes:3923.v294a_d4250b_91
-lockable-resources:1150.v59db_2b_994618
+lockable-resources:1156.v5e9f897ece02
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.7
 matrix-project:789.v57a_725b_63c79
