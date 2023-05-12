@@ -9,7 +9,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
 azure-keyvault:192.v8723b_823cd7a_
 azure-sdk:132.v62b_48eb_6f32f
-azure-vm-agents:851.v16b_dcb_e85c85
+azure-vm-agents:852.v8d35f0960a_43
 basic-branch-build-strategies:71.vc1421f89888e
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.4
@@ -34,7 +34,7 @@ blueocean:1.27.4
 bootstrap4-api:4.6.0-5
 bouncycastle-api:2.27
 branch-api:2.1071.v1a_188a_562481
-build-monitor-plugin:1.14-681.vd6817317a_2b_7
+build-monitor-plugin:1.14-702.vf34cc4398955
 checks-api:2.0.0
 cloud-stats:267.v577e3742c282
 cloudbees-bitbucket-branch-source:800.va_b_b_9a_a_5035c1
