@@ -3,13 +3,13 @@ ansicolor:1.0.2
 antisamy-markup-formatter:159.v25b_c67cd35fb_
 apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
 authentication-tokens:1.53.v1c90fd9191a_b_
-azure-ad:348.vefd011eea_20b_
+azure-ad:349.vc02b_a_0b_142a_8
 azure-artifact-manager:115.vb0d5da76bb49
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
 azure-keyvault:193.vdc33a_680fef6
 azure-sdk:132.v62b_48eb_6f32f
-azure-vm-agents:852.v8d35f0960a_43
+azure-vm-agents:853.v4a_1a_dd947520
 basic-branch-build-strategies:71.vc1421f89888e
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.4
@@ -33,7 +33,7 @@ blueocean-web:1.27.4
 blueocean:1.27.4
 bootstrap4-api:4.6.0-5
 bouncycastle-api:2.27
-branch-api:2.1071.v1a_188a_562481
+branch-api:2.1092.vda_3c2a_a_f0c11
 build-monitor-plugin:1.14-702.vf34cc4398955
 checks-api:2.0.0
 cloud-stats:267.v577e3742c282
@@ -49,7 +49,7 @@ dark-theme:315.va_22e7d692ea_a
 display-url-api:2.3.7
 docker-commons:419.v8e3cd84ef49c
 docker-workflow:563.vd5d2e5c4007f
-durable-task:506.v1b_3e14b_6f5da_
+durable-task:507.v050055d0cb_dd
 echarts-api:5.4.0-3
 extended-read-permission:3.2
 favorite:2.4.1
@@ -57,7 +57,7 @@ font-awesome-api:6.3.0-2
 gatling:1.3.0
 git-client:4.2.0
 git:5.0.2
-github-api:1.303-417.ve35d9dd78549
+github-api:1.314-431.v78d72a_3fe4c3
 github-branch-source:1703.vd5a_2b_29c6cdc
 github-checks:536.v2e4ea_8fa_e423
 github:1.37.0
@@ -105,7 +105,7 @@ pipeline-rest-api:2.32
 pipeline-stage-step:305.ve96d0205c1c6
 pipeline-stage-tags-metadata:2.2131.vb_9788088fdb_5
 pipeline-stage-view:2.32
-pipeline-utility-steps:2.15.2
+pipeline-utility-steps:2.15.3
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:3.2.1
 popper-api:1.16.1-3
@@ -135,7 +135,7 @@ workflow-api:1213.v646def1087f9
 workflow-basic-steps:1017.vb_45b_302f0cea_
 workflow-cps:3659.v582dc37621d8
 workflow-durable-task-step:1246.v5524618ea_097
-workflow-job:1292.v27d8cc3e2602
+workflow-job:1295.v395eb_7400005
 workflow-multibranch:746.v05814d19c001
 workflow-scm-step:408.v7d5b_135a_b_d49
 workflow-step-api:639.v6eca_cd8c04a_a_
