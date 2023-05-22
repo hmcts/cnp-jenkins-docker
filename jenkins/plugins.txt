@@ -41,7 +41,7 @@ cloudbees-disk-usage-simple:182.v62ca_0c992a_f3
 cloudbees-folder:6.815.v0dd5a_cb_40e0e
 command-launcher:100.v2f6722292ee8
 configuration-as-code:1625.v27444588cc3d
-copyartifact:698.v393f578eb_ddc
+copyartifact:705.v5295cffec284
 credentials-binding:604.vb_64480b_c56ca_
 credentials:1254.vb_96f366e7b_a_d
 dark-theme:315.va_22e7d692ea_a
@@ -49,7 +49,7 @@ display-url-api:2.3.7
 docker-commons:419.v8e3cd84ef49c
 docker-workflow:563.vd5d2e5c4007f
 durable-task:507.v050055d0cb_dd
-echarts-api:5.4.0-3
+echarts-api:5.4.0-4
 extended-read-permission:3.2
 favorite:2.4.2
 font-awesome-api:6.3.0-2
