@@ -32,7 +32,7 @@ blueocean-web:1.27.4
 blueocean:1.27.4
 bootstrap4-api:4.6.0-6
 bouncycastle-api:2.28
-branch-api:2.1092.vda_3c2a_a_f0c11
+branch-api:2.1105.v472604208c55
 build-monitor-plugin:1.14-702.vf34cc4398955
 checks-api:2.0.0
 cloud-stats:267.v577e3742c282
@@ -58,7 +58,7 @@ git-client:4.2.0
 git:5.0.2
 github-api:1.314-431.v78d72a_3fe4c3
 github-branch-source:1703.vd5a_2b_29c6cdc
-github-checks:536.v2e4ea_8fa_e423
+github-checks:545.v79a_a_68b_ca_682
 github:1.37.1
 github-scm-trait-notification-context:1.1
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
