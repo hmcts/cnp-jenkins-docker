@@ -33,7 +33,7 @@ blueocean:1.27.4
 bootstrap4-api:4.6.0-6
 bouncycastle-api:2.28
 branch-api:2.1105.v472604208c55
-build-monitor-plugin:1.14-702.vf34cc4398955
+build-monitor-plugin:1.14-717.v3efcdffe8d58
 checks-api:2.0.0
 cloud-stats:267.v577e3742c282
 cloudbees-bitbucket-branch-source:800.va_b_b_9a_a_5035c1
@@ -85,7 +85,7 @@ mailer:457.v3f72cb_e015e5
 matrix-auth:3.1.7
 matrix-project:789.v57a_725b_63c79
 maven-plugin:3.22
-metrics:4.2.13-420.vea_2f17932dd6
+metrics:4.2.18-438.v0ede325a_4c68
 monitoring:1.94.1
 opentelemetry:2.13.0
 pipeline-build-step:491.v1fec530da_858
