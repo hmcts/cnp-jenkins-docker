@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
 azure-keyvault:200.v115e9b_1644d5
 azure-sdk:132.v62b_48eb_6f32f
-azure-vm-agents:853.v4a_1a_dd947520
+azure-vm-agents:859.v7213476e4fea_
 basic-branch-build-strategies:71.vc1421f89888e
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.4
@@ -40,7 +40,7 @@ cloudbees-bitbucket-branch-source:805.v7f97d29dc0f5
 cloudbees-disk-usage-simple:182.v62ca_0c992a_f3
 cloudbees-folder:6.815.v0dd5a_cb_40e0e
 command-launcher:100.v2f6722292ee8
-configuration-as-code:1646.v98b_72d209775
+configuration-as-code:1647.ve39ca_b_829b_42
 copyartifact:705.v5295cffec284
 credentials-binding:604.vb_64480b_c56ca_
 credentials:1254.vb_96f366e7b_a_d
@@ -49,10 +49,10 @@ display-url-api:2.3.7
 docker-commons:419.v8e3cd84ef49c
 docker-workflow:563.vd5d2e5c4007f
 durable-task:507.v050055d0cb_dd
-echarts-api:5.4.0-4
+echarts-api:5.4.0-5
 extended-read-permission:53.v6499940139e5
 favorite:2.4.2
-font-awesome-api:6.3.0-2
+font-awesome-api:6.4.0-1
 gatling:1.3.0
 git-client:4.3.0
 git:5.0.2
@@ -104,7 +104,7 @@ pipeline-stage-tags-metadata:2.2133.ve46a_6113dfc3
 pipeline-stage-view:2.32
 pipeline-utility-steps:2.15.4
 plain-credentials:143.v1b_df8b_d3b_e48
-plugin-util-api:3.2.1
+plugin-util-api:3.3.0
 popper-api:1.16.1-3
 prometheus:2.2.2
 pubsub-light:1.17
@@ -132,7 +132,7 @@ workflow-api:1213.v646def1087f9
 workflow-basic-steps:1017.vb_45b_302f0cea_
 workflow-cps:3673.v5b_dd74276262
 workflow-durable-task-step:1247.v7f9dfea_b_4fd0
-workflow-job:1301.v054d9cea_9593
+workflow-job:1308.v58d48a_763b_31
 workflow-multibranch:746.v05814d19c001
 workflow-scm-step:408.v7d5b_135a_b_d49
 workflow-step-api:639.v6eca_cd8c04a_a_
