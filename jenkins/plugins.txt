@@ -32,7 +32,7 @@ blueocean-web:1.27.4
 blueocean:1.27.4
 bootstrap4-api:4.6.0-6
 bouncycastle-api:2.28
-branch-api:2.1105.v472604208c55
+branch-api:2.1109.vdf225489a_16d
 build-monitor-plugin:1.14-717.v3efcdffe8d58
 checks-api:2.0.0
 cloud-stats:267.v577e3742c282
@@ -54,8 +54,8 @@ extended-read-permission:53.v6499940139e5
 favorite:2.4.2
 font-awesome-api:6.4.0-1
 gatling:1.3.0
-git-client:4.3.0
-git:5.0.2
+git-client:4.4.0
+git:5.1.0
 github-api:1.314-431.v78d72a_3fe4c3
 github-branch-source:1725.vd391eef681a_e
 github-checks:545.v79a_a_68b_ca_682
@@ -130,10 +130,10 @@ windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1213.v646def1087f9
 workflow-basic-steps:1017.vb_45b_302f0cea_
-workflow-cps:3673.v5b_dd74276262
+workflow-cps:3691.v28b_14c465a_b_b_
 workflow-durable-task-step:1247.v7f9dfea_b_4fd0
 workflow-job:1308.v58d48a_763b_31
-workflow-multibranch:746.v05814d19c001
-workflow-scm-step:408.v7d5b_135a_b_d49
+workflow-multibranch:756.v891d88f2cd46
+workflow-scm-step:415.v434365564324
 workflow-step-api:639.v6eca_cd8c04a_a_
 workflow-support:839.v35e2736cfd5c
