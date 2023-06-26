@@ -79,8 +79,8 @@ jsch:0.2.8-65.v052c39de79b_2
 junit:1214.va_2f9db_3e6de0
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
-kubernetes:3950.v581298fa_e4e7
-lockable-resources:1167.v04861534072b_
+kubernetes:3952.v88e3b_0cf300b_
+lockable-resources:1172.v4b_8fc8eed570
 mailer:457.v3f72cb_e015e5
 matrix-auth:3.1.8
 matrix-project:789.v57a_725b_63c79
@@ -120,7 +120,7 @@ sse-gateway:1.26
 ssh-credentials:305.v8f4381501156
 sshd:3.303.vefc7119b_ec23
 structs:324.va_f5d6774f3a_d
-support-core:1325.vb_a_6a_7b_c083a_d
+support-core:1328.vb_4e66d4d525c
 timestamper:1.25
 token-macro:359.vb_cde11682e0c
 theme-manager:193.vcef22f6c5f2b_
