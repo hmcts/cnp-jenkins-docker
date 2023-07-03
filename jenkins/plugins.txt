@@ -64,10 +64,10 @@ github-scm-trait-notification-context:1.1
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.31
-http_request:1.17
+http_request:1.18
 instance-identity:173.va_37c494ec4e5
 jackson2-api:2.15.2-350.v0c2f3f8fc595
-jacoco:3.3.3
+jacoco:3.3.4
 jaxb:2.3.8-1
 javadoc:233.vdc1a_ec702cff
 javax-mail-api:1.6.2-9
