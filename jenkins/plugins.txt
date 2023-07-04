@@ -9,7 +9,7 @@ azure-credentials:254.v64da_8176c83a
 azure-keyvault:200.v115e9b_1644d5
 azure-sdk:132.v62b_48eb_6f32f
 azure-vm-agents:859.v7213476e4fea_
-basic-branch-build-strategies:71.vc1421f89888e
+basic-branch-build-strategies:81.v05e333931c7d
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.4
 blueocean-commons:1.27.4
