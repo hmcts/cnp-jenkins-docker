@@ -31,7 +31,7 @@ blueocean-rest:1.27.4
 blueocean-web:1.27.4
 blueocean:1.27.4
 bootstrap4-api:4.6.0-6
-bouncycastle-api:2.28
+bouncycastle-api:2.29
 branch-api:2.1122.v09cb_8ea_8a_724
 build-monitor-plugin:1.14-717.v3efcdffe8d58
 checks-api:2.0.0
@@ -79,7 +79,7 @@ jsch:0.2.8-65.v052c39de79b_2
 junit:1217.v4297208a_a_b_ce
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
-kubernetes:3968.vd342863df29b_
+kubernetes:3971.v94b_4c914ca_75
 lockable-resources:1172.v4b_8fc8eed570
 mailer:457.v3f72cb_e015e5
 matrix-auth:3.1.9
@@ -102,7 +102,7 @@ pipeline-rest-api:2.33
 pipeline-stage-step:305.ve96d0205c1c6
 pipeline-stage-tags-metadata:2.2141.v5402e818a_779
 pipeline-stage-view:2.33
-pipeline-utility-steps:2.15.4
+pipeline-utility-steps:2.16.0
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:3.3.0
 popper-api:1.16.1-3
