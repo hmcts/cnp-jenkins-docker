@@ -33,7 +33,7 @@ blueocean:1.27.4
 bootstrap4-api:4.6.0-6
 bouncycastle-api:2.29
 branch-api:2.1122.v09cb_8ea_8a_724
-build-monitor-plugin:1.14-744.v35fd6fa_a_26b_2
+build-monitor-plugin:1.14-745.ve2023a_305f40
 checks-api:2.0.0
 cloud-stats:302.v45b_647b_90608
 cloudbees-bitbucket-branch-source:820.v30b_e8c1e36f3
@@ -52,7 +52,7 @@ durable-task:510.v324450f8dca_4
 echarts-api:5.4.0-5
 extended-read-permission:53.v6499940139e5
 favorite:2.4.2
-font-awesome-api:6.4.0-1
+font-awesome-api:6.4.0-2
 gatling:1.3.0
 git-client:4.4.0
 git:5.2.0
