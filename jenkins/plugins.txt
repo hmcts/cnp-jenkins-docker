@@ -112,7 +112,7 @@ scm-api:676.v886669a_199a_a_
 script-security:1264.vecf66020eb_7d
 slack:664.vc9a_90f8b_c24a_
 snakeyaml-api:1.33-95.va_b_a_e3e47b_fa_4
-sonar:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.15.1-hmcts/sonar.hpi
+sonar:2.15.1-hmcts:https://github.com/hmcts/sonarqube-plugin/releases/download/sonar-2.15.1-hmcts/sonar.hpi
 sse-gateway:1.26
 ssh-credentials:308.ve4497b_ccd8f4
 sshd:3.312.v1c601b_c83b_0e
