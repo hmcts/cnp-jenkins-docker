@@ -2,7 +2,7 @@ ansicolor:1.0.3
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
 authentication-tokens:1.53.v1c90fd9191a_b_
-azure-ad:378.vd6e2874a_69eb_
+azure-ad:385.v5d9f88612dd2
 azure-artifact-manager:133.vf94ad3455cdc
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:254.v64da_8176c83a
@@ -34,7 +34,7 @@ bouncycastle-api:2.29
 branch-api:2.1122.v09cb_8ea_8a_724
 build-monitor-plugin:1.14-745.ve2023a_305f40
 checks-api:2.0.0
-cloud-stats:302.v45b_647b_90608
+cloud-stats:316.vd6d6b_292238d
 cloudbees-bitbucket-branch-source:825.va_6a_dc46a_f97d
 cloudbees-disk-usage-simple:182.v62ca_0c992a_f3
 cloudbees-folder:6.846.v23698686f0f6
@@ -82,7 +82,7 @@ kubernetes:3985.vd26d77b_2a_48a_
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
 matrix-auth:3.1.10
-matrix-project:802.v8013b_40c7edc
+matrix-project:808.v5a_b_5f56d6966
 maven-plugin:3.23
 metrics:4.2.18-442.v02e107157925
 monitoring:1.95.0
