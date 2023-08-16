@@ -4,5 +4,6 @@
     "local>hmcts/.github:renovate-config"
   ],
   "separateMajorMinor": false,
-  "groupName": "all"
+  "groupName": "all",
+  "schedule": "before 6am every weekday"
 }
