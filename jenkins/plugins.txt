@@ -116,7 +116,7 @@ sonar:2.15.1-hmcts:https://github.com/hmcts/sonarqube-plugin/releases/download/s
 sse-gateway:1.26
 ssh-credentials:308.ve4497b_ccd8f4
 sshd:3.312.v1c601b_c83b_0e
-structs:324.va_f5d6774f3a_d
+structs:325.vcb_307d2a_2782
 support-core:1356.vd0f980edfa_46
 timestamper:1.26
 token-macro:384.vf35b_f26814ec
@@ -127,9 +127,9 @@ windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1259.vb_47f14fffc8a_
 workflow-basic-steps:1042.ve7b_140c4a_e0c
-workflow-cps:3744.v6f2c0fe0e54d
+workflow-cps:3769.v8b_e595e4d40d
 workflow-durable-task-step:1284.v4fcd365b_75b_e
-workflow-job:1326.ve643e00e9220
+workflow-job:1339.v7ede8a_29ed06
 workflow-multibranch:756.v891d88f2cd46
 workflow-scm-step:415.v434365564324
 workflow-step-api:639.v6eca_cd8c04a_a_
