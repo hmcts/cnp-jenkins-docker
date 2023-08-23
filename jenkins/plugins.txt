@@ -57,7 +57,7 @@ git-client:4.4.0
 git:5.2.0
 github-api:1.314-431.v78d72a_3fe4c3
 github-branch-source:1732.v3f1889a_c475b_
-github-checks:545.v79a_a_68b_ca_682
+github-checks:554.vb_ee03a_000f65
 github:1.37.3
 github-scm-trait-notification-context:1.1
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
@@ -81,7 +81,7 @@ kubernetes-credentials:0.10.0
 kubernetes:3995.v227c16b_675ee
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
-matrix-auth:3.1.10
+matrix-auth:3.2
 matrix-project:808.v5a_b_5f56d6966
 maven-plugin:3.23
 metrics:4.2.18-442.v02e107157925
