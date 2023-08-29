@@ -2,7 +2,7 @@ ansicolor:1.0.3
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
-azure-ad:393.v03d1cfd50759
+azure-ad:396.v86ce29279947
 azure-artifact-manager:133.vf94ad3455cdc
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:293.vb_d506148f506
@@ -125,7 +125,7 @@ trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
 windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
-workflow-api:1261.va_2ff5204f17e
+workflow-api:1267.vd9b_a_ddd9eb_47
 workflow-basic-steps:1042.ve7b_140c4a_e0c
 workflow-cps:3773.v505e0052522c
 workflow-durable-task-step:1289.v4d3e7b_01546b_
