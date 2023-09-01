@@ -86,7 +86,7 @@ matrix-project:808.v5a_b_5f56d6966
 maven-plugin:3.23
 metrics:4.2.18-442.v02e107157925
 monitoring:1.95.0
-opentelemetry:2.14.0
+opentelemetry:2.15.0
 pipeline-build-step:505.v5f0844d8d126
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
