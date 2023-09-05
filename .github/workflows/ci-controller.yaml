@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout Source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 # requires https://github.com/hadolint/hadolint-action/pull/65
 #      - name: Lint
 #        uses: hadolint/hadolint-action@v2.1.0
