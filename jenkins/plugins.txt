@@ -1,8 +1,8 @@
-ansicolor:1.0.3
+ansicolor:1.0.4
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
-azure-ad:396.v86ce29279947
+azure-ad:403.v725537911b_7e
 azure-artifact-manager:133.vf94ad3455cdc
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:293.vb_d506148f506
@@ -33,7 +33,7 @@ blueocean:1.27.6
 bouncycastle-api:2.29
 branch-api:2.1122.v09cb_8ea_8a_724
 build-monitor-plugin:1.14-745.ve2023a_305f40
-checks-api:2.0.0
+checks-api:2.0.1
 cloud-stats:320.v96b_65297a_4b_b_
 cloudbees-bitbucket-branch-source:832.v43175a_425ea_6
 cloudbees-disk-usage-simple:182.v62ca_0c992a_f3
@@ -129,7 +129,7 @@ workflow-api:1267.vd9b_a_ddd9eb_47
 workflow-basic-steps:1042.ve7b_140c4a_e0c
 workflow-cps:3785.vee73da_b_9544e
 workflow-durable-task-step:1289.v4d3e7b_01546b_
-workflow-job:1342.v046651d5b_dfe
+workflow-job:1346.v180a_63f40267
 workflow-multibranch:756.v891d88f2cd46
 workflow-scm-step:415.v434365564324
 workflow-step-api:639.v6eca_cd8c04a_a_
