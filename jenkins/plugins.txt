@@ -31,7 +31,7 @@ blueocean-rest:1.27.6
 blueocean-web:1.27.6
 blueocean:1.27.6
 bouncycastle-api:2.29
-branch-api:2.1122.v09cb_8ea_8a_724
+branch-api:2.1128.v717130d4f816
 build-monitor-plugin:1.14-745.ve2023a_305f40
 checks-api:2.0.1
 cloud-stats:320.v96b_65297a_4b_b_
