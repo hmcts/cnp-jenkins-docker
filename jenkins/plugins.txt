@@ -48,15 +48,15 @@ display-url-api:2.3.9
 docker-commons:439.va_3cb_0a_6a_fb_29
 docker-workflow:572.v950f58993843
 durable-task:523.va_a_22cf15d5e0
-echarts-api:5.4.0-5
+echarts-api:5.4.0-6
 extended-read-permission:53.v6499940139e5
 favorite:2.4.3
-font-awesome-api:6.4.0-2
+font-awesome-api:6.4.2-1
 gatling:1.3.0
 git-client:4.5.0
 git:5.2.0
 github-api:1.314-431.v78d72a_3fe4c3
-github-branch-source:1740.v51d5810e9e8c
+github-branch-source:1741.va_3028eb_9fd21
 github-checks:554.vb_ee03a_000f65
 github:1.37.3
 github-scm-trait-notification-context:1.1
@@ -81,7 +81,7 @@ kubernetes-credentials:0.11
 kubernetes:4029.v5712230ccb_f8
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
-matrix-auth:3.2
+matrix-auth:3.2.1
 matrix-project:808.v5a_b_5f56d6966
 maven-plugin:3.23
 metrics:4.2.18-442.v02e107157925
