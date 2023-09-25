@@ -59,7 +59,7 @@ github-api:1.314-431.v78d72a_3fe4c3
 github-branch-source:1741.va_3028eb_9fd21
 github-checks:554.vb_ee03a_000f65
 github:1.37.3
-github-scm-trait-notification-context:1.1
+github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.32
