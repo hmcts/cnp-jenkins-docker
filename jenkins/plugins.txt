@@ -65,7 +65,7 @@ handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.32
 http_request:1.18
 instance-identity:173.va_37c494ec4e5
-jackson2-api:2.15.2-350.v0c2f3f8fc595
+jackson2-api:2.15.3-366.vfe8d1fa_f8c87
 jacoco:3.3.5
 jaxb:2.3.8-1
 javadoc:243.vb_b_503b_b_45537
@@ -73,7 +73,7 @@ javax-mail-api:1.6.2-9
 jdk-tool:73.vddf737284550
 jenkins-design-language:1.27.8
 jjwt-api:0.11.5-77.v646c772fddb_0
-job-dsl:1.85
+job-dsl:1.86
 jsch:0.2.8-65.v052c39de79b_2
 junit:1240.vf9529b_881428
 kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
@@ -82,7 +82,7 @@ kubernetes:4054.v2da_8e2794884
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
 matrix-auth:3.2.1
-matrix-project:808.v5a_b_5f56d6966
+matrix-project:818.v7eb_e657db_924
 maven-plugin:3.23
 metrics:4.2.18-442.v02e107157925
 monitoring:1.95.0
