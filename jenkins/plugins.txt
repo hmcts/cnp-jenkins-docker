@@ -31,7 +31,7 @@ blueocean-rest:1.27.9
 blueocean-web:1.27.9
 blueocean:1.27.9
 bouncycastle-api:2.29
-branch-api:2.1128.v717130d4f816
+branch-api:2.1135.v8de8e7899051
 build-monitor-plugin:1.14-745.ve2023a_305f40
 checks-api:2.0.2
 cloud-stats:320.v96b_65297a_4b_b_
@@ -65,7 +65,7 @@ handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.32
 http_request:1.18
 instance-identity:185.v303dc7c645f9
-jackson2-api:2.15.3-366.vfe8d1fa_f8c87
+jackson2-api:2.15.3-372.v309620682326
 jacoco:3.3.5
 jaxb:2.3.9-1
 javadoc:243.vb_b_503b_b_45537
@@ -78,7 +78,7 @@ jsch:0.2.8-65.v052c39de79b_2
 junit:1240.vf9529b_881428
 kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
 kubernetes-credentials:0.11
-kubernetes:4110.v2d7ceb_d59c53
+kubernetes:4132.v758a_0c613a_38
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
 matrix-auth:3.2.1
@@ -90,16 +90,16 @@ opentelemetry:2.18.0
 pipeline-build-step:516.v8ee60a_81c5b_9
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:203.vdb_a_10c0076b_6
+pipeline-graph-view:204.vf6b_83d21e246
 pipeline-groovy-lib:689.veec561a_dee13
 pipeline-input-step:477.v339683a_8d55e
 pipeline-milestone-step:111.v449306f708b_7
-pipeline-model-api:2.2150.v4cfd8916915c
-pipeline-model-definition:2.2150.v4cfd8916915c
-pipeline-model-extensions:2.2150.v4cfd8916915c
+pipeline-model-api:2.2151.ve32c9d209a_3f
+pipeline-model-definition:2.2151.ve32c9d209a_3f
+pipeline-model-extensions:2.2151.ve32c9d209a_3f
 pipeline-rest-api:2.34
 pipeline-stage-step:305.ve96d0205c1c6
-pipeline-stage-tags-metadata:2.2150.v4cfd8916915c
+pipeline-stage-tags-metadata:2.2151.ve32c9d209a_3f
 pipeline-stage-view:2.34
 pipeline-utility-steps:2.16.0
 plain-credentials:143.v1b_df8b_d3b_e48
@@ -108,7 +108,7 @@ pubsub-light:1.18
 run-condition:1.7
 saml:4.429.v9a_781a_61f1da_
 sauce-ondemand:1.212
-scm-api:676.v886669a_199a_a_
+scm-api:683.vb_16722fb_b_80b_
 script-security:1275.v23895f409fb_d
 slack:684.v833089650554
 snakeyaml-api:2.2-111.vc6598e30cc65
