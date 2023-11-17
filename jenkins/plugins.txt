@@ -6,7 +6,7 @@ azure-ad:433.v1982e2b_b_4a_fe
 azure-artifact-manager:133.vf94ad3455cdc
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:293.vb_d506148f506
-azure-keyvault:228.va_31b_a_451e7d6
+azure-keyvault:233.v474b_4ca_6ea_64
 azure-sdk:157.v855da_0b_eb_dc2
 azure-vm-agents:883.v63c930b_025dc
 basic-branch-build-strategies:81.v05e333931c7d
@@ -56,7 +56,7 @@ gatling:1.3.0
 git-client:4.5.0
 git:5.2.1
 github-api:1.316-451.v15738eef3414
-github-branch-source:1750.v6b_fb_8df8f985
+github-branch-source:1751.v90e17c48a_6a_c
 github-checks:554.vb_ee03a_000f65
 github:1.37.3.1
 github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
@@ -78,7 +78,7 @@ jsch:0.2.8-65.v052c39de79b_2
 junit:1240.vf9529b_881428
 kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
 kubernetes-credentials:0.11
-kubernetes:4132.v758a_0c613a_38
+kubernetes:4144.vfd176ec18694
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
 matrix-auth:3.2.1
@@ -109,7 +109,7 @@ run-condition:1.7
 saml:4.429.v9a_781a_61f1da_
 sauce-ondemand:1.212
 scm-api:683.vb_16722fb_b_80b_
-script-security:1275.v23895f409fb_d
+script-security:1281.v22fb_899df1a_e
 slack:684.v833089650554
 snakeyaml-api:2.2-111.vc6598e30cc65
 sonar:2.16.1
