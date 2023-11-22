@@ -35,7 +35,7 @@ branch-api:2.1135.v8de8e7899051
 build-monitor-plugin:1.14-745.ve2023a_305f40
 checks-api:2.0.2
 cloud-stats:320.v96b_65297a_4b_b_
-cloudbees-bitbucket-branch-source:848.v42c6a_317eda_e
+cloudbees-bitbucket-branch-source:856.v04c46c86f911
 cloudbees-disk-usage-simple:187.v6378d330d1d4
 cloudbees-folder:6.858.v898218f3609d
 command-launcher:107.v773860566e2e
@@ -48,7 +48,7 @@ display-url-api:2.200.vb_9327d658781
 docker-commons:439.va_3cb_0a_6a_fb_29
 docker-workflow:572.v950f58993843
 durable-task:523.va_a_22cf15d5e0
-echarts-api:5.4.0-7
+echarts-api:5.4.3-1
 extended-read-permission:53.v6499940139e5
 favorite:2.4.3
 font-awesome-api:6.4.2-1
