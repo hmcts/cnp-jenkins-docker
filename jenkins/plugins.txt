@@ -78,7 +78,7 @@ jsch:0.2.8-65.v052c39de79b_2
 junit:1240.vf9529b_881428
 kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
 kubernetes-credentials:0.11
-kubernetes:4144.vfd176ec18694
+kubernetes:4147.va_d406fb_66172
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
 matrix-auth:3.2.1
@@ -86,7 +86,7 @@ matrix-project:818.v7eb_e657db_924
 maven-plugin:3.23
 metrics:4.2.18-442.v02e107157925
 monitoring:1.95.0
-opentelemetry:2.18.0
+opentelemetry:2.19.0
 pipeline-build-step:516.v8ee60a_81c5b_9
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
