@@ -56,12 +56,12 @@ gatling:1.3.0
 git-client:4.6.0
 git:5.2.1
 github-api:1.318-461.v7a_c09c9fa_d63
-github-branch-source:1755.vcdb_d136f3b_25
+github-branch-source:1758.v048414714f5d
 github-checks:554.vb_ee03a_000f65
 github:1.37.3.1
 github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
-handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
+handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
 htmlpublisher:1.32
 http_request:1.18
 instance-identity:185.v303dc7c645f9
@@ -75,7 +75,7 @@ jenkins-design-language:1.27.9
 jjwt-api:0.11.5-77.v646c772fddb_0
 job-dsl:1.87
 jsch:0.2.8-65.v052c39de79b_2
-junit:1240.vf9529b_881428
+junit:1252.vfc2e5efa_294f
 kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
 kubernetes-credentials:0.11
 kubernetes:4151.v6fa_f0fb_0b_4c9
@@ -87,7 +87,7 @@ maven-plugin:3.23
 metrics:4.2.18-442.v02e107157925
 monitoring:1.95.0
 opentelemetry:2.19.0
-pipeline-build-step:539.v8c889169451f
+pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:42.v0739460cda_c4
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:205.vb_8e3a_b_51f12e
