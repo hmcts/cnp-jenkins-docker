@@ -5,10 +5,10 @@ authentication-tokens:1.53.v1c90fd9191a_b_
 azure-ad:442.v355cca_6b_c169
 azure-artifact-manager:133.vf94ad3455cdc
 azure-cosmosdb:2.v738e7ec0eeea_
-azure-credentials:293.vb_d506148f506
-azure-keyvault:233.v474b_4ca_6ea_64
+azure-credentials:312.v0f3973cd1e59
+azure-keyvault:237.v301692369180
 azure-sdk:157.v855da_0b_eb_dc2
-azure-vm-agents:883.v63c930b_025dc
+azure-vm-agents:898.v7309274ccd9c
 basic-branch-build-strategies:81.v05e333931c7d
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.9
