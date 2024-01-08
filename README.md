@@ -65,7 +65,7 @@ You can either check the GitHub action log in the 'Build and Push step' to find 
 az acr repository show-tags -n hmctspublic --repository jenkins/jenkins --subscription DCD-CNP-PROD --orderby time_desc --query "[?\!starts_with(@, 'pr')] | [0]" -o tsv
 ```
 
-Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-flux-config/blob/master/apps/jenkins/jenkins/jenkins.yaml#L15).
+Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-flux-config/blob/master/apps/jenkins/jenkins/jenkins-controller-version.yaml#L9).
 
 Only merge the PR for prod Jenkins very early in the day, or in very quiet times, it can take ~15 minutes to startup sometimes,
 likely due to the number of jobs and the number of traffic that it gets which slows down the startup.
