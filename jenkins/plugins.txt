@@ -101,7 +101,7 @@ pipeline-rest-api:2.34
 pipeline-stage-step:305.ve96d0205c1c6
 pipeline-stage-tags-metadata:2.2175.v76a_fff0a_2618
 pipeline-stage-view:2.34
-pipeline-utility-steps:2.16.1
+pipeline-utility-steps:2.16.2
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:3.8.0
 pubsub-light:1.18
@@ -128,7 +128,7 @@ workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
 workflow-basic-steps:1042.ve7b_140c4a_e0c
 workflow-cps:3853.vb_a_490d892963
-workflow-durable-task-step:1327.ve57634fb_09ce
+workflow-durable-task-step:1331.vc8c2fed35334
 workflow-job:1400.v7fd111b_ec82f
 workflow-multibranch:773.vc4fe1378f1d5
 workflow-scm-step:415.v434365564324
