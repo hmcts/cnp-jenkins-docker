@@ -85,7 +85,7 @@ matrix-auth:3.2.1
 matrix-project:822.824.v14451b_c0fd42
 maven-plugin:3.23
 metrics:4.2.21-449.v6960d7c54c69
-monitoring:1.95.0
+monitoring:1.98.0
 opentelemetry:3.1111.vc2733c03b_db_1
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:42.v0739460cda_c4
