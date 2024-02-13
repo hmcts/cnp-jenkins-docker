@@ -31,13 +31,13 @@ blueocean-rest:1.27.10
 blueocean-web:1.27.10
 blueocean:1.27.10
 bouncycastle-api:2.30.1.77-225.v26ea_c9455fd9
-branch-api:2.1144.v1425d1c3d5a_7
+branch-api:2.1148.vce12cfcdf090
 build-monitor-plugin:1.14-826.vb_a_c11536174d
 checks-api:2.0.2
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:871.v28d74e8b_4226
+cloudbees-bitbucket-branch-source:872.vb_8fa_89198661
 cloudbees-disk-usage-simple:203.v3f46a_7462b_1a_
-cloudbees-folder:6.901.vb_4c7a_da_75da_3
+cloudbees-folder:6.921.vfb_b_224371fb_4
 command-launcher:107.v773860566e2e
 configuration-as-code:1775.v810dc950b_514
 copyartifact:722.v0662a_9b_e22a_c
@@ -130,7 +130,7 @@ workflow-basic-steps:1042.ve7b_140c4a_e0c
 workflow-cps:3853.vb_a_490d892963
 workflow-durable-task-step:1331.vc8c2fed35334
 workflow-job:1400.v7fd111b_ec82f
-workflow-multibranch:773.vc4fe1378f1d5
+workflow-multibranch:783.va_6eb_ef636fb_d
 workflow-scm-step:415.v434365564324
 workflow-step-api:657.v03b_e8115821b_
 workflow-support:865.v43e78cc44e0d
