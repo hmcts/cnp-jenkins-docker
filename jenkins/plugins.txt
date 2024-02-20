@@ -79,7 +79,7 @@ junit:1259.v65ffcef24a_88
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:0.11
 kubernetes:4186.v1d804571d5d4
-lockable-resources:1240.v43673a_a_7944a_
+lockable-resources:1243.v346d600eea_24
 mailer:463.vedf8358e006b_
 matrix-auth:3.2.1
 matrix-project:822.824.v14451b_c0fd42
@@ -112,7 +112,7 @@ scm-api:683.vb_16722fb_b_80b_
 script-security:1326.vdb_c154de8669
 slack:684.v833089650554
 snakeyaml-api:2.2-111.vc6598e30cc65
-sonar:2.17.1
+sonar:2.17.2
 sse-gateway:1.26
 ssh-credentials:308.ve4497b_ccd8f4
 sshd:3.322.v159e91f6a_550
