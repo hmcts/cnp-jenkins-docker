@@ -31,11 +31,11 @@ blueocean-rest:1.27.11
 blueocean-web:1.27.11
 blueocean:1.27.11
 bouncycastle-api:2.30.1.77-225.v26ea_c9455fd9
-branch-api:2.1148.vce12cfcdf090
+branch-api:2.1152.v6f101e97dd77
 build-monitor-plugin:1.14-826.vb_a_c11536174d
 checks-api:2.0.2
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:874.v659a_b_70f5e69
+cloudbees-bitbucket-branch-source:876.v857269a_5f439
 cloudbees-disk-usage-simple:203.v3f46a_7462b_1a_
 cloudbees-folder:6.921.vfb_b_224371fb_4
 command-launcher:107.v773860566e2e
@@ -48,10 +48,10 @@ display-url-api:2.200.vb_9327d658781
 docker-commons:439.va_3cb_0a_6a_fb_29
 docker-workflow:572.v950f58993843
 durable-task:550.v0930093c4b_a_6
-echarts-api:5.4.3-2
+echarts-api:5.4.3-4
 extended-read-permission:53.v6499940139e5
 favorite:2.208.v91d65b_7792a_c
-font-awesome-api:6.5.1-2
+font-awesome-api:6.5.1-3
 gatling:1.3.0
 git-client:4.6.0
 git:5.2.1
@@ -103,7 +103,7 @@ pipeline-stage-tags-metadata:2.2175.v76a_fff0a_2618
 pipeline-stage-view:2.34
 pipeline-utility-steps:2.16.2
 plain-credentials:143.v1b_df8b_d3b_e48
-plugin-util-api:3.8.0
+plugin-util-api:4.1.0
 pubsub-light:1.18
 run-condition:1.7
 saml:4.464.vea_cb_75d7f5e0
