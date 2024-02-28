@@ -32,7 +32,7 @@ blueocean-web:1.27.11
 blueocean:1.27.11
 bouncycastle-api:2.30.1.77-225.v26ea_c9455fd9
 branch-api:2.1152.v6f101e97dd77
-build-monitor-plugin:1.14-826.vb_a_c11536174d
+build-monitor-plugin:1.14-860.vd06ef2568b_3f
 checks-api:2.0.2
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:876.v857269a_5f439
@@ -89,7 +89,7 @@ monitoring:1.98.0
 opentelemetry:3.1111.vc2733c03b_db_1
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:42.v0739460cda_c4
-pipeline-graph-analysis:202.va_d268e64deb_3
+pipeline-graph-analysis:216.vfd8b_ece330ca_
 pipeline-graph-view:224.vef989d141666
 pipeline-groovy-lib:704.vc58b_8890a_384
 pipeline-input-step:491.vb_07d21da_1a_fb_
@@ -117,7 +117,7 @@ sse-gateway:1.26
 ssh-credentials:308.ve4497b_ccd8f4
 sshd:3.322.v159e91f6a_550
 structs:337.v1b_04ea_4df7c8
-support-core:1375.va_256158e8881
+support-core:1386.vc7f0a_46f9e6c
 timestamper:1.26
 token-macro:400.v35420b_922dcb_
 theme-manager:215.vc1ff18d67920
