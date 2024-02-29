@@ -35,7 +35,7 @@ branch-api:2.1152.v6f101e97dd77
 build-monitor-plugin:1.14-860.vd06ef2568b_3f
 checks-api:2.0.2
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:877.vb_b_d5243f6794
+cloudbees-bitbucket-branch-source:876.v857269a_5f439
 cloudbees-disk-usage-simple:203.v3f46a_7462b_1a_
 cloudbees-folder:6.928.v7c780211d66e
 command-launcher:107.v773860566e2e
@@ -127,7 +127,7 @@ windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
 workflow-basic-steps:1042.ve7b_140c4a_e0c
-workflow-cps:3880.vb_ef4b_5cfd270
+workflow-cps:3867.v535458ce43fd
 workflow-durable-task-step:1331.vc8c2fed35334
 workflow-job:1400.v7fd111b_ec82f
 workflow-multibranch:783.va_6eb_ef636fb_d
