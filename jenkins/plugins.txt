@@ -78,7 +78,7 @@ jsch:0.2.16-86.v42e010d9484b_
 junit:1259.v65ffcef24a_88
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:0.11
-kubernetes:4186.v1d804571d5d4
+kubernetes:4193.vded98e56cc25
 lockable-resources:1243.v346d600eea_24
 mailer:470.vc91f60c5d8e2
 matrix-auth:3.2.1
@@ -126,7 +126,7 @@ variant:60.v7290fc0eb_b_cd
 windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
-workflow-basic-steps:1047.v2e7111a_e4194
+workflow-basic-steps:1049.v257a_e6b_30fb_d
 workflow-cps:3880.vb_ef4b_5cfd270
 workflow-durable-task-step:1331.vc8c2fed35334
 workflow-job:1400.v7fd111b_ec82f
