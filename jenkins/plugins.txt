@@ -62,7 +62,7 @@ github:1.38.0
 github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
 handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
-htmlpublisher:1.32.1
+htmlpublisher:1.33
 http_request:1.18
 instance-identity:185.v303dc7c645f9
 jackson2-api:2.16.1-373.ve709c6871598
@@ -81,7 +81,7 @@ kubernetes-credentials:0.11
 kubernetes:4193.vded98e56cc25
 lockable-resources:1243.v346d600eea_24
 mailer:470.vc91f60c5d8e2
-matrix-auth:3.2.1
+matrix-auth:3.2.2
 matrix-project:822.824.v14451b_c0fd42
 maven-plugin:3.23
 metrics:4.2.21-449.v6960d7c54c69
