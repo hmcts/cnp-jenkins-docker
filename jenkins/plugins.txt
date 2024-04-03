@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
 azure-keyvault:237.v301692369180
 azure-sdk:157.v855da_0b_eb_dc2
-azure-vm-agents:901.ved986df424b_3
+azure-vm-agents:921.v76424a_e24594
 basic-branch-build-strategies:81.v05e333931c7d
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.11
@@ -127,7 +127,7 @@ windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
 workflow-basic-steps:1049.v257a_e6b_30fb_d
-workflow-cps:3889.v937e0b_3412d3
+workflow-cps:3894.vd0f0248b_a_fc4
 workflow-durable-task-step:1336.v768003e07199
 workflow-job:1400.v7fd111b_ec82f
 workflow-multibranch:783.va_6eb_ef636fb_d
