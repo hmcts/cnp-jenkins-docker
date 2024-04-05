@@ -2,7 +2,7 @@ ansicolor:1.0.4
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
-azure-ad:457.vf85d61f83b_26
+azure-ad:471.vdfa_2441c67a_f
 azure-artifact-manager:154.vb6e2724f0095
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
@@ -33,7 +33,7 @@ blueocean:1.27.11
 bouncycastle-api:2.30.1.77-225.v26ea_c9455fd9
 branch-api:2.1152.v6f101e97dd77
 build-monitor-plugin:1.14-860.vd06ef2568b_3f
-checks-api:2.0.2
+checks-api:2.2.0
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:883.v041fa_695e9c2
 cloudbees-disk-usage-simple:203.v3f46a_7462b_1a_
