@@ -43,7 +43,7 @@ configuration-as-code:1775.v810dc950b_514
 copyartifact:722.v0662a_9b_e22a_c
 credentials-binding:677.vdc9d38cb_254d
 credentials:1337.v60b_d7b_c7b_c9f
-dark-theme:460.va_de13e406a_14
+dark-theme:465.vd8b_419b_0728f
 display-url-api:2.204.vf6fddd8a_8b_e9
 docker-commons:439.va_3cb_0a_6a_fb_29
 docker-workflow:572.v950f58993843
@@ -54,7 +54,7 @@ favorite:2.208.v91d65b_7792a_c
 font-awesome-api:6.5.2-1
 gatling:1.3.0
 git-client:4.7.0
-git:5.2.1
+git:5.2.2
 github-api:1.318-461.v7a_c09c9fa_d63
 github-branch-source:1789.v5b_0c0cea_18c3
 github-checks:554.vb_ee03a_000f65
@@ -78,7 +78,7 @@ jsch:0.2.16-86.v42e010d9484b_
 junit:1265.v65b_14fa_f12f0
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:0.11
-kubernetes:4211.v08850dd0dfa_3
+kubernetes:4214.vf10083a_42e70
 lockable-resources:1255.vf48745da_35d0
 mailer:472.vf7c289a_4b_420
 matrix-auth:3.2.2
@@ -110,7 +110,7 @@ saml:4.464.vea_cb_75d7f5e0
 sauce-ondemand:1.214
 scm-api:690.vfc8b_54395023
 script-security:1336.vf33a_a_9863911
-slack:684.v833089650554
+slack:714.v62ffe7c796cd
 snakeyaml-api:2.2-111.vc6598e30cc65
 sonar:2.17.2
 sse-gateway:1.26
