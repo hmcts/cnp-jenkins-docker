@@ -110,7 +110,7 @@ saml:4.464.vea_cb_75d7f5e0
 sauce-ondemand:1.214
 scm-api:690.vfc8b_54395023
 script-security:1336.vf33a_a_9863911
-slack:714.v62ffe7c796cd
+slack:715.v1cfed1b_9c63c
 snakeyaml-api:2.2-111.vc6598e30cc65
 sonar:2.17.2
 sse-gateway:1.26
