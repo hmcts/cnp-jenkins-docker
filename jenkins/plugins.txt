@@ -30,14 +30,14 @@ blueocean-rest-impl:1.27.12
 blueocean-rest:1.27.12
 blueocean-web:1.27.12
 blueocean:1.27.12
-bouncycastle-api:2.30.1.77-225.v26ea_c9455fd9
+bouncycastle-api:2.30.1.78.1-233.vfdcdeb_0a_08a_a_
 branch-api:2.1169.va_f810c56e895
 build-monitor-plugin:1.14-876.v2162064db_a_93
 checks-api:2.2.0
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:886.v44cf5e4ecec5
 cloudbees-disk-usage-simple:203.v3f46a_7462b_1a_
-cloudbees-folder:6.940.v7fa_03b_f14759
+cloudbees-folder:6.942.vb_43318a_156b_2
 command-launcher:107.v773860566e2e
 configuration-as-code:1810.v9b_c30a_249a_4c
 copyartifact:722.v0662a_9b_e22a_c
@@ -62,7 +62,7 @@ github:1.39.0
 github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
 handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
-htmlpublisher:1.33
+htmlpublisher:1.34
 http_request:1.18
 instance-identity:185.v303dc7c645f9
 jackson2-api:2.17.0-379.v02de8ec9f64c
@@ -125,7 +125,7 @@ trilead-api:2.142.v748523a_76693
 variant:60.v7290fc0eb_b_cd
 windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:596.v8c21c963d92d
-workflow-api:1312.ve804c2f2d51e
+workflow-api:1316.v33eb_726c50b_a_
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
 workflow-cps:3894.3896.vca_2c931e7935
 workflow-durable-task-step:1353.v1891a_b_01da_18
