@@ -32,7 +32,7 @@ blueocean-web:1.27.12
 blueocean:1.27.12
 bouncycastle-api:2.30.1.78.1-233.vfdcdeb_0a_08a_a_
 branch-api:2.1169.va_f810c56e895
-build-monitor-plugin:1.14-876.v2162064db_a_93
+build-monitor-plugin:1.14-883.vf620a_44eb_ec1
 checks-api:2.2.0
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:886.v44cf5e4ecec5
@@ -78,15 +78,15 @@ jsch:0.2.16-86.v42e010d9484b_
 junit:1265.v65b_14fa_f12f0
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:174.va_36e093562d9
-kubernetes:4234.vdf3e78112369
+kubernetes:4238.v41b_3ef14a_5d8
 lockable-resources:1255.vf48745da_35d0
 mailer:472.vf7c289a_4b_420
 matrix-auth:3.2.2
 matrix-project:830.v7ea_da_561b_a_34
 maven-plugin:3.23
 metrics:4.2.21-451.vd51df8df52ec
-monitoring:1.98.0
-opentelemetry:3.1138.v80fc844ed246
+monitoring:1.99.0
+opentelemetry:3.1205.v862c5d236ecc
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:61.v629f2cc41d83
 pipeline-graph-analysis:216.vfd8b_ece330ca_
@@ -121,7 +121,7 @@ support-core:1449.v261d6f7b_f9f3
 timestamper:1.27
 token-macro:400.v35420b_922dcb_
 theme-manager:215.vc1ff18d67920
-trilead-api:2.142.v748523a_76693
+trilead-api:2.147.vb_73cc728a_32e
 variant:60.v7290fc0eb_b_cd
 windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:596.v8c21c963d92d
