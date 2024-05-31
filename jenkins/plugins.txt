@@ -82,11 +82,11 @@ kubernetes:4238.v41b_3ef14a_5d8
 lockable-resources:1255.vf48745da_35d0
 mailer:472.vf7c289a_4b_420
 matrix-auth:3.2.2
-matrix-project:830.v7ea_da_561b_a_34
+matrix-project:831.v084e85a_b_4ea_d
 maven-plugin:3.23
 metrics:4.2.21-451.vd51df8df52ec
 monitoring:1.99.0
-opentelemetry:3.1205.v862c5d236ecc
+opentelemetry:3.1209.v1d64463d3d6c
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:61.v629f2cc41d83
 pipeline-graph-analysis:216.vfd8b_ece330ca_
@@ -109,7 +109,7 @@ run-condition:1.7
 saml:4.464.vea_cb_75d7f5e0
 sauce-ondemand:1.214
 scm-api:690.vfc8b_54395023
-script-security:1336.vf33a_a_9863911
+script-security:1341.va_2819b_414686
 slack:715.v1cfed1b_9c63c
 snakeyaml-api:2.2-111.vc6598e30cc65
 sonar:2.17.2
