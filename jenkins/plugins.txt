@@ -78,7 +78,7 @@ jsch:0.2.16-86.v42e010d9484b_
 junit:1265.v65b_14fa_f12f0
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:174.va_36e093562d9
-kubernetes:4244.v4fb_b_00994a_90
+kubernetes:4245.vf5b_83f1fee6e
 lockable-resources:1255.vf48745da_35d0
 mailer:472.vf7c289a_4b_420
 matrix-auth:3.2.2
