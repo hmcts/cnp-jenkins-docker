@@ -29,7 +29,7 @@ jobs:
           echo JENKINS_VERSION=$(grep "FROM jenkins" jenkins/Dockerfile | cut -d: -f2 | cut -d- -f1) >> $GITHUB_ENV
       - name: Build and Push
         id: docker_build
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
           context: ./jenkins
           push: true
