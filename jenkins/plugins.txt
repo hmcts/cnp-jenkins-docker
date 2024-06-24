@@ -90,7 +90,7 @@ opentelemetry:3.1215.vc9db_a_0b_34c2a_
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:61.v629f2cc41d83
 pipeline-graph-analysis:216.vfd8b_ece330ca_
-pipeline-graph-view:287.v3ef017b_780d5
+pipeline-graph-view:304.va_f2a_16b_e4964
 pipeline-groovy-lib:727.ve832a_9244dfa_
 pipeline-input-step:495.ve9c153f6067b_
 pipeline-milestone-step:119.vdfdc43fc3b_9a_
