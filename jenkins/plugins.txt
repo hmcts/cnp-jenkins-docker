@@ -62,7 +62,7 @@ github:1.39.0
 github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
 github-scm-filter-aged-refs:31.ve3b_ca_fc71d5b_
 handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
-htmlpublisher:1.34
+htmlpublisher:1.35
 http_request:1.18
 instance-identity:185.v303dc7c645f9
 jackson2-api:2.17.0-379.v02de8ec9f64c
