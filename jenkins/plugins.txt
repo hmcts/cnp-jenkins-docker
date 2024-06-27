@@ -35,14 +35,14 @@ branch-api:2.1169.va_f810c56e895
 build-monitor-plugin:1.14-883.vf620a_44eb_ec1
 checks-api:2.2.0
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:886.v44cf5e4ecec5
+cloudbees-bitbucket-branch-source:887.va_d359b_3d2d8d
 cloudbees-disk-usage-simple:203.v3f46a_7462b_1a_
 cloudbees-folder:6.942.vb_43318a_156b_2
 command-launcher:107.v773860566e2e
 configuration-as-code:1810.v9b_c30a_249a_4c
 copyartifact:746.vd2a_674fb_4f6f
 credentials-binding:677.vdc9d38cb_254d
-credentials:1337.v60b_d7b_c7b_c9f
+credentials:1344.v5a_3f65a_1e173
 dark-theme:479.v661b_1b_911c01
 display-url-api:2.204.vf6fddd8a_8b_e9
 docker-commons:439.va_3cb_0a_6a_fb_29
@@ -102,7 +102,7 @@ pipeline-stage-step:312.v8cd10304c27a_
 pipeline-stage-tags-metadata:2.2198.v41dd8ef6dd56
 pipeline-stage-view:2.34
 pipeline-utility-steps:2.17.0
-plain-credentials:182.v468b_97b_9dcb_8
+plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:4.1.0
 pubsub-light:1.18
 run-condition:1.7
@@ -116,7 +116,7 @@ sonar:2.17.2
 sse-gateway:1.27
 ssh-credentials:337.v395d2403ccd4
 sshd:3.330.vc866a_8389b_58
-structs:337.v1b_04ea_4df7c8
+structs:338.v848422169819
 support-core:1449.v261d6f7b_f9f3
 timestamper:1.27
 token-macro:400.v35420b_922dcb_
