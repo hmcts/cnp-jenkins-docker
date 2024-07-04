@@ -41,7 +41,7 @@ cloudbees-folder:6.942.vb_43318a_156b_2
 command-launcher:107.v773860566e2e
 configuration-as-code:1810.v9b_c30a_249a_4c
 copyartifact:746.vd2a_674fb_4f6f
-credentials-binding:679.v6288482e873c
+credentials-binding:681.vf91669a_32e45
 credentials:1355.v46f52a_b_98d64
 dark-theme:479.v661b_1b_911c01
 display-url-api:2.204.vf6fddd8a_8b_e9
@@ -124,7 +124,7 @@ theme-manager:262.vc57ee4a_eda_5d
 trilead-api:2.147.vb_73cc728a_32e
 variant:60.v7290fc0eb_b_cd
 windows-azure-storage:419.v4046cd70d2e3
-workflow-aggregator:596.v8c21c963d92d
+workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1316.v33eb_726c50b_a_
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
 workflow-cps:3903.v48a_8836749e9
