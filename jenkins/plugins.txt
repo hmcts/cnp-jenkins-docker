@@ -2,7 +2,7 @@ ansicolor:1.0.4
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.119.v50285141b_7e1
-azure-ad:501.v1a_a_df23f81cb_
+azure-ad:502.v7e7931d0665e
 azure-artifact-manager:154.vb6e2724f0095
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
@@ -42,7 +42,7 @@ command-launcher:107.v773860566e2e
 configuration-as-code:1810.v9b_c30a_249a_4c
 copyartifact:746.vd2a_674fb_4f6f
 credentials-binding:681.vf91669a_32e45
-credentials:1361.v56f5ca_35d21c
+credentials:1371.vfee6b_095f0a_3
 dark-theme:479.v661b_1b_911c01
 display-url-api:2.204.vf6fddd8a_8b_e9
 docker-commons:439.va_3cb_0a_6a_fb_29
