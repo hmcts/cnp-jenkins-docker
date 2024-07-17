@@ -2,7 +2,7 @@ ansicolor:1.0.4
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.119.v50285141b_7e1
-azure-ad:502.v7e7931d0665e
+azure-ad:504.vc4785930e17a_
 azure-artifact-manager:154.vb6e2724f0095
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
@@ -56,7 +56,7 @@ gatling:1.3.0
 git-client:5.0.0
 git:5.2.2
 github-api:1.318-461.v7a_c09c9fa_d63
-github-branch-source:1789.v5b_0c0cea_18c3
+github-branch-source:1790.v5a_7859812c8d
 github-checks:581.va_9669c91d6cb_
 github:1.39.0
 github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
