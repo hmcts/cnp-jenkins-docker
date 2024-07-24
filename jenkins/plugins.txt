@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
 azure-keyvault:251.vcfe31c013dc7
 azure-sdk:174.va_89c1df897d2
-azure-vm-agents:941.v72b_1cca_b_cd22
+azure-vm-agents:948.v0b_47dc66677e
 basic-branch-build-strategies:81.v05e333931c7d
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.14
@@ -114,7 +114,7 @@ slack:722.vd07f1ea_7ff40
 snakeyaml-api:2.2-111.vc6598e30cc65
 sonar:2.17.2
 sse-gateway:1.27
-ssh-credentials:337.v395d2403ccd4
+ssh-credentials:341.vf31377f30378
 sshd:3.330.vc866a_8389b_58
 structs:338.v848422169819
 support-core:1461.v3ed77a_a_8e1c4
