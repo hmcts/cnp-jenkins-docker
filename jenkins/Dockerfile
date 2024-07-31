@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.469-jdk21
+FROM jenkins/jenkins:2.470-jdk21
 
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
 
