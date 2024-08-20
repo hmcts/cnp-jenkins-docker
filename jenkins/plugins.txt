@@ -75,7 +75,7 @@ jenkins-design-language:1.27.14
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
 job-dsl:1.87
 jsch:0.2.16-86.v42e010d9484b_
-junit:1284.vf75d778f98c5
+junit:1291.v60776881903c
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:189.v90a_488b_d1d65
 kubernetes:4285.v50ed5f624918
