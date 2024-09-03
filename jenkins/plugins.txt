@@ -79,7 +79,7 @@ junit:1296.vb_f538b_c88630
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:189.v90a_488b_d1d65
 kubernetes:4285.v50ed5f624918
-lockable-resources:1255.vf48745da_35d0
+lockable-resources:1301.v0e3b_da_4b_4462
 mailer:472.vf7c289a_4b_420
 matrix-auth:3.2.2
 matrix-project:832.va_66e270d2946
@@ -109,15 +109,15 @@ run-condition:1.7
 saml:4.464.vea_cb_75d7f5e0
 sauce-ondemand:1.214
 scm-api:696.v778d637b_a_762
-script-security:1354.va_70a_fe478c7f
+script-security:1358.vb_26663c13537
 slack:741.v00f9591c586d
-snakeyaml-api:2.2-121.v5a_68b_9300b_d4
+snakeyaml-api:2.3-123.v13484c65210a_
 sonar:2.17.2
 sse-gateway:1.27
 ssh-credentials:343.v884f71d78167
 sshd:3.330.vc866a_8389b_58
 structs:338.v848422169819
-support-core:1477.v998880b_16031
+support-core:1502.vf6db_b_4c0b_b_62
 timestamper:1.27
 token-macro:400.v35420b_922dcb_
 theme-manager:262.vc57ee4a_eda_5d
