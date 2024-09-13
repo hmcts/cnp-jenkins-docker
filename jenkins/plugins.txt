@@ -73,12 +73,12 @@ javax-mail-api:1.6.2-10
 jdk-tool:80.v8a_dee33ed6f0
 jenkins-design-language:1.27.14
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
-job-dsl:1.88
+job-dsl:1.89
 jsch:0.2.16-86.v42e010d9484b_
 junit:1300.v03d9d8a_cf1fb_
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:189.v90a_488b_d1d65
-kubernetes:4285.v50ed5f624918
+kubernetes:4287.v73451380b_576
 lockable-resources:1301.v0e3b_da_4b_4462
 mailer:472.vf7c289a_4b_420
 matrix-auth:3.2.2
@@ -106,10 +106,10 @@ plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:4.1.0
 pubsub-light:1.18
 run-condition:1.7
-saml:4.485.v99810fb_34d77
+saml:4.487.v9f1c3328f1c0
 sauce-ondemand:1.214
 scm-api:696.v778d637b_a_762
-script-security:1358.vb_26663c13537
+script-security:1361.v913100720139
 slack:741.v00f9591c586d
 snakeyaml-api:2.3-123.v13484c65210a_
 sonar:2.17.2
