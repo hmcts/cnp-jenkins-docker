@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
 azure-keyvault:251.vcfe31c013dc7
 azure-sdk:174.va_89c1df897d2
-azure-vm-agents:948.v0b_47dc66677e
+azure-vm-agents:954.ve27457dda_dc9
 basic-branch-build-strategies:81.v05e333931c7d
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.16
@@ -54,7 +54,7 @@ favorite:2.221.v19ca_666b_62f5
 font-awesome-api:6.6.0-2
 gatling:1.3.0
 git-client:6.0.0
-git:5.4.1
+git:5.5.0
 github-api:1.321-478.vc9ce627ce001
 github-branch-source:1797.v86fdb_4d57d43
 github-checks:589.v845136f916cd
@@ -77,7 +77,7 @@ job-dsl:1.89
 jsch:0.2.16-86.v42e010d9484b_
 junit:1300.v03d9d8a_cf1fb_
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
-kubernetes-credentials:189.v90a_488b_d1d65
+kubernetes-credentials:190.v03c305394deb_
 kubernetes:4288.v1719f9d0c854
 lockable-resources:1309.ve21874387edf
 mailer:472.vf7c289a_4b_420
