@@ -37,7 +37,7 @@ checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:888.v8e6d479a_1730
 cloudbees-disk-usage-simple:203.v3f46a_7462b_1a_
-cloudbees-folder:6.951.v5f91d88d76b_b_
+cloudbees-folder:6.955.v81e2a_35c08d3
 command-launcher:115.vd8b_301cc15d0
 configuration-as-code:1850.va_a_8c31d3158b_
 copyartifact:749.vfb_dca_a_9b_6549
@@ -75,7 +75,7 @@ jenkins-design-language:1.27.16
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
 job-dsl:1.89
 jsch:0.2.16-86.v42e010d9484b_
-junit:1300.v03d9d8a_cf1fb_
+junit:1302.va_b_878c32eb_b_5
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
 kubernetes:4290.v93ea_4b_b_26a_61
@@ -127,7 +127,7 @@ windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1336.vee415d95c521
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
-workflow-cps:3964.v0767b_4b_a_0b_fa_
+workflow-cps:3969.vdc9d3a_efcc6a_
 workflow-durable-task-step:1371.vb_7cec8f3b_95e
 workflow-job:1436.vfa_244484591f
 workflow-multibranch:795.ve0cb_1f45ca_9a_
