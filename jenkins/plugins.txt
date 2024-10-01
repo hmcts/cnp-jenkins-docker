@@ -64,7 +64,7 @@ github-scm-filter-aged-refs:47.v5450b_74d684c
 handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
 htmlpublisher:1.36
 http_request:1.19
-instance-identity:185.v303dc7c645f9
+instance-identity:201.vd2a_b_5a_468a_a_6
 jackson2-api:2.17.0-379.v02de8ec9f64c
 jacoco:3.3.6
 jaxb:2.3.9-1
@@ -80,7 +80,7 @@ kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
 kubernetes:4290.v93ea_4b_b_26a_61
 lockable-resources:1315.v4ea_8e5159ec8
-mailer:472.vf7c289a_4b_420
+mailer:488.v0c9639c1a_eb_3
 matrix-auth:3.2.2
 matrix-project:832.va_66e270d2946
 maven-plugin:3.23
