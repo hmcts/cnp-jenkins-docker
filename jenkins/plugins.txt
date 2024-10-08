@@ -1,4 +1,4 @@
-ansicolor:1.0.4
+ansicolor:1.0.5
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.119.v50285141b_7e1
@@ -75,7 +75,7 @@ jenkins-design-language:1.27.16
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
 job-dsl:1.89
 jsch:0.2.16-86.v42e010d9484b_
-junit:1303.v05e2505656b_7
+junit:1304.vc85a_b_ca_96613
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
 kubernetes:4290.v93ea_4b_b_26a_61
@@ -110,7 +110,7 @@ saml:4.487.v9f1c3328f1c0
 sauce-ondemand:1.214
 scm-api:696.v778d637b_a_762
 script-security:1362.v67dc1f0e1b_b_3
-slack:741.v00f9591c586d
+slack:751.v2e44153c8fe1
 snakeyaml-api:2.3-123.v13484c65210a_
 sonar:2.17.2
 sse-gateway:1.27
