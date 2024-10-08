@@ -82,7 +82,7 @@ kubernetes:4290.v93ea_4b_b_26a_61
 lockable-resources:1315.v4ea_8e5159ec8
 mailer:488.v0c9639c1a_eb_3
 matrix-auth:3.2.2
-matrix-project:838.v4d7b_7b_f9b_d4b_
+matrix-project:839.vff91cd7e3a_b_2
 maven-plugin:3.23
 metrics:4.2.21-451.vd51df8df52ec
 monitoring:1.99.0
