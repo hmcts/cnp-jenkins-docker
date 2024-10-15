@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
 azure-keyvault:251.vcfe31c013dc7
 azure-sdk:174.va_89c1df897d2
-azure-vm-agents:960.v655c495b_4ff7
+azure-vm-agents:961.v09fa_01e1348f
 basic-branch-build-strategies:190.v343a_ee70d920
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.16
@@ -48,7 +48,7 @@ display-url-api:2.209.v582ed814ff2f
 docker-commons:443.v921729d5611d
 docker-workflow:580.vc0c340686b_54
 durable-task:577.v2a_8a_4b_7c0247
-echarts-api:5.5.1-1
+echarts-api:5.5.1-2
 extended-read-permission:53.v6499940139e5
 favorite:2.221.v19ca_666b_62f5
 font-awesome-api:6.6.0-2
@@ -79,7 +79,7 @@ junit:1304.vc85a_b_ca_96613
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
 kubernetes:4292.v11898cf8fa_66
-lockable-resources:1315.v4ea_8e5159ec8
+lockable-resources:1320.v1f0dff578476
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.2
 matrix-project:840.v812f627cb_578
@@ -127,9 +127,9 @@ windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1336.vee415d95c521
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
-workflow-cps:3969.vdc9d3a_efcc6a_
+workflow-cps:3975.v567e2a_1ffa_22
 workflow-durable-task-step:1371.vb_7cec8f3b_95e
-workflow-job:1447.v559b_c710cd2e
+workflow-job:1459.v6c531091efcd
 workflow-multibranch:795.ve0cb_1f45ca_9a_
 workflow-scm-step:427.v4ca_6512e7df1
 workflow-step-api:678.v3ee58b_469476
