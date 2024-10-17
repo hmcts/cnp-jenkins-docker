@@ -48,7 +48,7 @@ display-url-api:2.209.v582ed814ff2f
 docker-commons:443.v921729d5611d
 docker-workflow:580.vc0c340686b_54
 durable-task:577.v2a_8a_4b_7c0247
-echarts-api:5.5.1-2
+echarts-api:5.5.1-3
 extended-read-permission:53.v6499940139e5
 favorite:2.221.v19ca_666b_62f5
 font-awesome-api:6.6.0-2
@@ -56,7 +56,7 @@ gatling:1.3.0
 git-client:6.1.0
 git:5.6.0
 github-api:1.321-478.vc9ce627ce001
-github-branch-source:1797.v86fdb_4d57d43
+github-branch-source:1803.v98e3d8a_c8169
 github-checks:589.v845136f916cd
 github:1.40.0
 github-scm-trait-notification-context:40.vfa_7f31a_b_d7f8
@@ -133,4 +133,4 @@ workflow-job:1459.v6c531091efcd
 workflow-multibranch:795.ve0cb_1f45ca_9a_
 workflow-scm-step:427.v4ca_6512e7df1
 workflow-step-api:678.v3ee58b_469476
-workflow-support:926.v9f4f9b_b_98c19
+workflow-support:930.vf51d22b_ce488
