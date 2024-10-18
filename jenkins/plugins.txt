@@ -75,10 +75,10 @@ jenkins-design-language:1.27.16
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
 job-dsl:1.89
 jsch:0.2.16-86.v42e010d9484b_
-junit:1304.vc85a_b_ca_96613
+junit:1307.vdd5b_2646279e
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
-kubernetes:4292.v11898cf8fa_66
+kubernetes:4295.v7fa_01b_309c95
 lockable-resources:1320.v1f0dff578476
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.2
