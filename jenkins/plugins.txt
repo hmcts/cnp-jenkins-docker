@@ -31,7 +31,7 @@ blueocean-rest:1.27.16
 blueocean-web:1.27.16
 blueocean:1.27.16
 bouncycastle-api:2.30.1.78.1-248.ve27176eb_46cb_
-branch-api:2.1182.va_e67548fb_ed2
+branch-api:2.1193.v64a_61471c489
 build-monitor-plugin:1.14-925.v95b_9089a_4c7f
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
@@ -106,10 +106,10 @@ plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:5.1.0
 pubsub-light:1.18
 run-condition:1.7
-saml:4.496.v56a_6423dca_35
+saml:4.501.v4313a_01e3a_18
 sauce-ondemand:1.214
 scm-api:698.v8e3b_c788f0a_6
-script-security:1365.v4778ca_84b_de5
+script-security:1366.vd44b_49a_5c85c
 slack:751.v2e44153c8fe1
 snakeyaml-api:2.3-123.v13484c65210a_
 sonar:2.17.2
