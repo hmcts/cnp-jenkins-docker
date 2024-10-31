@@ -73,7 +73,7 @@ javax-mail-api:1.6.2-10
 jdk-tool:80.v8a_dee33ed6f0
 jenkins-design-language:1.27.16
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
-job-dsl:1.89
+job-dsl:1.90
 jsch:0.2.16-86.v42e010d9484b_
 junit:1307.vdd5b_2646279e
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
@@ -90,7 +90,7 @@ opentelemetry:3.1419.v3b_27ca_911066
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:61.v629f2cc41d83
 pipeline-graph-analysis:216.vfd8b_ece330ca_
-pipeline-graph-view:380.v3588b_7033338
+pipeline-graph-view:382.vb_9a_27b_7b_ea_71
 pipeline-groovy-lib:744.v5b_556ee7c253
 pipeline-input-step:495.ve9c153f6067b_
 pipeline-milestone-step:119.vdfdc43fc3b_9a_
@@ -118,7 +118,7 @@ ssh-credentials:343.v884f71d78167
 sshd:3.330.vc866a_8389b_58
 structs:338.v848422169819
 support-core:1521.va_992a_0879034
-timestamper:1.27
+timestamper:1.28
 token-macro:400.v35420b_922dcb_
 theme-manager:262.vc57ee4a_eda_5d
 trilead-api:2.147.vb_73cc728a_32e
