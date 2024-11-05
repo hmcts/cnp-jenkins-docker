@@ -85,7 +85,7 @@ matrix-auth:3.2.3
 matrix-project:840.v812f627cb_578
 maven-plugin:3.24
 metrics:4.2.21-458.vcf496cb_839e4
-monitoring:1.99.0
+monitoring:2.3.0
 opentelemetry:3.1419.v3b_27ca_911066
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:61.v629f2cc41d83
@@ -117,7 +117,7 @@ sse-gateway:1.27
 ssh-credentials:343.v884f71d78167
 sshd:3.330.vc866a_8389b_58
 structs:338.v848422169819
-support-core:1521.va_992a_0879034
+support-core:1523.v5486c8d6da_f3
 timestamper:1.28
 token-macro:400.v35420b_922dcb_
 theme-manager:262.vc57ee4a_eda_5d
@@ -133,4 +133,4 @@ workflow-job:1460.v28178c1ef6e6
 workflow-multibranch:795.ve0cb_1f45ca_9a_
 workflow-scm-step:427.v4ca_6512e7df1
 workflow-step-api:678.v3ee58b_469476
-workflow-support:930.vf51d22b_ce488
+workflow-support:932.vb_555de1b_a_b_94
