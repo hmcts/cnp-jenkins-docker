@@ -7,7 +7,7 @@ azure-artifact-manager:154.vb6e2724f0095
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
 azure-keyvault:251.vcfe31c013dc7
-azure-sdk:174.va_89c1df897d2
+azure-sdk:184.v1f2c161c9777
 azure-vm-agents:961.v09fa_01e1348f
 basic-branch-build-strategies:190.v343a_ee70d920
 blueocean-autofavorite:1.2.5
@@ -31,11 +31,11 @@ blueocean-rest:1.27.16
 blueocean-web:1.27.16
 blueocean:1.27.16
 bouncycastle-api:2.30.1.78.1-248.ve27176eb_46cb_
-branch-api:2.1197.vfa_d0c47c267d
+branch-api:2.1199.v20ee565260fb_
 build-monitor-plugin:1.14-942.v18a_5ca_625a_91
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:895.v15dc41668f03
+cloudbees-bitbucket-branch-source:906.vedf430cb_4481
 cloudbees-disk-usage-simple:205.v47f4ee8803d1
 cloudbees-folder:6.955.v81e2a_35c08d3
 command-launcher:115.vd8b_301cc15d0
@@ -78,7 +78,7 @@ jsch:0.2.16-86.v42e010d9484b_
 junit:1307.vdd5b_2646279e
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
-kubernetes:4295.v7fa_01b_309c95
+kubernetes:4296.v20a_7e4d77cf6
 lockable-resources:1327.ved786b_a_197e0
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.3
@@ -86,7 +86,7 @@ matrix-project:840.v812f627cb_578
 maven-plugin:3.24
 metrics:4.2.21-458.vcf496cb_839e4
 monitoring:2.3.0
-opentelemetry:3.1419.v3b_27ca_911066
+opentelemetry:3.1423.v0d1a_2fcd2429
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:61.v629f2cc41d83
 pipeline-graph-analysis:216.vfd8b_ece330ca_
