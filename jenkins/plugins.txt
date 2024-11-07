@@ -31,12 +31,12 @@ blueocean-rest:1.27.16
 blueocean-web:1.27.16
 blueocean:1.27.16
 bouncycastle-api:2.30.1.78.1-248.ve27176eb_46cb_
-branch-api:2.1199.v20ee565260fb_
-build-monitor-plugin:1.14-942.v18a_5ca_625a_91
+branch-api:2.1200.v4b_a_3da_2eb_db_4
+build-monitor-plugin:1.14-943.vf82794123d4e
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:906.vedf430cb_4481
-cloudbees-disk-usage-simple:205.v47f4ee8803d1
+cloudbees-disk-usage-simple:232.v713eeed2e1f4
 cloudbees-folder:6.955.v81e2a_35c08d3
 command-launcher:115.vd8b_301cc15d0
 configuration-as-code:1887.v9e47623cb_043
