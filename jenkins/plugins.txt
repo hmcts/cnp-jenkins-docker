@@ -35,7 +35,7 @@ branch-api:2.1200.v4b_a_3da_2eb_db_4
 build-monitor-plugin:1.14-947.vfec2cf655fe2
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:906.vedf430cb_4481
+cloudbees-bitbucket-branch-source:910.v5b_9b_36e0379e
 cloudbees-disk-usage-simple:232.v713eeed2e1f4
 cloudbees-folder:6.955.v81e2a_35c08d3
 command-launcher:116.vd85919c54a_d6
@@ -107,7 +107,7 @@ plugin-util-api:5.1.0
 pubsub-light:1.18
 run-condition:1.7
 saml:4.501.v4313a_01e3a_18
-sauce-ondemand:1.214
+sauce-ondemand:1.215
 scm-api:698.v8e3b_c788f0a_6
 script-security:1369.v9b_98a_4e95b_2d
 slack:751.v2e44153c8fe1
