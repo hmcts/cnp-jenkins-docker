@@ -37,7 +37,7 @@ checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:910.v5b_9b_36e0379e
 cloudbees-disk-usage-simple:232.v713eeed2e1f4
-cloudbees-folder:6.955.v81e2a_35c08d3
+cloudbees-folder:6.959.v4ed5cc9e2dd4
 command-launcher:116.vd85919c54a_d6
 configuration-as-code:1887.v9e47623cb_043
 copyartifact:757.v05365583a_455
@@ -123,7 +123,7 @@ token-macro:400.v35420b_922dcb_
 theme-manager:262.vc57ee4a_eda_5d
 trilead-api:2.147.vb_73cc728a_32e
 variant:60.v7290fc0eb_b_cd
-windows-azure-storage:448.v6496db_f62275
+windows-azure-storage:454.v573775e9feef
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1336.vee415d95c521
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
