@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:312.v0f3973cd1e59
 azure-keyvault:251.vcfe31c013dc7
 azure-sdk:184.v1f2c161c9777
-azure-vm-agents:966.v39138b_4ca_5cd
+azure-vm-agents:968.v7885b_e6e6fb_b_
 basic-branch-build-strategies:190.v343a_ee70d920
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.16
@@ -35,7 +35,7 @@ branch-api:2.1200.v4b_a_3da_2eb_db_4
 build-monitor-plugin:1.14-947.vfec2cf655fe2
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:910.v5b_9b_36e0379e
+cloudbees-bitbucket-branch-source:912.v3b_f74026941c
 cloudbees-disk-usage-simple:232.v713eeed2e1f4
 cloudbees-folder:6.959.v4ed5cc9e2dd4
 command-launcher:116.vd85919c54a_d6
@@ -112,7 +112,7 @@ scm-api:698.v8e3b_c788f0a_6
 script-security:1369.v9b_98a_4e95b_2d
 slack:751.v2e44153c8fe1
 snakeyaml-api:2.3-123.v13484c65210a_
-sonar:2.17.2
+sonar:2.17.3
 sse-gateway:1.27
 ssh-credentials:343.v884f71d78167
 sshd:3.330.vc866a_8389b_58
