@@ -7,7 +7,7 @@ azure-artifact-manager:154.vb6e2724f0095
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:341.v4881e9f4ffea_
 azure-keyvault:251.vcfe31c013dc7
-azure-sdk:190.vda_d771d75d47
+azure-sdk:191.v53ec8913ee10
 azure-vm-agents:973.v528f9ff4df04
 basic-branch-build-strategies:190.v343a_ee70d920
 blueocean-autofavorite:1.2.5
@@ -75,7 +75,7 @@ jenkins-design-language:1.27.16
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
 job-dsl:1.90
 jsch:0.2.16-86.v42e010d9484b_
-junit:1309.v0078b_fecd6ed
+junit:1311.v39e1716e4eb_e
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
 kubernetes:4302.va_756e4b_67715
