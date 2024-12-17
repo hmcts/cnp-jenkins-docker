@@ -3,7 +3,7 @@ antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.119.v50285141b_7e1
 azure-ad:531.v13107da_f2635
-azure-artifact-manager:180.vcce8710b_7811
+azure-artifact-manager:182.v016b_514e84e5
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:343.vd80f9c4859df
 azure-keyvault:251.vcfe31c013dc7
@@ -37,7 +37,7 @@ checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:933.0.2
 cloudbees-disk-usage-simple:232.v713eeed2e1f4
-cloudbees-folder:6.973.vc9b_85a_61e4fc
+cloudbees-folder:6.975.v4161e479479f
 command-launcher:116.vd85919c54a_d6
 configuration-as-code:1903.v004d55388f30
 copyartifact:757.v05365583a_455
@@ -86,7 +86,7 @@ matrix-project:840.v812f627cb_578
 maven-plugin:3.24
 metrics:4.2.21-458.vcf496cb_839e4
 monitoring:2.4.0
-opentelemetry:3.1423.v0d1a_2fcd2429
+opentelemetry:3.1464.va_85780e90d4c
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github-lib:61.v629f2cc41d83
 pipeline-graph-analysis:216.vfd8b_ece330ca_
@@ -106,7 +106,7 @@ plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:5.1.0
 pubsub-light:1.18
 run-condition:1.7
-saml:4.501.v4313a_01e3a_18
+saml:4.511.vef666858a_167
 sauce-ondemand:1.215
 scm-api:698.v8e3b_c788f0a_6
 script-security:1369.v9b_98a_4e95b_2d
