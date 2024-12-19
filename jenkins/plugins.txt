@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:343.vd80f9c4859df
 azure-keyvault:251.vcfe31c013dc7
 azure-sdk:191.v53ec8913ee10
-azure-vm-agents:976.v3a_c9c21e1505
+azure-vm-agents:980.v4742455100fe
 basic-branch-build-strategies:190.v343a_ee70d920
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.16
@@ -31,7 +31,7 @@ blueocean-rest:1.27.16
 blueocean-web:1.27.16
 blueocean:1.27.16
 bouncycastle-api:2.30.1.78.1-248.ve27176eb_46cb_
-branch-api:2.1200.v4b_a_3da_2eb_db_4
+branch-api:2.1202.vc51412f3ed84
 build-monitor-plugin:1.14-947.vfec2cf655fe2
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
@@ -78,7 +78,7 @@ jsch:0.2.16-86.v42e010d9484b_
 junit:1311.v39e1716e4eb_e
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
-kubernetes:4302.va_756e4b_67715
+kubernetes:4304.v1b_39d4f98210
 lockable-resources:1327.ved786b_a_197e0
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.3
@@ -117,7 +117,7 @@ sse-gateway:1.27
 ssh-credentials:349.vb_8b_6b_9709f5b_
 sshd:3.330.vc866a_8389b_58
 structs:338.v848422169819
-support-core:1523.v5486c8d6da_f3
+support-core:1538.v0a_a_a_e0f2e1c0
 timestamper:1.28
 token-macro:400.v35420b_922dcb_
 theme-manager:262.vc57ee4a_eda_5d
