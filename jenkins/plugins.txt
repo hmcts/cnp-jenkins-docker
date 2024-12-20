@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:343.vd80f9c4859df
 azure-keyvault:251.vcfe31c013dc7
 azure-sdk:191.v53ec8913ee10
-azure-vm-agents:984.v3684c515c3d5
+azure-vm-agents:976.v3a_c9c21e1505
 basic-branch-build-strategies:190.v343a_ee70d920
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.16
