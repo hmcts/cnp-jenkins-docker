@@ -35,7 +35,7 @@ branch-api:2.1208.vf528356feca_4
 build-monitor-plugin:1.14-948.va_a_a_5a_7eb_1f37
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:934.3.1
+cloudbees-bitbucket-branch-source:934.3.2
 cloudbees-disk-usage-simple:232.v713eeed2e1f4
 cloudbees-folder:6.980.v5a_cc0cb_25881
 command-launcher:116.vd85919c54a_d6
@@ -106,7 +106,7 @@ plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:5.1.0
 pubsub-light:1.18
 run-condition:1.7
-saml:4.514.vfd5088cc4ed7
+saml:4.519.v3927f2f0e020
 sauce-ondemand:1.215
 scm-api:703.v72ff4b_259600
 script-security:1369.v9b_98a_4e95b_2d
@@ -120,7 +120,7 @@ structs:338.v848422169819
 support-core:1553.v4dd20218b_cb_2
 timestamper:1.28
 token-macro:400.v35420b_922dcb_
-theme-manager:262.vc57ee4a_eda_5d
+theme-manager:276.vdec9cf04f928
 trilead-api:2.147.vb_73cc728a_32e
 variant:60.v7290fc0eb_b_cd
 windows-azure-storage:454.v573775e9feef
@@ -129,7 +129,7 @@ workflow-api:1358.vfb_5780da_64cb_
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
 workflow-cps:4009.v0089238351a_9
 workflow-durable-task-step:1400.v7a_fd50a_091de
-workflow-job:1496.v5b_18defc07f2
+workflow-job:1498.v33a_0c6f3a_4b_4
 workflow-multibranch:795.ve0cb_1f45ca_9a_
 workflow-scm-step:427.v4ca_6512e7df1
 workflow-step-api:678.v3ee58b_469476
