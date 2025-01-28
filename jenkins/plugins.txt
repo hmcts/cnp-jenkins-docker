@@ -79,9 +79,9 @@ junit:1312.v1a_235a_b_94a_31
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
 kubernetes:4306.vc91e951ea_eb_d
-lockable-resources:1327.ved786b_a_197e0
+lockable-resources:1342.v673282c325c0
 mailer:489.vd4b_25144138f
-matrix-auth:3.2.3
+matrix-auth:3.2.4
 matrix-project:845.vffd7fa_f27555
 maven-plugin:3.24
 metrics:4.2.21-461.v881e35d8fa_b_a_
@@ -122,7 +122,7 @@ timestamper:1.28
 token-macro:400.v35420b_922dcb_
 theme-manager:278.v2e3c063e42cc
 trilead-api:2.147.vb_73cc728a_32e
-variant:60.v7290fc0eb_b_cd
+variant:70.va_d9f17f859e0
 windows-azure-storage:454.v573775e9feef
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1363.v03f731255494
