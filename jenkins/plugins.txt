@@ -2,11 +2,11 @@ ansicolor:1.0.6
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.119.v50285141b_7e1
-azure-ad:551.v26fb_2998b_61f
+azure-ad:552.va_63b_3140c917
 azure-artifact-manager:182.v016b_514e84e5
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:343.vd80f9c4859df
-azure-keyvault:251.vcfe31c013dc7
+azure-keyvault:280.v166053ddda_42
 azure-sdk:191.v53ec8913ee10
 azure-vm-agents:986.v45b_b_b_6617433
 basic-branch-build-strategies:190.v343a_ee70d920
@@ -31,13 +31,13 @@ blueocean-rest:1.27.16
 blueocean-web:1.27.16
 blueocean:1.27.16
 bouncycastle-api:2.30.1.80-256.vf98926042a_9b_
-branch-api:2.1208.vf528356feca_4
+branch-api:2.1214.v3f652804588d
 build-monitor-plugin:1.14-948.va_a_a_5a_7eb_1f37
 checks-api:2.2.2
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:934.4.2
 cloudbees-disk-usage-simple:232.v713eeed2e1f4
-cloudbees-folder:6.980.v5a_cc0cb_25881
+cloudbees-folder:6.982.vf165a_16c9507
 command-launcher:118.v72741845c17a_
 configuration-as-code:1932.v75cb_b_f1b_698d
 copyartifact:765.v0357cc6e6eb_3
@@ -92,7 +92,7 @@ pipeline-github-lib:61.v629f2cc41d83
 pipeline-graph-analysis:216.vfd8b_ece330ca_
 pipeline-graph-view:409.v98f212e980b_4
 pipeline-groovy-lib:752.vdddedf804e72
-pipeline-input-step:508.v584c0e9a_2177
+pipeline-input-step:513.v7eb_fe7e2c0fc
 pipeline-milestone-step:119.vdfdc43fc3b_9a_
 pipeline-model-api:2.2221.vc657003fb_d93
 pipeline-model-definition:2.2221.vc657003fb_d93
@@ -123,7 +123,7 @@ token-macro:444.v52de7e9c573d
 theme-manager:278.v2e3c063e42cc
 trilead-api:2.147.vb_73cc728a_32e
 variant:70.va_d9f17f859e0
-windows-azure-storage:454.v573775e9feef
+windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1363.v03f731255494
 workflow-basic-steps:1079.vce64b_a_929c5a_
