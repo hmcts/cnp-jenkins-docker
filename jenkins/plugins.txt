@@ -7,7 +7,7 @@ azure-artifact-manager:182.v016b_514e84e5
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:343.vd80f9c4859df
 azure-keyvault:280.v166053ddda_42
-azure-sdk:191.v53ec8913ee10
+azure-sdk:205.v8607496fa_ffc
 azure-vm-agents:986.v45b_b_b_6617433
 basic-branch-build-strategies:190.v343a_ee70d920
 blueocean-autofavorite:1.2.5
@@ -32,7 +32,7 @@ blueocean-web:1.27.16
 blueocean:1.27.16
 bouncycastle-api:2.30.1.80-256.vf98926042a_9b_
 branch-api:2.1214.v3f652804588d
-build-monitor-plugin:1.14-948.va_a_a_5a_7eb_1f37
+build-monitor-plugin:1.14-961.v676e38a_7a_248
 checks-api:2.2.2
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:934.4.2
@@ -46,7 +46,7 @@ credentials:1408.va_622a_b_f5b_1b_1
 dark-theme:524.vd675b_22b_30cb_
 display-url-api:2.209.v582ed814ff2f
 docker-commons:445.v6b_646c962a_94
-docker-workflow:592.v1001d948426c
+docker-workflow:595.v60cec912059b_
 durable-task:581.v299a_5609d767
 echarts-api:5.5.1-5
 extended-read-permission:61.vf24570ff3b_e9
@@ -97,10 +97,10 @@ pipeline-milestone-step:119.vdfdc43fc3b_9a_
 pipeline-model-api:2.2221.vc657003fb_d93
 pipeline-model-definition:2.2221.vc657003fb_d93
 pipeline-model-extensions:2.2221.vc657003fb_d93
-pipeline-rest-api:2.35
+pipeline-rest-api:2.36
 pipeline-stage-step:312.v8cd10304c27a_
 pipeline-stage-tags-metadata:2.2221.vc657003fb_d93
-pipeline-stage-view:2.35
+pipeline-stage-view:2.36
 pipeline-utility-steps:2.18.0
 plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:5.1.0
