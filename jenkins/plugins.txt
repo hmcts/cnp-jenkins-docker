@@ -78,7 +78,7 @@ jsch:0.2.16-86.v42e010d9484b_
 junit:1316.v13ec14a_de230
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
-kubernetes:4306.vc91e951ea_eb_d
+kubernetes:4313.va_9b_4fe2a_0e34
 lockable-resources:1349.v8b_ccb_c5487f7
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.4
@@ -89,7 +89,7 @@ monitoring:2.5.0
 opentelemetry:3.1495.v64dcff5b_7a_6c
 pipeline-build-step:555.v589d5c24a_3d6
 pipeline-github-lib:61.v629f2cc41d83
-pipeline-graph-analysis:216.vfd8b_ece330ca_
+pipeline-graph-analysis:231.v56354571a_da_0
 pipeline-graph-view:409.v98f212e980b_4
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:513.v7eb_fe7e2c0fc
@@ -117,7 +117,7 @@ sse-gateway:1.27
 ssh-credentials:349.vb_8b_6b_9709f5b_
 sshd:3.353.v2b_d33c46e970
 structs:338.v848422169819
-support-core:1557.v3435ec4057a_e
+support-core:1575.v49b_01a_460e3b_
 timestamper:1.28
 token-macro:444.v52de7e9c573d
 theme-manager:278.v2e3c063e42cc
