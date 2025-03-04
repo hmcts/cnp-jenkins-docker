@@ -16,7 +16,7 @@ blueocean-commons:1.27.16
 blueocean-config:1.27.16
 blueocean-core-js:1.27.16
 blueocean-dashboard:1.27.16
-blueocean-display-url:2.4.3
+blueocean-display-url:2.4.4
 blueocean-events:1.27.16
 blueocean-git-pipeline:1.27.16
 blueocean-github-pipeline:1.27.16
@@ -76,8 +76,8 @@ jjwt-api:0.11.5-120.v0268cf544b_89
 job-dsl:1.91
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1317.v5b_35d792b_06a_
-kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
-kubernetes-credentials:190.v03c305394deb_
+kubernetes-client-api:6.10.0-251.v556f5f100500
+kubernetes-credentials:192.v4d5b_1c429d17
 kubernetes:4314.v5b_846cf499eb_
 lockable-resources:1349.v8b_ccb_c5487f7
 mailer:489.vd4b_25144138f
@@ -90,9 +90,9 @@ opentelemetry:3.1495.v64dcff5b_7a_6c
 pipeline-build-step:557.v95d96f77b_2b_8
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:231.v56354571a_da_0
-pipeline-graph-view:419.v946ff4a_49e1c
+pipeline-graph-view:423.v765c49ca_da_3f
 pipeline-groovy-lib:752.vdddedf804e72
-pipeline-input-step:515.v8857b_eb_b_910c
+pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
 pipeline-model-api:2.2236.va_b_88ceec798f
 pipeline-model-definition:2.2236.va_b_88ceec798f
@@ -104,7 +104,7 @@ pipeline-stage-view:2.37
 pipeline-utility-steps:2.19.0
 plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:6.0.0
-pubsub-light:1.18
+pubsub-light:1.19
 run-condition:243.v3c3f94e46a_8b_
 saml:4.525.v4f6a_7209447e
 sauce-ondemand:2.0
@@ -113,7 +113,7 @@ script-security:1373.vb_b_4a_a_c26fa_00
 slack:761.v2a_8770f0d169
 snakeyaml-api:2.3-123.v13484c65210a_
 sonar:2.18
-sse-gateway:1.27
+sse-gateway:1.28
 ssh-credentials:355.v9b_e5b_cde5003
 sshd:3.353.v2b_d33c46e970
 structs:343.vdcf37b_a_c81d5
@@ -127,7 +127,7 @@ windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1363.v03f731255494
 workflow-basic-steps:1079.vce64b_a_929c5a_
-workflow-cps:4032.vf3248d9c3fee
+workflow-cps:4039.vd58c465ea_71a_
 workflow-durable-task-step:1405.v1fcd4a_d00096
 workflow-job:1505.vea_4b_20a_4a_495
 workflow-multibranch:803.v08103b_87c280
