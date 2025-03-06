@@ -36,8 +36,8 @@ build-monitor-plugin:1.14-961.v676e38a_7a_248
 checks-api:367.v18b_7f530e54a_
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:935.1.1
-cloudbees-disk-usage-simple:232.v713eeed2e1f4
-cloudbees-folder:6.982.vf165a_16c9507
+cloudbees-disk-usage-simple:239.v6a_f1a_c1c8046
+cloudbees-folder:6.985.va_f1635030cc5
 command-launcher:118.v72741845c17a_
 configuration-as-code:1932.v75cb_b_f1b_698d
 copyartifact:765.v0357cc6e6eb_3
@@ -64,7 +64,7 @@ github-scm-filter-aged-refs:47.v5450b_74d684c
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
 htmlpublisher:424.va_e57f1253461
 http_request:1.20
-instance-identity:201.vd2a_b_5a_468a_a_6
+instance-identity:203.v15e81a_1b_7a_38
 jackson2-api:2.17.0-389.va_5c7e45cd806
 jacoco:3.3.7
 jaxb:2.3.9-133.vb_ec76a_73f706
@@ -78,7 +78,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1317.v5b_35d792b_06a_
 kubernetes-client-api:6.10.0-251.v556f5f100500
 kubernetes-credentials:192.v4d5b_1c429d17
-kubernetes:4314.v5b_846cf499eb_
+kubernetes:4324.vfec199a_33512
 lockable-resources:1349.v8b_ccb_c5487f7
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.4
