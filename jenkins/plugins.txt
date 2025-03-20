@@ -2,7 +2,7 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.131.v7199556c3004
-azure-ad:552.va_63b_3140c917
+azure-ad:560.vddeb_1142d399
 azure-artifact-manager:187.vc45952e6c7fc
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:357.v6447d38fb_007
@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:935.1.2
 cloudbees-disk-usage-simple:239.v6a_f1a_c1c8046
 cloudbees-folder:6.985.va_f1635030cc5
 command-launcher:118.v72741845c17a_
-configuration-as-code:1932.v75cb_b_f1b_698d
+configuration-as-code:1947.v7d33fe23569c
 copyartifact:765.v0357cc6e6eb_3
 credentials-binding:687.v619cb_15e923f
 credentials:1408.va_622a_b_f5b_1b_1
@@ -124,7 +124,7 @@ theme-manager:278.v2e3c063e42cc
 trilead-api:2.192.vc50a_d147e369
 variant:70.va_d9f17f859e0
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
-workflow-aggregator:600.vb_57cdd26fdd7
+workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1366.vf1fb_e1a_f6b_22
 workflow-basic-steps:1079.vce64b_a_929c5a_
 workflow-cps:4045.v0efb_cb_7cea_e9
