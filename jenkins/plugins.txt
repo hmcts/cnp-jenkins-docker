@@ -103,7 +103,7 @@ pipeline-stage-tags-metadata:2.2247.va_423189a_7dff
 pipeline-stage-view:2.37
 pipeline-utility-steps:2.19.0
 plain-credentials:183.va_de8f1dd5a_2b_
-plugin-util-api:6.0.0
+plugin-util-api:6.1.0
 pubsub-light:1.19
 run-condition:243.v3c3f94e46a_8b_
 saml:4.525.v4f6a_7209447e
@@ -117,7 +117,7 @@ sse-gateway:1.28
 ssh-credentials:355.v9b_e5b_cde5003
 sshd:3.353.v2b_d33c46e970
 structs:343.vdcf37b_a_c81d5
-support-core:1671.v1a_d55b_86706a_
+support-core:1686.va_77077e932eb_
 timestamper:1.28
 token-macro:444.v52de7e9c573d
 theme-manager:278.v2e3c063e42cc
