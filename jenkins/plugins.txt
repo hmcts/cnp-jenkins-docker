@@ -2,12 +2,12 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.131.v7199556c3004
-azure-ad:560.vddeb_1142d399
+azure-ad:561.v85263ce9a_b_b_f
 azure-artifact-manager:187.vc45952e6c7fc
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:357.v6447d38fb_007
 azure-keyvault:282.v43b_691a_13d19
-azure-sdk:205.v8607496fa_ffc
+azure-sdk:206.v7df6fdd1d0ff
 azure-vm-agents:986.v45b_b_b_6617433
 basic-branch-build-strategies:228.v68c089762a_db_
 blueocean-autofavorite:1.2.5
@@ -55,7 +55,7 @@ font-awesome-api:6.7.2-1
 gatling:1.3.0
 git-client:6.1.2
 git:5.7.0
-github-api:1.321-478.vc9ce627ce001
+github-api:1.321-486.vd7fa_ef919b_48
 github-branch-source:1810.v913311241fa_9
 github-checks:602.v264a_83610da_6
 github:1.42.0
@@ -89,7 +89,7 @@ monitoring:2.5.0
 opentelemetry:3.1495.v64dcff5b_7a_6c
 pipeline-build-step:557.v95d96f77b_2b_8
 pipeline-github-lib:65.v203688e7727e
-pipeline-graph-analysis:231.v56354571a_da_0
+pipeline-graph-analysis:235.vb_a_a_36b_f248c2
 pipeline-graph-view:423.v765c49ca_da_3f
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
@@ -102,7 +102,7 @@ pipeline-stage-step:322.vecffa_99f371c
 pipeline-stage-tags-metadata:2.2247.va_423189a_7dff
 pipeline-stage-view:2.37
 pipeline-utility-steps:2.19.0
-plain-credentials:183.va_de8f1dd5a_2b_
+plain-credentials:195.vb_906e9073dee
 plugin-util-api:6.1.0
 pubsub-light:1.19
 run-condition:243.v3c3f94e46a_8b_
@@ -111,7 +111,7 @@ sauce-ondemand:2.0
 scm-api:704.v3ce5c542825a_
 script-security:1373.vb_b_4a_a_c26fa_00
 slack:761.v2a_8770f0d169
-snakeyaml-api:2.3-123.v13484c65210a_
+snakeyaml-api:2.3-125.v4d77857a_b_402
 sonar:2.18
 sse-gateway:1.28
 ssh-credentials:355.v9b_e5b_cde5003
@@ -127,7 +127,7 @@ windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1366.vf1fb_e1a_f6b_22
 workflow-basic-steps:1079.vce64b_a_929c5a_
-workflow-cps:4046.v90b_1b_9edec67
+workflow-cps:4050.v8b_a_69b_587c39
 workflow-durable-task-step:1405.v1fcd4a_d00096
 workflow-job:1506.v77f78a_b_8cc5e
 workflow-multibranch:803.v08103b_87c280
