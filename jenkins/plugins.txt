@@ -56,7 +56,7 @@ gatling:1.3.0
 git-client:6.1.2
 git:5.7.0
 github-api:1.321-486.vd7fa_ef919b_48
-github-branch-source:1810.v913311241fa_9
+github-branch-source:1815.v9152b_2ff7a_1b_
 github-checks:602.v264a_83610da_6
 github:1.42.0
 github-scm-trait-notification-context:45.v8ef831829589
@@ -117,7 +117,7 @@ sse-gateway:1.28
 ssh-credentials:355.v9b_e5b_cde5003
 sshd:3.353.v2b_d33c46e970
 structs:343.vdcf37b_a_c81d5
-support-core:1686.va_77077e932eb_
+support-core:1692.v61f53ff4a_63b_
 timestamper:1.28
 token-macro:444.v52de7e9c573d
 theme-manager:278.v2e3c063e42cc
