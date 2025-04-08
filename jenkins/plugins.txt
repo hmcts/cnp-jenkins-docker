@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:935.1.3
 cloudbees-disk-usage-simple:239.v6a_f1a_c1c8046
 cloudbees-folder:6.999.v42253c105443
 command-launcher:118.v72741845c17a_
-configuration-as-code:1950.v506f96a_69516
+configuration-as-code:1953.v148f87d74b_1e
 copyartifact:765.v0357cc6e6eb_3
 credentials-binding:687.v619cb_15e923f
 credentials:1413.va_51c53703df1
@@ -94,12 +94,12 @@ pipeline-graph-view:423.v765c49ca_da_3f
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
-pipeline-model-api:2.2247.va_423189a_7dff
-pipeline-model-definition:2.2247.va_423189a_7dff
-pipeline-model-extensions:2.2247.va_423189a_7dff
+pipeline-model-api:2.2254.v2a_978de46f35
+pipeline-model-definition:2.2254.v2a_978de46f35
+pipeline-model-extensions:2.2254.v2a_978de46f35
 pipeline-rest-api:2.37
 pipeline-stage-step:322.vecffa_99f371c
-pipeline-stage-tags-metadata:2.2247.va_423189a_7dff
+pipeline-stage-tags-metadata:2.2254.v2a_978de46f35
 pipeline-stage-view:2.37
 pipeline-utility-steps:2.19.0
 plain-credentials:195.vb_906e9073dee
