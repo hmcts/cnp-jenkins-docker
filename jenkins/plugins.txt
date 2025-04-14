@@ -37,7 +37,7 @@ checks-api:367.v18b_7f530e54a_
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:935.1.3
 cloudbees-disk-usage-simple:239.v6a_f1a_c1c8046
-cloudbees-folder:6.1008.v5ed27a_3a_e475
+cloudbees-folder:6.1012.v79a_86a_1ea_c1f
 command-launcher:123.v37cfdc92ef67
 configuration-as-code:1953.v148f87d74b_1e
 copyartifact:765.v0357cc6e6eb_3
@@ -48,7 +48,7 @@ display-url-api:2.209.v582ed814ff2f
 docker-commons:451.vd12c371eeeb_3
 docker-workflow:611.v16e84da_6d3ff
 durable-task:587.v84b_877235b_45
-echarts-api:5.6.0-2
+echarts-api:5.6.0-3
 extended-read-permission:61.vf24570ff3b_e9
 favorite:2.225.v68765b_b_a_1fa_3
 font-awesome-api:6.7.2-1
@@ -68,7 +68,7 @@ instance-identity:203.v15e81a_1b_7a_38
 jackson2-api:2.18.3-402.v74c4eb_f122b_2
 jacoco:3.3.7
 jaxb:2.3.9-133.vb_ec76a_73f706
-javadoc:310.v032f3f16b_0f8
+javadoc:327.vdfe586651ee0
 javax-mail-api:1.6.2-11
 jdk-tool:83.v417146707a_3d
 jenkins-design-language:1.27.17
@@ -90,7 +90,7 @@ opentelemetry:3.1495.v64dcff5b_7a_6c
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:235.vb_a_a_36b_f248c2
-pipeline-graph-view:430.v4cf821b_20632
+pipeline-graph-view:433.v28288510b_b_6d
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
