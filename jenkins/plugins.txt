@@ -84,13 +84,13 @@ mailer:489.vd4b_25144138f
 matrix-auth:3.2.6
 matrix-project:847.v88a_f90ff9f20
 maven-plugin:3.25
-metrics:4.2.30-468.v5973151f8cfc
+metrics:4.2.30-471.v55fa_495f2b_f5
 monitoring:2.5.0
 opentelemetry:3.1513.va_7b_d9d2324e5
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:235.vb_a_a_36b_f248c2
-pipeline-graph-view:443.v042b_a_f2fda_c1
+pipeline-graph-view:451.v4471731966f8
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
