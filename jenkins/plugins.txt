@@ -36,7 +36,7 @@ build-monitor-plugin:1.14-979.v7d4d43828605
 checks-api:370.vb_61a_c57328f3
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:936.1.0
-cloudbees-disk-usage-simple:239.v6a_f1a_c1c8046
+cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
 cloudbees-folder:6.1012.v79a_86a_1ea_c1f
 command-launcher:123.v37cfdc92ef67
 configuration-as-code:1958.vddc0d369b_e16
@@ -97,10 +97,10 @@ pipeline-milestone-step:127.vb_52887ca_3b_6d
 pipeline-model-api:2.2255.v56a_15e805f12
 pipeline-model-definition:2.2255.v56a_15e805f12
 pipeline-model-extensions:2.2255.v56a_15e805f12
-pipeline-rest-api:2.37
+pipeline-rest-api:2.38
 pipeline-stage-step:322.vecffa_99f371c
 pipeline-stage-tags-metadata:2.2255.v56a_15e805f12
-pipeline-stage-view:2.37
+pipeline-stage-view:2.38
 pipeline-utility-steps:2.19.0
 plain-credentials:195.vb_906e9073dee
 plugin-util-api:6.1.0
