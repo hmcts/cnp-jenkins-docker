@@ -78,7 +78,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1322.v1556dc1c59a_f
 kubernetes-client-api:6.10.0-251.v556f5f100500
 kubernetes-credentials:192.v4d5b_1c429d17
-kubernetes:4324.vfec199a_33512
+kubernetes:4334.v32b_f157682d6
 lockable-resources:1349.v8b_ccb_c5487f7
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.6
@@ -86,11 +86,11 @@ matrix-project:849.v0cd64ed7e531
 maven-plugin:3.26
 metrics:4.2.30-471.v55fa_495f2b_f5
 monitoring:2.5.0
-opentelemetry:3.1523.v0b_3ce640987d
+opentelemetry:3.1525.v604f3b_1a_e07b_
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:235.vb_a_a_36b_f248c2
-pipeline-graph-view:504.vb_643f0e2e9c0
+pipeline-graph-view:510.v3b_d26869c4f8
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
