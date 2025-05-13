@@ -75,7 +75,7 @@ jenkins-design-language:1.27.19
 jjwt-api:0.11.5-120.v0268cf544b_89
 job-dsl:1.92
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1322.v1556dc1c59a_f
+junit:1334.vd3b_b_2094e438
 kubernetes-client-api:6.10.0-251.v556f5f100500
 kubernetes-credentials:192.v4d5b_1c429d17
 kubernetes:4336.v55d9a_494db_38
@@ -125,7 +125,7 @@ trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
-workflow-api:1371.ve334280b_d611
+workflow-api:1373.v7b_813f10efa_b_
 workflow-basic-steps:1079.vce64b_a_929c5a_
 workflow-cps:4106.v7a_8a_8176d450
 workflow-durable-task-step:1405.v1fcd4a_d00096
