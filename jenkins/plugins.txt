@@ -65,7 +65,7 @@ handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
 htmlpublisher:425
 http_request:1.20
 instance-identity:203.v15e81a_1b_7a_38
-jackson2-api:2.18.3-402.v74c4eb_f122b_2
+jackson2-api:2.19.0-404.vb_b_0fd2fea_e10
 jacoco:3.3.7
 jaxb:2.3.9-133.vb_ec76a_73f706
 javadoc:327.vdfe586651ee0
@@ -90,7 +90,7 @@ opentelemetry:3.1525.v604f3b_1a_e07b_
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:237.v2b_75640ca_888
-pipeline-graph-view:536.vd9674ce4b_46a_
+pipeline-graph-view:537.vde3718920423
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:138.v78ca_76831a_43
