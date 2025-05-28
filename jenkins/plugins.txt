@@ -7,7 +7,7 @@ azure-artifact-manager:187.vc45952e6c7fc
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:357.v6447d38fb_007
 azure-keyvault:282.v43b_691a_13d19
-azure-sdk:211.vd3b_6c5504331
+azure-sdk:223.vff769b_ce66b_b_
 azure-vm-agents:986.v45b_b_b_6617433
 basic-branch-build-strategies:228.v68c089762a_db_
 blueocean-autofavorite:1.2.5
@@ -37,7 +37,7 @@ checks-api:370.vb_61a_c57328f3
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:936.3.1
 cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
-cloudbees-folder:6.1012.v79a_86a_1ea_c1f
+cloudbees-folder:6.1021.v98130a_a_71a_94
 command-launcher:123.v37cfdc92ef67
 configuration-as-code:1971.vf9280461ea_89
 copyartifact:770.va_6c69e063442
@@ -78,7 +78,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1335.v6b_a_a_e18534e1
 kubernetes-client-api:6.10.0-251.v556f5f100500
 kubernetes-credentials:192.v4d5b_1c429d17
-kubernetes:4349.v8fe8f2b_ee9f1
+kubernetes:4350.va_0283de0d6d6
 lockable-resources:1349.v8b_ccb_c5487f7
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.6
