@@ -37,7 +37,7 @@ checks-api:370.vb_61a_c57328f3
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:936.3.1
 cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
-cloudbees-folder:6.1021.v98130a_a_71a_94
+cloudbees-folder:6.1023.v4fcb_72152519
 command-launcher:123.v37cfdc92ef67
 configuration-as-code:1971.vf9280461ea_89
 copyartifact:770.va_6c69e063442
