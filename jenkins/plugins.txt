@@ -33,7 +33,7 @@ blueocean:1.27.20
 bouncycastle-api:2.30.1.80-261.v00c0e2618ec3
 branch-api:2.1217.v43d8b_b_d8b_2c7
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
-checks-api:370.vb_61a_c57328f3
+checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:936.4.0
 cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
