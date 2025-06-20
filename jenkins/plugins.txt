@@ -37,7 +37,7 @@ checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:936.4.0
 cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
-cloudbees-folder:6.1023.v4fcb_72152519
+cloudbees-folder:6.1026.ve06dfa_cf31c3
 command-launcher:123.v37cfdc92ef67
 configuration-as-code:1971.vf9280461ea_89
 copyartifact:770.va_6c69e063442
@@ -90,7 +90,7 @@ opentelemetry:3.1543.v8446b_92b_cd64
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:241.vc3d48fb_b_2582
-pipeline-graph-view:573.v7fc7fb_cfd029
+pipeline-graph-view:579.v0f7702ee6a_f9
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:527.vd61b_1d3c5078
 pipeline-milestone-step:138.v78ca_76831a_43
