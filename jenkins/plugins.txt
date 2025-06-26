@@ -35,7 +35,7 @@ branch-api:2.1226.ve1e7e0b_4b_95f
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:936.4.0
+cloudbees-bitbucket-branch-source:936.4.1
 cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
 cloudbees-folder:6.1026.ve06dfa_cf31c3
 command-launcher:123.v37cfdc92ef67
@@ -56,7 +56,7 @@ gatling:136.vb_9009b_3d33a_e
 git-client:6.2.0
 git:5.7.0
 github-api:1.321-488.v9b_c0da_9533f8
-github-branch-source:1822.v9eec8e5e69e3
+github-branch-source:1824.v046257273408
 github-checks:602.v264a_83610da_6
 github:1.43.0
 github-scm-trait-notification-context:45.v8ef831829589
@@ -114,7 +114,7 @@ slack:761.v2a_8770f0d169
 snakeyaml-api:2.3-125.v4d77857a_b_402
 sonar:2.18
 sse-gateway:1.28
-ssh-credentials:355.v9b_e5b_cde5003
+ssh-credentials:359.v2191c4cf635f
 sshd:3.353.v2b_d33c46e970
 structs:350.v3b_30f09f2363
 support-core:1725.va_2a_9f06eed61
