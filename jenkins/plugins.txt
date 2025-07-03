@@ -35,7 +35,7 @@ branch-api:2.1226.ve1e7e0b_4b_95f
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:936.4.1
+cloudbees-bitbucket-branch-source:936.4.2
 cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
 cloudbees-folder:6.1026.ve06dfa_cf31c3
 command-launcher:123.v37cfdc92ef67
@@ -90,7 +90,7 @@ opentelemetry:3.1543.v8446b_92b_cd64
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:241.vc3d48fb_b_2582
-pipeline-graph-view:588.v1efd7e219272
+pipeline-graph-view:589.v74b_6361e5234
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:527.vd61b_1d3c5078
 pipeline-milestone-step:138.v78ca_76831a_43
@@ -118,7 +118,7 @@ ssh-credentials:359.v2191c4cf635f
 sshd:3.372.v5d04a_e92d8cf
 structs:350.v3b_30f09f2363
 support-core:1739.v0d10c0a_57cb_e
-timestamper:1.29
+timestamper:1.30
 token-macro:444.v52de7e9c573d
 theme-manager:294.vf2c2fd783821
 trilead-api:2.209.v0e69b_c43c245
