@@ -6,5 +6,5 @@
   "separateMajorMinor": false,
   "groupName": "all",
   "schedule": "before 6am every weekday",
-  "ignoreDeps": ["github-scm-filter-aged-refs", "azure-vm-agents"]
+  "ignoreDeps": ["github-scm-filter-aged-refs", "azure-vm-agents", "gatling"]
 }
