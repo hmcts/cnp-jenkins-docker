@@ -35,7 +35,7 @@
       "matchPackageNames": [
         "gatling"
       ],
-      "allowedVersions" : ">=1.3.0 !=136.vb_9009b_3d33a_e"
+      "allowedVersions" : ">136"
     }
   ]
 }
