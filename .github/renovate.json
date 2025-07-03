@@ -8,7 +8,33 @@
   "schedule": "before 6am every weekday",
   "packageRules": [
     {
-      "matchPackageNames": ["github-scm-filter-aged-refs", "azure-vm-agents", "gatling"],
+      "description": "Confirm that latest version doesn't cause errors and remove this by 10/07/2025. See: https://github.com/hmcts/cnp-jenkins-docker/pull/1524",
+      "matchManagers": [
+        "maven"
+      ],
+      "matchPackageNames": [
+        "github-scm-filter-aged-refs"
+      ],
+      "automerge": false
+    },
+    {
+      "description": "Confirm that this works with Ubuntu 24.04 and remove this by 10/07/2025. See: https://github.com/jenkinsci/azure-vm-agents-plugin/pull/603",
+      "matchManagers": [
+        "maven"
+      ],
+      "matchPackageNames": [
+        "azure-vm-agents"
+      ],
+      "automerge": false
+    },
+    {
+      "description": "Should be removed once https://www.jenkins.io/security/advisory/2020-04-07/#SECURITY-1633 has been resolved.",
+      "matchManagers": [
+        "maven"
+      ],
+      "matchPackageNames": [
+        "gatling"
+      ],
       "automerge": false
     }
   ]
