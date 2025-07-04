@@ -8,7 +8,7 @@ azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:357.v6447d38fb_007
 azure-keyvault:282.v43b_691a_13d19
 azure-sdk:223.vff769b_ce66b_b_
-azure-vm-agents:986.v45b_b_b_6617433
+azure-vm-agents:1026.v6b_6edb_b_e3fff
 basic-branch-build-strategies:228.v68c089762a_db_
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.21
@@ -43,7 +43,7 @@ configuration-as-code:1971.vf9280461ea_89
 copyartifact:770.va_6c69e063442
 credentials-binding:687.v619cb_15e923f
 credentials:1415.v831096eb_5534
-dark-theme:567.v9d3ca_a_3142f5
+dark-theme:574.va_19f05d54df5
 display-url-api:2.209.v582ed814ff2f
 docker-commons:457.v0f62a_94f11a_3
 docker-workflow:621.va_73f881d9232
@@ -60,7 +60,7 @@ github-branch-source:1824.v046257273408
 github-checks:602.v264a_83610da_6
 github:1.43.0
 github-scm-trait-notification-context:45.v8ef831829589
-github-scm-filter-aged-refs:47.v5450b_74d684c
+github-scm-filter-aged-refs:59.vc6b_39c26988c
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
 htmlpublisher:425
 http_request:1.20
@@ -90,7 +90,7 @@ opentelemetry:3.1543.v8446b_92b_cd64
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:241.vc3d48fb_b_2582
-pipeline-graph-view:589.v74b_6361e5234
+pipeline-graph-view:590.v06d574696250
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:527.vd61b_1d3c5078
 pipeline-milestone-step:138.v78ca_76831a_43
@@ -120,7 +120,7 @@ structs:350.v3b_30f09f2363
 support-core:1739.v0d10c0a_57cb_e
 timestamper:1.30
 token-macro:444.v52de7e9c573d
-theme-manager:294.vf2c2fd783821
+theme-manager:310.v234c7de84f9c
 trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
