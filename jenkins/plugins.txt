@@ -120,7 +120,7 @@ structs:350.v3b_30f09f2363
 support-core:1739.v0d10c0a_57cb_e
 timestamper:1.30
 token-macro:444.v52de7e9c573d
-theme-manager:310.v234c7de84f9c
+theme-manager:313.v8657a_a_7692cb_
 trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
