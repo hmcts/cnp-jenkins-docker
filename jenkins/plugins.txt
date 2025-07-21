@@ -35,7 +35,7 @@ branch-api:2.1233.vfb_6b_2b_3ed499
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:936.4.3
+cloudbees-bitbucket-branch-source:936.4.4
 cloudbees-disk-usage-simple:241.v0ea_d9a_a_96ee8
 cloudbees-folder:6.1036.vb_94fd035b_287
 command-launcher:123.v37cfdc92ef67
@@ -58,7 +58,7 @@ git:5.7.0
 github-api:1.321-488.v9b_c0da_9533f8
 github-branch-source:1824.v046257273408
 github-checks:602.v264a_83610da_6
-github:1.43.0
+github:1.44.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
@@ -79,7 +79,7 @@ junit:1335.v6b_a_a_e18534e1
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:203.v85b_9836a_f44b_
 kubernetes:4358.vcfd9c5a_0a_f51
-lockable-resources:1406.vf7b_510dfd587
+lockable-resources:1408.vb_7d1f371781d
 mailer:509.vc54d23fc427e
 matrix-auth:3.2.6
 matrix-project:849.v0cd64ed7e531
@@ -125,9 +125,9 @@ trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
-workflow-api:1373.v7b_813f10efa_b_
+workflow-api:1380.ve03e7a_63d139
 workflow-basic-steps:1079.vce64b_a_929c5a_
-workflow-cps:4165.vf547819734da_
+workflow-cps:4168.v7ea_f89c358b_d
 workflow-durable-task-step:1434.v1b_595c29ddd7
 workflow-job:1540.v295eccc9778f
 workflow-multibranch:806.vb_b_688f609ee9
