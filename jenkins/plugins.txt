@@ -65,7 +65,7 @@ handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
 htmlpublisher:427
 http_request:1.20
 instance-identity:203.v15e81a_1b_7a_38
-jackson2-api:2.19.0-404.vb_b_0fd2fea_e10
+jackson2-api:2.19.2-408.v18248a_324cfe
 jacoco:3.3.7
 jaxb:2.3.9-133.vb_ec76a_73f706
 javadoc:327.vdfe586651ee0
@@ -90,7 +90,7 @@ opentelemetry:3.1543.v8446b_92b_cd64
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:241.vc3d48fb_b_2582
-pipeline-graph-view:600.vc287d1a_d4b_47
+pipeline-graph-view:603.v23e636851f81
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:527.vd61b_1d3c5078
 pipeline-milestone-step:138.v78ca_76831a_43
@@ -106,7 +106,7 @@ plain-credentials:199.v9f8e1f741799
 plugin-util-api:6.1.0
 pubsub-light:1.19
 run-condition:243.v3c3f94e46a_8b_
-saml:4.544.v264eea_ed3eed
+saml:4.568.v78a_9a_db_8dc9b_
 sauce-ondemand:2.2.0
 scm-api:704.v3ce5c542825a_
 script-security:1373.vb_b_4a_a_c26fa_00
@@ -127,7 +127,7 @@ windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1380.ve03e7a_63d139
 workflow-basic-steps:1079.vce64b_a_929c5a_
-workflow-cps:4168.v7ea_f89c358b_d
+workflow-cps:4169.vb_7e492a_1c7b_e
 workflow-durable-task-step:1434.v1b_595c29ddd7
 workflow-job:1540.v295eccc9778f
 workflow-multibranch:806.vb_b_688f609ee9
