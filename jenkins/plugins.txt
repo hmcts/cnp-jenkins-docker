@@ -103,7 +103,7 @@ pipeline-stage-tags-metadata:2.2265.v140e610fe9d5
 pipeline-stage-view:2.38
 pipeline-utility-steps:2.19.0
 plain-credentials:199.v9f8e1f741799
-plugin-util-api:6.1.0
+plugin-util-api:6.1154.ved7e7d3035a_5
 pubsub-light:1.19
 run-condition:243.v3c3f94e46a_8b_
 saml:4.569.vcff838e19ed1
