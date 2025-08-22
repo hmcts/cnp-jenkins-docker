@@ -51,7 +51,7 @@ durable-task:595.ve87b_f1318d67
 echarts-api:6.0.0-1137.vfd5f348e1952
 extended-read-permission:61.vf24570ff3b_e9
 favorite:2.237.v79163ca_8b_892
-font-awesome-api:7.0.0-840.vd6c7a_a_a_a_88e1
+font-awesome-api:7.0.0-844.vb_f7825b_7f5da_
 gatling:1.3.0
 git-client:6.3.1
 git:5.7.0
@@ -81,7 +81,7 @@ kubernetes-credentials:206.vde31a_b_0f71a_c
 kubernetes:4358.vcfd9c5a_0a_f51
 lockable-resources:1412.v3f305a_fb_a_117
 mailer:522.va_995fa_cfb_8b_d
-matrix-auth:3.2.7
+matrix-auth:3.2.8
 matrix-project:856.v4c352b_3a_b_23e
 maven-plugin:3.27
 metrics:4.2.33-484.v2fcd689980d1
