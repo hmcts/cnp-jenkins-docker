@@ -56,8 +56,8 @@ gatling:1.3.0
 git-client:6.3.2
 git:5.7.0
 github-api:1.321-488.v9b_c0da_9533f8
-github-branch-source:1844.v4a_9883d49126
-github-checks:602.v264a_83610da_6
+github-branch-source:1848.v42f74f7f4500
+github-checks:634.v371dc6d978a_3
 github:1.44.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
