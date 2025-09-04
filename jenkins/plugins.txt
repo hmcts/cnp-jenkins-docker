@@ -53,7 +53,7 @@ extended-read-permission:61.vf24570ff3b_e9
 favorite:2.237.v79163ca_8b_892
 font-awesome-api:7.0.0-851.vd1feb_218a_a_63
 gatling:1.3.0
-git-client:6.3.2
+git-client:6.3.3
 git:5.7.0
 github-api:1.321-488.v9b_c0da_9533f8
 github-branch-source:1848.v42f74f7f4500
@@ -78,7 +78,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1335.v6b_a_a_e18534e1
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:206.vde31a_b_0f71a_c
-kubernetes:4369.va_9a_89327dd35
+kubernetes:4371.vb_33b_086d54a_1
 lockable-resources:1412.v3f305a_fb_a_117
 mailer:522.va_995fa_cfb_8b_d
 matrix-auth:3.2.8
@@ -86,7 +86,7 @@ matrix-project:856.v4c352b_3a_b_23e
 maven-plugin:3.27
 metrics:4.2.33-484.v2fcd689980d1
 monitoring:2.5.0
-opentelemetry:3.1543.v8446b_92b_cd64
+opentelemetry:3.1543.1545.vf5a_4ec123769
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:241.vc3d48fb_b_2582
