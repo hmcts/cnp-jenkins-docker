@@ -35,9 +35,9 @@ branch-api:2.1244.vf95c81f1641c
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:936.4.4
+cloudbees-bitbucket-branch-source:937.0.1
 cloudbees-disk-usage-simple:256.v20ec4eb_884f1
-cloudbees-folder:6.1037.v4cb_8573b_72a_a_
+cloudbees-folder:6.1040.v8a_e6330a_54e3
 command-launcher:123.v37cfdc92ef67
 configuration-as-code:1985.vdda_32d0c4ea_b_
 copyartifact:770.va_6c69e063442
@@ -58,7 +58,7 @@ git:5.7.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1848.v42f74f7f4500
 github-checks:634.v371dc6d978a_3
-github:1.44.0
+github:1.45.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
@@ -106,7 +106,7 @@ plain-credentials:199.v9f8e1f741799
 plugin-util-api:6.1167.v022176c7e0ca_
 pubsub-light:1.19
 run-condition:243.v3c3f94e46a_8b_
-saml:4.569.vcff838e19ed1
+saml:4.580.v4cb_5b_9ec2cc2
 sauce-ondemand:2.2.0
 scm-api:707.v749f968369d4
 script-security:1378.vf25626395f49
