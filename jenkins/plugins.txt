@@ -7,8 +7,8 @@ azure-artifact-manager:216.ve6d6d465e371
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:395.vb_a_9203343ef5
 azure-keyvault:282.v43b_691a_13d19
-azure-sdk:243.v4a_0d23a_c71a_7
-azure-vm-agents:1050.v45467b_03322a_
+azure-sdk:248.v0c922122245c
+azure-vm-agents:1053.v5b_86d7b_d9211
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.21
