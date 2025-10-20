@@ -35,7 +35,7 @@ branch-api:2.1255.v2f5fe203584a_
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:937.2.0
+cloudbees-bitbucket-branch-source:937.2.1
 cloudbees-disk-usage-simple:256.v20ec4eb_884f1
 cloudbees-folder:6.1062.v2877b_d6b_b_eeb_
 command-launcher:123.v37cfdc92ef67
@@ -84,7 +84,7 @@ mailer:522.va_995fa_cfb_8b_d
 matrix-auth:3.2.8
 matrix-project:870.v9db_fcfc2f45b_
 maven-plugin:3.27
-metrics:4.2.37-487.v7d6048d8733c
+metrics:4.2.37-489.vb_6db_69b_ce753
 monitoring:2.5.0
 opentelemetry:3.1543.1545.vf5a_4ec123769
 pipeline-build-step:571.v08a_fffd4b_0ce
