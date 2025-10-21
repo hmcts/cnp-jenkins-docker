@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:937.2.1
 cloudbees-disk-usage-simple:256.v20ec4eb_884f1
 cloudbees-folder:6.1062.v2877b_d6b_b_eeb_
 command-launcher:123.v37cfdc92ef67
-configuration-as-code:1998.v3e50e6e9d9d3
+configuration-as-code:2006.v001a_2ca_6b_574
 copyartifact:770.va_6c69e063442
 credentials-binding:702.vfe613e537e88
 credentials:1447.v4cb_b_539b_5321
@@ -120,7 +120,7 @@ structs:353.v261ea_40a_80fb_
 support-core:1763.ve4ce0d10a_3f0
 timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
-theme-manager:319.v9193461f9671
+theme-manager:327.v780d7096ec29
 trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
