@@ -109,7 +109,7 @@ run-condition:243.v3c3f94e46a_8b_
 saml:4.583.vc68232f7018a_
 sauce-ondemand:2.2.0
 scm-api:712.v8846fdd68c88
-script-security:1378.vf25626395f49
+script-security:1385.v7d2d9ec4d909
 slack:795.v4b_9705b_e6d47
 snakeyaml-api:2.5-143.v93b_c004f89de
 sonar:2.18
