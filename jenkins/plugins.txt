@@ -47,7 +47,7 @@ dark-theme:574.va_19f05d54df5
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:457.v0f62a_94f11a_3
 docker-workflow:634.vedc7242b_eda_7
-durable-task:633.va_107d74732ce
+durable-task:635.v3733cef34b_5e
 echarts-api:6.0.0-1165.vd1283a_3e37d4
 extended-read-permission:61.vf24570ff3b_e9
 favorite:2.253.v9b_413168133b_
@@ -78,7 +78,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1372.vfea_f21efa_b_26
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:206.vde31a_b_0f71a_c
-kubernetes:4384.v1b_6367f393d9
+kubernetes:4392.v19cea_fdb_5913
 lockable-resources:1438.v3c0f8c9e2060
 mailer:522.va_995fa_cfb_8b_d
 matrix-auth:3.2.8
