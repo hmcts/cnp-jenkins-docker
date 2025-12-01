@@ -61,7 +61,7 @@ github-checks:634.v371dc6d978a_3
 github:1.45.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
-handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
+handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:427
 http_request:1.22
 instance-identity:203.v15e81a_1b_7a_38
