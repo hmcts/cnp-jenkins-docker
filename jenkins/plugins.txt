@@ -112,7 +112,7 @@ scm-api:724.v7d839074eb_5c
 script-security:1385.v7d2d9ec4d909
 slack:795.v4b_9705b_e6d47
 snakeyaml-api:2.5-143.v93b_c004f89de
-sonar:2.18
+sonar:2.18.1
 sse-gateway:1.28
 ssh-credentials:361.vb_f6760818e8c
 sshd:3.374.v19b_d59ce6610
@@ -127,7 +127,7 @@ windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1398.v67030756d3fb_
 workflow-basic-steps:1098.v808b_fd7f8cf4
-workflow-cps:4218.vff679a_5c0f3a_
+workflow-cps:4238.va_6fb_65c1f699
 workflow-durable-task-step:1464.v2d3f5c68f84c
 workflow-job:1559.va_a_533730b_ea_d
 workflow-multibranch:821.vc3b_4ea_780798
