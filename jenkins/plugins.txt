@@ -2,7 +2,7 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:619.v53317a_30e630
+azure-ad:631.vb_2d4d8cc86b_0
 azure-artifact-manager:216.ve6d6d465e371
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:404.vd0fb_33a_8a_14e
@@ -112,7 +112,7 @@ scm-api:724.v7d839074eb_5c
 script-security:1385.v7d2d9ec4d909
 slack:795.v4b_9705b_e6d47
 snakeyaml-api:2.5-143.v93b_c004f89de
-sonar:2.18.1
+sonar:2.18.2
 sse-gateway:1.28
 ssh-credentials:361.vb_f6760818e8c
 sshd:3.374.v19b_d59ce6610
