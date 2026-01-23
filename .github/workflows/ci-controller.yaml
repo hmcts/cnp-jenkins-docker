@@ -40,21 +40,24 @@ jobs:
         with:
           dockerfile: ./jenkins/Dockerfile
 
-      # HMCTS prod
+      ###################################################
+      # HMCTSPROD ACR
+      ###################################################
       - name: 'ACR Login - ${{ env.NEW_AZURE_CONTAINER_REGISTRY_URL }}'
         run: |
           az acr login --name hmctsprod
 
-      # HMCTSPROD ACR
-      - name: 'Build and push PR image - ${{ env.NEW_AZURE_CONTAINER_REGISTRY_URL }}'
+      - name: 'Build and Push PR image - ${{ env.NEW_AZURE_CONTAINER_REGISTRY_URL }}'
         uses: docker/build-push-action@v6
         with:
           context: ./jenkins
           push: true
           tags: ${{ env.NEW_AZURE_CONTAINER_REGISTRY_URL }}/jenkins/jenkins:pr-${{ github.event.number }}-${{ env.JENKINS_VERSION }}-${{ github.run_number }}
 
-      # HMCTSPUBLIC ACR
-      - name: 'Build and Push PR image - ${{ env.AZURE_CONTAINER_REGISTRY_URL }}'
+      ###################################################
+      # HMCTSPUBLIC ACR - Push
+      ###################################################
+      - name: 'ACR Login - ${{ env.AZURE_CONTAINER_REGISTRY_URL }}'
         uses: docker/login-action@v3
         with:
           registry: ${{ env.AZURE_CONTAINER_REGISTRY_URL }}

@@ -31,12 +31,13 @@ jobs:
         run: |
           echo JENKINS_VERSION=$(grep "FROM jenkins" jenkins/Dockerfile | cut -d: -f2 | cut -d- -f1) >> $GITHUB_ENV
 
-      # HMCTS prod
+      ###################################################
+      # HMCTSPROD ACR
+      ###################################################
       - name: 'ACR Login - ${{ env.NEW_AZURE_CONTAINER_REGISTRY_URL }}'
         run: |
           az acr login --name hmctsprod
 
-      # HMCTSPROD ACR
       - name: 'Build and push prod image - ${{ env.NEW_AZURE_CONTAINER_REGISTRY_URL }}'
         if: github.ref == 'refs/heads/master'
         uses: docker/build-push-action@v6
@@ -45,9 +46,10 @@ jobs:
           push: true
           tags: ${{ env.NEW_AZURE_CONTAINER_REGISTRY_URL }}/jenkins/jenkins:${{ env.JENKINS_VERSION }}-${{ github.run_number }}
 
-      # HMCTSPUBLIC ACR
-      - name: 'Build and Push prod image - ${{ env.AZURE_CONTAINER_REGISTRY_URL }}'
-        if: github.ref == 'refs/heads/master'
+      ###################################################
+      # HMCTSPUBLIC ACR - Push
+      ###################################################
+      - name: 'ACR Login - ${{ env.AZURE_CONTAINER_REGISTRY_URL }}'
         uses: docker/login-action@v3
         with:
           registry: ${{ env.AZURE_CONTAINER_REGISTRY_URL }}
