@@ -1,4 +1,4 @@
-ansicolor:1.0.6
+ansicolor:536.v13fa_b_860c267
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
@@ -113,7 +113,7 @@ script-security:1399.ve6a_66547f6e1
 slack:795.v4b_9705b_e6d47
 snakeyaml-api:2.5-149.v72471e9c6371
 sonar:2.18.2
-sse-gateway:1.28
+sse-gateway:1.29
 ssh-credentials:361.vb_f6760818e8c
 sshd:3.384.vc89b_5e138cf9
 structs:362.va_b_695ef4fdf9
