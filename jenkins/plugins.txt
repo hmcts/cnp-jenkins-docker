@@ -42,7 +42,7 @@ command-launcher:123.v37cfdc92ef67
 configuration-as-code:2037.v8e5349845172
 copyartifact:795.ve8e151429b_27
 credentials-binding:717.v951d49b_5f3a_a_
-credentials:1480.v2246fd131e83
+credentials:1487.va_d001ede2c31
 dark-theme:574.va_19f05d54df5
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:457.v0f62a_94f11a_3
@@ -113,7 +113,7 @@ script-security:1399.ve6a_66547f6e1
 slack:795.v4b_9705b_e6d47
 snakeyaml-api:2.5-149.v72471e9c6371
 sonar:2.18.2
-sse-gateway:1.28
+sse-gateway:1.29
 ssh-credentials:361.vb_f6760818e8c
 sshd:3.384.vc89b_5e138cf9
 structs:362.va_b_695ef4fdf9
