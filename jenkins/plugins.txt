@@ -54,7 +54,7 @@ favorite:2.263.v941d21defef7
 font-awesome-api:7.1.0-882.v1dfb_771e3278
 gatling:1.3.0
 git-client:6.5.0
-git:5.9.0
+git:5.10.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1967.vdea_d580c1a_b_a_
 github-checks:634.v371dc6d978a_3
