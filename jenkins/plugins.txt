@@ -1,4 +1,4 @@
-ansicolor:1.0.6
+ansicolor:536.v13fa_b_860c267
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
@@ -73,7 +73,7 @@ javax-mail-api:1.6.2-11
 jdk-tool:83.v417146707a_3d
 jenkins-design-language:1.27.25
 jjwt-api:0.11.5-120.v0268cf544b_89
-job-dsl:1.93
+job-dsl:3654.vdf58f53e2d15
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1396.v095840ed8491
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
