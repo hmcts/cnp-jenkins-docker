@@ -57,7 +57,7 @@ git-client:6.5.0
 git:5.10.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1967.vdea_d580c1a_b_a_
-github-checks:634.v371dc6d978a_3
+github-checks:676.v48c732b_52951
 github:1.46.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
@@ -86,7 +86,7 @@ matrix-project:870.v9db_fcfc2f45b_
 maven-plugin:3.27
 metrics:4.2.37-494.v06f9a_939d33a_
 monitoring:2.6.0
-opentelemetry:3.1573.v72f1a_711ca_98
+opentelemetry:3.1584.v4f6307b_3766f
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
