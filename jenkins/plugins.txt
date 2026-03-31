@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:937.2.6
 cloudbees-disk-usage-simple:256.v20ec4eb_884f1
 cloudbees-folder:6.1079.vc0975c2de294
 command-launcher:123.v37cfdc92ef67
-configuration-as-code:2056.v6a_e126e16620
+configuration-as-code:2061.vc08919f7fc37
 copyartifact:795.ve8e151429b_27
 credentials-binding:719.v80e905ef14eb_
 credentials:1499.va_f0e811253a_6
@@ -65,7 +65,7 @@ handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:427
 http_request:1.25
 instance-identity:203.v15e81a_1b_7a_38
-jackson2-api:2.21.1-428.vf8dd988fa_d8d
+jackson2-api:2.21.1-431.v30a_74465f776
 jacoco:3.3.7
 jaxb:2.3.9-143.v5979df3304e6
 javadoc:354.vee1a_660b_4990
