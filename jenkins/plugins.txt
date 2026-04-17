@@ -65,7 +65,7 @@ handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:427
 http_request:1.25
 instance-identity:203.v15e81a_1b_7a_38
-jackson2-api:2.21.2-433.v6d50b_92cfe52
+jackson2-api:2.21.2-436.v29efdb_7418ff
 jacoco:3.3.7
 jaxb:2.3.9-143.v5979df3304e6
 javadoc:354.vee1a_660b_4990
