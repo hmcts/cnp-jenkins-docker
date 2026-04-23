@@ -72,14 +72,14 @@ javadoc:354.vee1a_660b_4990
 javax-mail-api:1.6.2-11
 jdk-tool:83.v417146707a_3d
 jenkins-design-language:1.27.25
-jjwt-api:0.11.5-120.v0268cf544b_89
+jjwt-api:0.13.0-141.vd58b_a_9592b_6c
 job-dsl:1.93
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1403.vd9d1413fd205
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4423.vb_59f230b_ce53
-lockable-resources:1504.v8561d98a_104c
+lockable-resources:1509.va_6b_5b_5cb_0b_40
 mailer:534.v1b_36f5864073
 matrix-auth:3.2.9
 matrix-project:870.v9db_fcfc2f45b_
@@ -90,7 +90,7 @@ opentelemetry:3.1589.ve81b_b_fa_927d5
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:837.vb_2654da_2a_fa_b_
+pipeline-graph-view:842.va_457d5d7654f
 pipeline-groovy-lib:797.v90ea_a_9b_e45a_0
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
