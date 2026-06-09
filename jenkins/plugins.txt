@@ -34,8 +34,8 @@ bouncycastle-api:2.30.1.84-291.v9f17b_21896e2
 branch-api:2.1280.v0d4e5b_b_460ef
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:415.vf022234a_931d
-cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:937.3.1
+cloud-stats:423.v63f017a_f582c
+cloudbees-bitbucket-branch-source:937.3.2
 cloudbees-disk-usage-simple:270.vfb_6898193d8d
 cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
@@ -75,7 +75,7 @@ jenkins-design-language:1.27.25
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
 job-dsl:1.93
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1403.vd9d1413fd205
+junit:1407.v9d04cdeedb_6a_
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4423.vb_59f230b_ce53
@@ -90,7 +90,7 @@ opentelemetry:3.1589.ve81b_b_fa_927d5
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:921.vfd395e298e67
+pipeline-graph-view:932.v7cea_0a_80605f
 pipeline-groovy-lib:798.v5cc688825312
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
