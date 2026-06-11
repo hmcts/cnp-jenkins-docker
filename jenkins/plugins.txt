@@ -58,7 +58,7 @@ git:5.10.1
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1967.1969.v205fd594c821
 github-checks:679.v74133da_b_435a_
-github:1.46.0.1
+github:1.47.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
 handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
@@ -75,7 +75,7 @@ jenkins-design-language:1.27.25
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
 job-dsl:1.93
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1407.v9d04cdeedb_6a_
+junit:1413.v736fa_5b_61d80
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4423.vb_59f230b_ce53
