@@ -2,7 +2,7 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:669.ved5a_60b_25b_f1
+azure-ad:674.ve5fdfa_537c3b_
 azure-artifact-manager:216.ve6d6d465e371
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:421.vb_ffd07e951a_2
