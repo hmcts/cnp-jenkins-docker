@@ -2,7 +2,7 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:674.ve5fdfa_537c3b_
+azure-ad:675.v69c03535fe75
 azure-artifact-manager:216.ve6d6d465e371
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:421.vb_ffd07e951a_2
@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:937.3.2
 cloudbees-disk-usage-simple:270.vfb_6898193d8d
 cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
-configuration-as-code:2082.vdb_db_4622e9fa_
+configuration-as-code:2088.ve3b_42c663c80
 copyartifact:795.ve8e151429b_27
 credentials-binding:725.ve52b_2328a_fde
 credentials:1502.v5c95e620ddfe
@@ -90,7 +90,7 @@ opentelemetry:3.1589.ve81b_b_fa_927d5
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:932.v7cea_0a_80605f
+pipeline-graph-view:933.v8cd3789f1b_dd
 pipeline-groovy-lib:798.v5cc688825312
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
