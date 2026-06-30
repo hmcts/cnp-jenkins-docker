@@ -2,7 +2,7 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:678.vf350db_9b_563a_
+azure-ad:685.v3a_30d28b_06a_a_
 azure-artifact-manager:216.ve6d6d465e371
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:421.vb_ffd07e951a_2
@@ -35,7 +35,7 @@ branch-api:2.1280.v0d4e5b_b_460ef
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:415.vf022234a_931d
 cloud-stats:423.v63f017a_f582c
-cloudbees-bitbucket-branch-source:937.3.2
+cloudbees-bitbucket-branch-source:937.3.3
 cloudbees-disk-usage-simple:270.vfb_6898193d8d
 cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
@@ -65,7 +65,7 @@ handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:427.1
 http_request:1.25
 instance-identity:203.v15e81a_1b_7a_38
-jackson2-api:2.21.2-436.v29efdb_7418ff
+jackson2-api:2.22.0-439.vb_b_43658d6176
 jacoco:3.3.7
 jaxb:2.3.9-143.v5979df3304e6
 javadoc:354.vee1a_660b_4990
@@ -90,7 +90,7 @@ opentelemetry:3.1589.ve81b_b_fa_927d5
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:949.v1cf0f01ca_cfa_
+pipeline-graph-view:953.v23894ccf0079
 pipeline-groovy-lib:798.v5cc688825312
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
