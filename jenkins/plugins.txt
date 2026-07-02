@@ -1,4 +1,4 @@
-ansicolor:1.0.6
+ansicolor:536.v13fa_b_860c267
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
@@ -32,7 +32,7 @@ blueocean-web:1.27.25
 blueocean:1.27.25
 bouncycastle-api:2.30.1.84-291.v9f17b_21896e2
 branch-api:2.1280.v0d4e5b_b_460ef
-build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
+build-monitor-plugin:1076.v651a_12e63830
 checks-api:415.vf022234a_931d
 cloud-stats:423.v63f017a_f582c
 cloudbees-bitbucket-branch-source:937.3.4
@@ -73,7 +73,7 @@ javax-mail-api:1.6.2-11
 jdk-tool:83.v417146707a_3d
 jenkins-design-language:1.27.25
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
-job-dsl:1.93
+job-dsl:3654.vdf58f53e2d15
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1413.v736fa_5b_61d80
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
