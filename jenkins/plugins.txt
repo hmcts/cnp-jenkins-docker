@@ -2,11 +2,11 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:689.v1c54291b_ca_76
+azure-ad:692.vec873983b_f50
 azure-artifact-manager:216.ve6d6d465e371
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:421.vb_ffd07e951a_2
-azure-keyvault:359.v675a_5ee82d51
+azure-keyvault:367.v455ee1c646a_2
 azure-sdk:259.vf079c96088a_f
 azure-vm-agents:1105.vb_8a_2393410b_7
 basic-branch-build-strategies:317.v85b_331d6cc42
@@ -35,11 +35,11 @@ branch-api:2.1280.v0d4e5b_b_460ef
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:415.vf022234a_931d
 cloud-stats:423.v63f017a_f582c
-cloudbees-bitbucket-branch-source:937.3.4
+cloudbees-bitbucket-branch-source:937.3.5
 cloudbees-disk-usage-simple:270.vfb_6898193d8d
 cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
-configuration-as-code:2095.vef6db_3a_b_5b_9c
+configuration-as-code:2099.ve3a_6e23f4960
 copyartifact:795.ve8e151429b_27
 credentials-binding:725.ve52b_2328a_fde
 credentials:1506.v948b_b_b_7dec44
@@ -47,7 +47,7 @@ dark-theme:652.vea_da_dfea_e769
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:472.vee120e23d3a_c
 docker-workflow:634.vedc7242b_eda_7
-durable-task:671.v340ff7959010
+durable-task:683.vc64df45d8780
 echarts-api:6.0.0-1287.vfd24c22a_3d00
 extended-read-permission:68.vd270568a_7520
 favorite:2.267.vb_90d08408081
