@@ -2,7 +2,7 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:686.v16d18c6c4da_d
+azure-ad:689.v1c54291b_ca_76
 azure-artifact-manager:216.ve6d6d465e371
 azure-cosmosdb:2.v738e7ec0eeea_
 azure-credentials:421.vb_ffd07e951a_2
@@ -90,7 +90,7 @@ opentelemetry:3.1589.ve81b_b_fa_927d5
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:957.v404a_2b_4f9b_6f
+pipeline-graph-view:963.v2a_b_019810b_e1
 pipeline-groovy-lib:798.v5cc688825312
 pipeline-input-step:560.v56198a_642157
 pipeline-milestone-step:152.v6e22b_8cfc66c
