@@ -41,7 +41,7 @@ cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
 configuration-as-code:2099.ve3a_6e23f4960
 copyartifact:795.ve8e151429b_27
-credentials-binding:725.ve52b_2328a_fde
+credentials-binding:728.v902a_273b_8947
 credentials:1506.v948b_b_b_7dec44
 dark-theme:652.vea_da_dfea_e769
 display-url-api:2.217.va_6b_de84cc74b_
@@ -78,7 +78,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1413.v736fa_5b_61d80
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
-kubernetes:4423.vb_59f230b_ce53
+kubernetes:4437.v3a_18554d3f32
 lockable-resources:1537.v68d014129e68
 mailer:534.v1b_36f5864073
 matrix-auth:3.2.10
@@ -106,7 +106,7 @@ plain-credentials:199.v9f8e1f741799
 plugin-util-api:7.1341.v039f146993d9
 pubsub-light:1.19
 run-condition:276.v97298f3a_cd51
-saml:4.600.v069e2e79eeb_f
+saml:4.605.vffa_2eb_029405
 sauce-ondemand:2.2.0
 scm-api:728.vc30dcf7a_0df5
 script-security:1402.1405.vc96e74964250
