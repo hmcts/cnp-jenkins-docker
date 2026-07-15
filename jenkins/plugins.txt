@@ -81,7 +81,7 @@ kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4437.v3a_18554d3f32
 lockable-resources:1537.v68d014129e68
 mailer:534.v1b_36f5864073
-matrix-auth:3.2.10
+matrix-auth:3.3
 matrix-project:870.v9db_fcfc2f45b_
 maven-plugin:3.27
 metrics:4.2.37-494.v06f9a_939d33a_
@@ -129,7 +129,7 @@ workflow-api:1413.v2ff1a_5e720fa_
 workflow-basic-steps:1098.v808b_fd7f8cf4
 workflow-cps:4350.vcc65d4958821
 workflow-durable-task-step:1479.v56e587f413a_7
-workflow-job:1581.ve4b_d0db_fcb_b_b_
+workflow-job:1590.v49101d088542
 workflow-multibranch:821.vc3b_4ea_780798
 workflow-scm-step:466.va_d69e602552b_
 workflow-step-api:724.v538c2362b_dfb_
