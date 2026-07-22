@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:937.3.6
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
 cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
-configuration-as-code:2100.vb_fd699d2a_09c
+configuration-as-code:2103.vd6f93c3e714a_
 copyartifact:795.ve8e151429b_27
 credentials-binding:728.v902a_273b_8947
 credentials:1506.v948b_b_b_7dec44
@@ -78,7 +78,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1416.vd753e036de5e
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
-kubernetes:4467.vf26561292824
+kubernetes:4471.v5d389f893a_5d
 lockable-resources:1539.v4db_b_fc1cc115
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
