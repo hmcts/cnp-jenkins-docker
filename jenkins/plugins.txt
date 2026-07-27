@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:937.3.6
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
 cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
-configuration-as-code:2106.v3953a_5b_b_a_73e
+configuration-as-code:2108.v02b_430db_0cf5
 copyartifact:795.ve8e151429b_27
 credentials-binding:728.v902a_273b_8947
 credentials:1506.v948b_b_b_7dec44
