@@ -2,11 +2,11 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:692.vec873983b_f50
+azure-ad:699.v6dd03c77b_981
 azure-artifact-manager:216.ve6d6d465e371
-azure-cosmosdb:2.v738e7ec0eeea_
+azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
-azure-keyvault:367.v455ee1c646a_2
+azure-keyvault:370.vedc05102985b_
 azure-sdk:284.vb_4128d6c7561
 azure-vm-agents:1105.vb_8a_2393410b_7
 basic-branch-build-strategies:317.v85b_331d6cc42
@@ -39,7 +39,7 @@ cloudbees-bitbucket-branch-source:937.3.6
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
 cloudbees-folder:6.1100.ve9eed61d16c4
 command-launcher:134.v025a_5fcf9dea_
-configuration-as-code:2108.v02b_430db_0cf5
+configuration-as-code:2111.v475308a_6c93b_
 copyartifact:795.ve8e151429b_27
 credentials-binding:728.v902a_273b_8947
 credentials:1506.v948b_b_b_7dec44
@@ -82,7 +82,7 @@ kubernetes:4540.v612369217f87
 lockable-resources:1539.v4db_b_fc1cc115
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
-matrix-project:870.v9db_fcfc2f45b_
+matrix-project:905.vcc6831e8760a_
 maven-plugin:3.27
 metrics:4.2.37-494.v06f9a_939d33a_
 monitoring:2.8.0
