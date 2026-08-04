@@ -1,10 +1,10 @@
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
-apache-httpcomponents-client-5-api:5.6.1-195.v65ffe15189a_d
+apache-httpcomponents-client-5-api:5.6.2-199.vc3c04d033fcc
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-ad:699.v6dd03c77b_981
-azure-artifact-manager:216.ve6d6d465e371
+azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
 azure-keyvault:370.vedc05102985b_
@@ -38,9 +38,9 @@ checks-api:415.vf022234a_931d
 cloud-stats:423.v63f017a_f582c
 cloudbees-bitbucket-branch-source:937.3.6
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
-cloudbees-folder:6.1100.ve9eed61d16c4
+cloudbees-folder:6.1106.v3a_d9a_6d2465e
 command-launcher:134.v025a_5fcf9dea_
-configuration-as-code:2111.v475308a_6c93b_
+configuration-as-code:2114.v67a_a_18696b_8f
 copyartifact:795.ve8e151429b_27
 credentials-binding:728.v902a_273b_8947
 credentials:1506.v948b_b_b_7dec44
