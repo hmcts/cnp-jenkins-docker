@@ -90,6 +90,7 @@ maven-plugin:3.27
 metrics:4.2.37-494.v06f9a_939d33a_
 monitoring:2.8.0
 opentelemetry:3.1593.v559d9e39a_519
+parameterized-scheduler:379.v95c73f233a_df
 pipeline-build-step:599.v4b_67ea_11b_152
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
