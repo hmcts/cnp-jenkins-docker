@@ -1,0 +1,44 @@
+FROM ubuntu:24.04
+
+# add tini to manage zombie/defunct processes since java process has pid=1
+# if using "docker run" you can use the "--init" parameter which uses tini directly
+ENV TINI_VERSION=v0.19.0
+ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /tini
+RUN chmod +x /tini
+
+USER root
+
+# Accept docker GID as build arg (find with: getent group docker | cut -d: -f3)
+ARG DOCKER_GID=999
+
+# Create docker group with host's GID BEFORE installing Docker packages
+# This ensures the installed packages use our group instead of creating their own
+RUN groupadd -g ${DOCKER_GID} docker
+
+# Install gosu for step-down from root
+RUN apt-get update && apt-get install -y gosu && rm -rf /var/lib/apt/lists/* && gosu nobody true
+
+# Install Docker CLI only (not the daemon)
+RUN apt-get update && apt-get install -y \
+    ca-certificates \
+    curl \
+    gnupg \
+    && install -m 0755 -d /etc/apt/keyrings \
+    && curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc \
+    && chmod a+r /etc/apt/keyrings/docker.asc \
+    && echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | tee /etc/apt/sources.list.d/docker.list > /dev/null \
+    && apt-get update \
+    && apt-get install -y docker-ce-cli docker-buildx-plugin docker-compose-plugin \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY provision.sh /provision.sh
+
+RUN chmod +x /provision.sh
+
+RUN /provision.sh
+
+# Create jenkins user and add to docker group
+RUN useradd -m -G docker jenkins
+
+USER jenkins
