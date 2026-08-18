@@ -8,7 +8,7 @@ azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
 azure-keyvault:370.vedc05102985b_
-azure-sdk:284.vb_4128d6c7561
+azure-sdk:290.vf82a_b_3911a_c0
 azure-vm-agents:1105.vb_8a_2393410b_7
 basic-branch-build-strategies:317.v85b_331d6cc42
 blueocean-autofavorite:1.2.5
@@ -78,7 +78,7 @@ job-dsl:1.93
 jobcacher:847.v4db_09c58b_7b_3
 jobcacher-azure-storage:33.vd1d60ffa_d4ee
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1418.v67a_81935603c
+junit:1420.vcffa_f990a_d63
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4547.v52f3080db_8cd
@@ -130,7 +130,7 @@ windows-azure-storage:535.v20d12167fa_70
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1413.v2ff1a_5e720fa_
 workflow-basic-steps:1098.v808b_fd7f8cf4
-workflow-cps:4362.v9b_991749898e
+workflow-cps:4370.v49a_6937566b_6
 workflow-durable-task-step:1479.v56e587f413a_7
 workflow-job:1590.v49101d088542
 workflow-multibranch:841.vec5b_9e1806ec
