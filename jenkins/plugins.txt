@@ -8,7 +8,7 @@ azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
 azure-keyvault:370.vedc05102985b_
-azure-sdk:290.vf82a_b_3911a_c0
+azure-sdk:292.v2db_0b_b_b_50d35
 azure-vm-agents:1105.vb_8a_2393410b_7
 basic-branch-build-strategies:317.v85b_331d6cc42
 blueocean-autofavorite:1.2.5
@@ -40,7 +40,7 @@ cloudbees-bitbucket-branch-source:937.3.10
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
 cloudbees-folder:6.1106.v3a_d9a_6d2465e
 command-launcher:134.v025a_5fcf9dea_
-configuration-as-code:2117.vc05a_0b_e6b_f4e
+configuration-as-code:2121.v86fe99d4b_b_a_b_
 copyartifact:795.ve8e151429b_27
 credentials-binding:728.v902a_273b_8947
 credentials:1511.v2e3cb_0008ef0
@@ -120,7 +120,7 @@ sse-gateway:1.29
 ssh-credentials:372.va_250881b_08cd
 sshd:3.384.vc89b_5e138cf9
 structs:362.va_b_695ef4fdf9
-support-core:1858.vd36229d021b_8
+support-core:1863.vdddd6f8d12a_8
 timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 theme-manager:346.v06cca_64c6a_37
