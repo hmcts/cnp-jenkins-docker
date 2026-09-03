@@ -3,7 +3,7 @@ antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 apache-httpcomponents-client-5-api:5.6.4-204.vfa_29df89ffcf
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:710.v0b_ff8e9cc2d2
+azure-ad:711.v34046f788fd7
 azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
@@ -31,7 +31,7 @@ blueocean-rest-impl:1.27.26
 blueocean-rest:1.27.26
 blueocean-web:1.27.26
 blueocean:1.27.26
-bouncycastle-api:2.30.1.85-299.v15f4832d1275
+bouncycastle-api:2.30.1.85.2-304.v4b_5b_62e59a_a_7
 branch-api:2.1280.v0d4e5b_b_460ef
 build-monitor-plugin:1.14-985.v7b_f37b_3d0b_f5
 checks-api:422.vc7e8b_51488c6
@@ -78,7 +78,7 @@ job-dsl:1.93
 jobcacher:847.v4db_09c58b_7b_3
 jobcacher-azure-storage:33.vd1d60ffa_d4ee
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1424.vc64a_edde7777
+junit:1425.v9c7318dca_96d
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4547.v52f3080db_8cd
@@ -90,11 +90,11 @@ maven-plugin:3.27
 metrics:4.2.37-494.v06f9a_939d33a_
 monitoring:2.8.0
 opentelemetry:3.1599.v6f67e4a_b_1d15
-pipeline-build-step:599.v4b_67ea_11b_152
+pipeline-build-step:601.v6d4c6d1a_9dc7
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
 pipeline-graph-view:1013.v9f83fd83c063
-pipeline-groovy-lib:798.v5cc688825312
+pipeline-groovy-lib:805.va_fc79344957d
 pipeline-input-step:560.v56198a_642157
 pipeline-milestone-step:152.v6e22b_8cfc66c
 pipeline-model-api:2.2293.v6e7193cec599
@@ -109,10 +109,10 @@ plain-credentials:199.v9f8e1f741799
 plugin-util-api:7.1341.v039f146993d9
 pubsub-light:1.19
 run-condition:276.v97298f3a_cd51
-saml:4.618.v441a_27fa_46d2
+saml:4.623.v7875d61cd9f5
 sauce-ondemand:2.2.0
 scm-api:728.vc30dcf7a_0df5
-script-security:1412.v7737b_3405f86
+script-security:1415.v9a_f9b_3a_c253d
 slack:795.v4b_9705b_e6d47
 snakeyaml-api:2.5-149.v72471e9c6371
 sonar:2.19.0
@@ -130,7 +130,7 @@ windows-azure-storage:535.v20d12167fa_70
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1413.v2ff1a_5e720fa_
 workflow-basic-steps:1098.v808b_fd7f8cf4
-workflow-cps:4370.v49a_6937566b_6
+workflow-cps:4376.v30c8c00684a_3
 workflow-durable-task-step:1479.v56e587f413a_7
 workflow-job:1600.v6f36ed83529d
 workflow-multibranch:841.vec5b_9e1806ec
