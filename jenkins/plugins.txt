@@ -89,7 +89,7 @@ matrix-project:917.v22eda_817646e
 maven-plugin:3.27
 metrics:4.2.37-494.v06f9a_939d33a_
 monitoring:2.8.0
-opentelemetry:3.1602.vb_3cc192f26a_1
+opentelemetry:3.1603.ve3fa_cc8a_b_f5e
 pipeline-build-step:601.v6d4c6d1a_9dc7
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
