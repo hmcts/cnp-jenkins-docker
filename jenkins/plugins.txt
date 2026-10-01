@@ -110,7 +110,7 @@ plugin-util-api:7.1341.v039f146993d9
 pubsub-light:1.19
 run-condition:276.v97298f3a_cd51
 saml:4.623.v7875d61cd9f5
-sauce-ondemand:2.2.0
+sauce-ondemand:2.2.1
 scm-api:728.vc30dcf7a_0df5
 script-security:1429.v0810f1b_530f5
 slack:795.v4b_9705b_e6d47
