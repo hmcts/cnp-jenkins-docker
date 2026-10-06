@@ -8,7 +8,7 @@ azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
 azure-keyvault:370.vedc05102985b_
-azure-sdk:292.v2db_0b_b_b_50d35
+azure-sdk:298.v2f93816d88a_2
 azure-vm-agents:1115.v63f3a_1ec4864
 basic-branch-build-strategies:317.v85b_331d6cc42
 blueocean-autofavorite:1.2.5
@@ -114,7 +114,7 @@ sauce-ondemand:2.2.1
 scm-api:728.vc30dcf7a_0df5
 script-security:1429.v0810f1b_530f5
 slack:795.v4b_9705b_e6d47
-snakeyaml-api:2.5-149.v72471e9c6371
+snakeyaml-api:2.7-152.vc672728cf536
 sonar:2.19.0
 sse-gateway:1.29
 ssh-credentials:372.va_250881b_08cd
@@ -130,7 +130,7 @@ windows-azure-storage:535.v20d12167fa_70
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1413.v2ff1a_5e720fa_
 workflow-basic-steps:1098.v808b_fd7f8cf4
-workflow-cps:4383.v04fa_a_3d67b_d9
+workflow-cps:4390.va_61c07eb_2f72
 workflow-durable-task-step:1479.v56e587f413a_7
 workflow-job:1602.v2a_70b_80a_2396
 workflow-multibranch:842.v3a_b_59b_57b_e6e
