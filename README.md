@@ -69,3 +69,29 @@ Update the tag in [cnp-flux-config jenkins.yaml](https://github.com/hmcts/cnp-fl
 
 Only merge the PR for prod Jenkins very early in the day, or in very quiet times, it can take ~15 minutes to startup sometimes,
 likely due to the number of jobs and the number of traffic that it gets which slows down the startup.
+
+### Renovate and Docker versioning
+
+> ⚠️ **Note**
+>
+> Jenkins Docker versioning differs from the versioning used for images built
+> in this repository. 
+>
+> We discard the compatibility suffix (for example,
+> `-jdk21`) and append the sequential GitHub Actions workflow run number
+> (for example, `-1186`).
+>
+> Therefore, a Renovate update for the controller from `2.585-jdk21` to `2.586-jdk21`
+> will publish an image named `2.586-<workflow-run-number>` to the ACR to be used by Flux.
+>
+> This is why Renovate package rules for Jenkins controller in sds-flux-config and cnp-flux-config have custom regex.
+
+Docker containers are not really versioned according to semantic versioning or any other strict pattern, [as Renovate's documentation points out](https://docs.renovatebot.com/modules/versioning/docker/) they are more like tags and authors have a lot of freedom in how they set these.
+
+Jenkins controller is currently versioned in semantic-like pattern with a `compatibility suffix` instead of a `patch` which is a common convention with Docker.
+
+Version will usually look like this: `2.585-jdk21` where the `2.x`is the major version, `x.585` is minor version and the `x.x-jdk21` is the compatibility version.
+
+Renovate's `Docker` versioning strategy is [a default strategy when dockerfile manager is used](https://docs.renovatebot.com/modules/manager/dockerfile/#versioning) and it understands this and will not update a controller between compatibility versions such as `2.585-jdk21` and `2.586-jdk27`.
+
+If Jenkins Docker container versioning ever changes to a different patter in the future this will need to be updated within the appropriate package rule in the [renovate.json config file](./.github/renovate.json).
