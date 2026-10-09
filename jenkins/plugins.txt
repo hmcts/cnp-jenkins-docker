@@ -66,7 +66,7 @@ handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:429
 http_request:1.659.v1b_9d9e942a_e6
 instance-identity:203.v15e81a_1b_7a_38
-jackson2-api:2.22.2-445.vdc613f1d8012
+jackson2-api:2.22.3-447.v6a_93ce7d2c82
 jacoco:3.3.7
 jaxb:2.3.9-143.v5979df3304e6
 javadoc:354.vee1a_660b_4990
@@ -81,7 +81,7 @@ jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1434.vde2d24df0c4c
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
-kubernetes:4557.ve746270f672f
+kubernetes:4560.vc25b_83890c34
 lockable-resources:1560.va_b_cd589f23eb_
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
