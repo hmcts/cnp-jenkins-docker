@@ -3,21 +3,10 @@
     "local>hmcts/.github:renovate-config",
     "local>hmcts/.github//renovate/automerge-all"
   ],
-  "separateMajorMinor": true,
+  "separateMajorMinor": false,
   "separateMinorPatch": false,
   "schedule": "before 6am every weekday",
   "packageRules": [
-    {
-      "matchUpdateTypes": ["major"],
-      "labels": ["breaking-change"],
-      "automerge": false,
-      "platformAutomerge": false
-    },
-    {
-      "matchUpdateTypes": ["minor", "patch"],
-      "labels": ["enhancement"],
-      "automerge": true
-    },
     {
       "description": "Keep Jenkins controller updates separate from the plugin updates",
       "matchManagers": ["dockerfile"],
