@@ -8,7 +8,7 @@ azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
 azure-keyvault:370.vedc05102985b_
-azure-sdk:298.v2f93816d88a_2
+azure-sdk:299.v3996878fe83a_
 azure-vm-agents:1115.v63f3a_1ec4864
 basic-branch-build-strategies:317.v85b_331d6cc42
 blueocean-autofavorite:1.2.5
@@ -31,7 +31,7 @@ blueocean-rest-impl:1.27.26
 blueocean-rest:1.27.26
 blueocean-web:1.27.26
 blueocean:1.27.26
-bouncycastle-api:2.30.1.86.1-306.vfc711fa_36d5f
+bouncycastle-api:2.30.1.86.2-310.v4655f6742752
 branch-api:2.1303.v9f3b_95dc329d
 build-monitor-plugin:1131.va_2d8e68fc912
 checks-api:422.vc7e8b_51488c6
@@ -40,7 +40,7 @@ cloudbees-bitbucket-branch-source:937.3.10
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
 cloudbees-folder:6.1106.v3a_d9a_6d2465e
 command-launcher:141.v9578cf36b_311
-configuration-as-code:2134.ve13a_2fc90835
+configuration-as-code:2135.v216e6b_d0a_fa_9
 copyartifact:805.v9d1393350780
 credentials-binding:728.v902a_273b_8947
 credentials:1511.v2e3cb_0008ef0
@@ -57,7 +57,7 @@ gatling:1.3.0
 git-client:6.6.1
 git:5.11.0
 github-api:1.330-492.v3941a_032db_2a_
-github-branch-source:1983.vfa_27ed961853
+github-branch-source:1986.v801e40614d00
 github-checks:679.v74133da_b_435a_
 github:1.47.0
 github-scm-trait-notification-context:45.v8ef831829589
@@ -93,8 +93,8 @@ opentelemetry:3.1603.ve3fa_cc8a_b_f5e
 pipeline-build-step:601.v6d4c6d1a_9dc7
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:1062.v294de5b_d7c0e
-pipeline-groovy-lib:806.v408277b_33d1d
+pipeline-graph-view:1066.v00b_91b_b_8024a_
+pipeline-groovy-lib:822.vc95f70dea_db_7
 pipeline-input-step:560.v56198a_642157
 pipeline-milestone-step:152.v6e22b_8cfc66c
 pipeline-model-api:2.2293.v6e7193cec599
