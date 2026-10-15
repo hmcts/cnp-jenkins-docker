@@ -74,7 +74,7 @@ likely due to the number of jobs and the number of traffic that it gets which sl
 
 > ⚠️ **Note**
 >
-> Jenkins Docker versioning differs from the versioning used for images built
+> Jenkins Docker versioning differs slightly from the versioning used for images built
 > in this repository. 
 >
 > We discard the compatibility suffix (for example,
@@ -86,12 +86,23 @@ likely due to the number of jobs and the number of traffic that it gets which sl
 >
 > This is why Renovate package rules for Jenkins controller in sds-flux-config and cnp-flux-config have custom regex.
 
+#### Docker versions
+
 Docker containers are not really versioned according to semantic versioning or any other strict pattern, [as Renovate's documentation points out](https://docs.renovatebot.com/modules/versioning/docker/) they are more like tags and authors have a lot of freedom in how they set these.
 
-Jenkins controller is currently versioned in semantic-like pattern with a `compatibility suffix` instead of a `patch` which is a common convention with Docker.
+Renovate's `Docker` versioning strategy is [a default strategy when dockerfile manager is used](https://docs.renovatebot.com/modules/manager/dockerfile/#versioning) and it understands this and while it will bump the version forward, it will not update between compatibility versions such as `2.585-jdk21` and `2.586-jdk27`.
 
-Version will usually look like this: `2.585-jdk21` where the `2.x`is the major version, `x.585` is minor version and the `x.x-jdk21` is the compatibility version.
+#### Jenkins versions
 
-Renovate's `Docker` versioning strategy is [a default strategy when dockerfile manager is used](https://docs.renovatebot.com/modules/manager/dockerfile/#versioning) and it understands this and will not update a controller between compatibility versions such as `2.585-jdk21` and `2.586-jdk27`.
+Jenkins itself, its Docker image and most of the plugins are also not semantically versioned - so we cannot infer whether an update contains a breaking change or not purely based on the version number.
 
-If Jenkins Docker container versioning ever changes to a different patter in the future this will need to be updated within the appropriate package rule in the [renovate.json config file](./.github/renovate.json).
+Therefore, current Renovate config in this repository will simply auto-merge latest updates which will in turn publish equivalent images to the ACR.
+
+Potential breaking changes and other compatibility issues and risks should then be assessed within the consuming Flux repositories ([cnp-flux-config](https://github.com/hmcts/cnp-flux-config) and [sds-flux-config](https://github.com/hmcts/sds-flux-config)) when performing the scheduled Jenkins patching work.
+
+You can use a dedicated [Jenkins patching agent skill](https://github.com/hmcts/platops-agent-skills/tree/main/.github/skills/jenkins-version-analyser) to help you with this.
+
+If Jenkins versioning ever changes to a different patter in the future, we will likely need to adapt:
+- [Renovate config tracking Jenkins Docker image](./.github/renovate.json)
+- [Versioning we use on images](./.github/workflows/ci-controller.yaml#55) built and published to the ACR from this repository 
+- Renovate configuration consumed by the flux repositories contained within the [global flux Renovate configuration](https://github.com/hmcts/.github/blob/master/renovate/flux.json).
