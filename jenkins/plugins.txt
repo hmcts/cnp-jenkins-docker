@@ -9,7 +9,7 @@ azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
 azure-keyvault:370.vedc05102985b_
 azure-sdk:299.v3996878fe83a_
-azure-vm-agents:1115.v63f3a_1ec4864
+azure-vm-agents:1119.v7351da_53454f
 basic-branch-build-strategies:317.v85b_331d6cc42
 blueocean-autofavorite:1.2.5
 blueocean-bitbucket-pipeline:1.27.26
@@ -88,7 +88,7 @@ matrix-auth:3.3
 matrix-project:928.v1effc3f3a_236
 maven-plugin:3.28
 metrics:4.2.37-494.v06f9a_939d33a_
-monitoring:2.9.0
+monitoring:2.9.1
 opentelemetry:3.1603.ve3fa_cc8a_b_f5e
 pipeline-build-step:601.v6d4c6d1a_9dc7
 pipeline-github-lib:65.v203688e7727e
