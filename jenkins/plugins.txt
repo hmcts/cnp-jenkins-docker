@@ -58,7 +58,7 @@ git-client:6.6.1
 git:5.11.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1986.v801e40614d00
-github-checks:679.v74133da_b_435a_
+github-checks:710.v756946918b_dd
 github:1.47.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
