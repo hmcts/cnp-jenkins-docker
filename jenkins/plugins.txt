@@ -3,7 +3,7 @@ antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 apache-httpcomponents-client-5-api:5.6.4-207.vd5b_a_c15e4de5
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-ad:720.v2a_e3d48ffeb_7
+azure-ad:723.v212c114e2fb_f
 azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
