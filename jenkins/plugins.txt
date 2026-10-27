@@ -66,7 +66,7 @@ handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:429
 http_request:1.659.v1b_9d9e942a_e6
 instance-identity:203.v15e81a_1b_7a_38
-jackson2-api:2.22.3-447.v6a_93ce7d2c82
+jackson2-api:2.22.4-449.v4ee9f4ec4123
 jacoco:3.3.7
 jaxb:2.3.9-143.v5979df3304e6
 javadoc:354.vee1a_660b_4990
@@ -82,7 +82,7 @@ junit:1442.vb_b_a_467df2767
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4560.vc25b_83890c34
-lockable-resources:1576.v217259b_f9976
+lockable-resources:1579.vf54f8418ffb_2
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
 matrix-project:928.v1effc3f3a_236
@@ -129,11 +129,11 @@ variant:70.va_d9f17f859e0
 windows-azure-storage:535.v20d12167fa_70
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1429.v7a_1b_efb_a_f7c5
-workflow-basic-steps:1098.v808b_fd7f8cf4
+workflow-basic-steps:1129.v60e3c7e6654d
 workflow-cps:4395.v738456a_5da_6b_
 workflow-durable-task-step:1479.v56e587f413a_7
-workflow-job:1609.v8926e7962024
+workflow-job:1622.vc41c189cb_e5f
 workflow-multibranch:842.v3a_b_59b_57b_e6e
 workflow-scm-step:487.v41313a_96b_65d
 workflow-step-api:724.v538c2362b_dfb_
-workflow-support:1015.v785e5a_b_b_8b_22
+workflow-support:1028.vc22910142650
