@@ -7,7 +7,7 @@ azure-ad:723.v212c114e2fb_f
 azure-artifact-manager:256.v6fd858b_dd8f9
 azure-cosmosdb:213.v79877c5c3a_ed
 azure-credentials:426.v5627e6a_4c7a_7
-azure-keyvault:370.vedc05102985b_
+azure-keyvault:381.vdfc9241e640e
 azure-sdk:299.v3996878fe83a_
 azure-vm-agents:1119.v7351da_53454f
 basic-branch-build-strategies:317.v85b_331d6cc42
@@ -36,7 +36,7 @@ branch-api:2.1303.v9f3b_95dc329d
 build-monitor-plugin:1131.va_2d8e68fc912
 checks-api:422.vc7e8b_51488c6
 cloud-stats:423.v63f017a_f582c
-cloudbees-bitbucket-branch-source:937.3.10
+cloudbees-bitbucket-branch-source:937.3.11
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
 cloudbees-folder:6.1106.v3a_d9a_6d2465e
 command-launcher:141.v9578cf36b_311
@@ -78,7 +78,7 @@ job-dsl:3732.v9a_c49a_61a_313
 jobcacher:847.v4db_09c58b_7b_3
 jobcacher-azure-storage:33.vd1d60ffa_d4ee
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1442.vb_b_a_467df2767
+junit:1443.v0b_f1b_5b_55d9e
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4560.vc25b_83890c34
