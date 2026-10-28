@@ -14,7 +14,7 @@ TMP_DIR=$(mktemp -d)
 
 wget "${PM_CLI_DOWNLOAD_URL}" -O "${TMP_DIR}/jenkins-plugin-manager.jar"
 
-CURRENT_JENKINS_VERSION=$(head -n 1 ../jenkins/Dockerfile | cut -d ':' -f 2 | cut -d '-' -f 1)
+CURRENT_JENKINS_VERSION=$(grep -m 1 "^FROM jenkins/jenkins:" ../jenkins/Dockerfile | cut -d ':' -f 2 | cut -d '-' -f 1)
 wget "https://get.jenkins.io/war/${CURRENT_JENKINS_VERSION}/jenkins.war" -O "${TMP_DIR}/jenkins.war"
 
 cd ../jenkins || exit 1
