@@ -40,7 +40,7 @@ cloudbees-bitbucket-branch-source:937.3.11
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
 cloudbees-folder:6.1107.v31f8955765c8
 command-launcher:144.vb_6cb_566c6c04
-configuration-as-code:2143.vc78d4eb_d4174
+configuration-as-code:2144.ve8c697101488
 copyartifact:805.v9d1393350780
 credentials-binding:728.v902a_273b_8947
 credentials:1514.vb_01eb_014e7d4
@@ -78,11 +78,11 @@ job-dsl:3732.v9a_c49a_61a_313
 jobcacher:847.v4db_09c58b_7b_3
 jobcacher-azure-storage:33.vd1d60ffa_d4ee
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1455.v5c1b_eed56292
+junit:1456.vdb_4425ca_0d4d
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4560.vc25b_83890c34
-lockable-resources:1579.vf54f8418ffb_2
+lockable-resources:1582.v54e3b_a_8eda_3a_
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
 matrix-project:928.v1effc3f3a_236
@@ -93,7 +93,7 @@ opentelemetry:3.1603.ve3fa_cc8a_b_f5e
 pipeline-build-step:601.v6d4c6d1a_9dc7
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:1078.veb_b_b_196c25e7
+pipeline-graph-view:1089.vce93977852b_7
 pipeline-groovy-lib:822.vc95f70dea_db_7
 pipeline-input-step:560.v56198a_642157
 pipeline-milestone-step:152.v6e22b_8cfc66c
