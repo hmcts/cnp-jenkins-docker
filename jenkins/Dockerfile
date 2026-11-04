@@ -10,7 +10,7 @@ RUN grep -rl 'org.apache.commons.lang.StringUtils' src/main/java | \
     xargs sed -i 's/org\.apache\.commons\.lang\.StringUtils/org.apache.commons.lang3.StringUtils/' && \
     mvn -B -ntp -Dquick-build -DskipTests -Dchangelist=-hmcts-1 package
 
-FROM jenkins/jenkins:2.588-jdk21
+FROM jenkins/jenkins:2.589-jdk21
 
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
 
