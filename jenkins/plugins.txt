@@ -54,11 +54,11 @@ extended-read-permission:92.v1b_f0c20b_75db_
 favorite:2.267.vb_90d08408081
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
 gatling:1.3.0
-git-client:6.6.1
+git-client:6.7.0
 git:5.11.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1986.v801e40614d00
-github-checks:710.v756946918b_dd
+github-checks:716.v4e342cf2a_03c
 github:1.47.0
 github-scm-trait-notification-context:45.v8ef831829589
 github-scm-filter-aged-refs:59.vc6b_39c26988c
@@ -78,7 +78,7 @@ job-dsl:3732.v9a_c49a_61a_313
 jobcacher:847.v4db_09c58b_7b_3
 jobcacher-azure-storage:33.vd1d60ffa_d4ee
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1461.v899501b_82971
+junit:1462.va_b_2a_899ea_b_97
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4560.vc25b_83890c34
@@ -123,7 +123,7 @@ structs:362.va_b_695ef4fdf9
 support-core:1865.v45d40b_778b_cb_
 timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
-theme-manager:346.v06cca_64c6a_37
+theme-manager:368.v587224fde1f6
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
 windows-azure-storage:535.v20d12167fa_70
