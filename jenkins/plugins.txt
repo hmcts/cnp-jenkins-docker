@@ -34,7 +34,7 @@ blueocean:1.27.26
 bouncycastle-api:2.30.1.86.2-310.v4655f6742752
 branch-api:2.1303.v9f3b_95dc329d
 build-monitor-plugin:1131.va_2d8e68fc912
-checks-api:438.v9fcc0f0e2013
+checks-api:440.v53a_b_6c39a_b_b_b_
 cloud-stats:423.v63f017a_f582c
 cloudbees-bitbucket-branch-source:937.3.11
 cloudbees-disk-usage-simple:275.v56e74c9dd0d3
@@ -54,7 +54,7 @@ extended-read-permission:92.v1b_f0c20b_75db_
 favorite:2.267.vb_90d08408081
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
 gatling:1.3.0
-git-client:6.7.0
+git-client:6.7.1
 git:5.11.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1986.v801e40614d00
@@ -93,7 +93,7 @@ opentelemetry:3.1604.vff94ecdc8a_57
 pipeline-build-step:605.v00486e8f4b_3e
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:1127.v8d438f3b_d2c0
+pipeline-graph-view:1128.ve30e2d3c8b_f1
 pipeline-groovy-lib:822.vc95f70dea_db_7
 pipeline-input-step:568.v0c9db_2652741
 pipeline-milestone-step:152.v6e22b_8cfc66c
@@ -136,4 +136,4 @@ workflow-job:1624.ve973eb_34e031
 workflow-multibranch:842.v3a_b_59b_57b_e6e
 workflow-scm-step:487.v41313a_96b_65d
 workflow-step-api:724.v538c2362b_dfb_
-workflow-support:1028.vc22910142650
+workflow-support:1035.v6a_23b_e298a_5d
