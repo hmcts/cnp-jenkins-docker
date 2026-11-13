@@ -114,6 +114,7 @@ sauce-ondemand:2.3.0
 scm-api:728.vc30dcf7a_0df5
 script-security:1436.v1082791135e4
 slack:795.v4b_9705b_e6d47
+smart-retry:34.v304558b_7f896
 snakeyaml-api:2.7-152.vc672728cf536
 sonar:2.19.0
 sse-gateway:1.29
