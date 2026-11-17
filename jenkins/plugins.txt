@@ -33,7 +33,7 @@ blueocean-web:1.27.26
 blueocean:1.27.26
 bouncycastle-api:2.30.1.86.2-310.v4655f6742752
 branch-api:2.1303.v9f3b_95dc329d
-build-monitor-plugin:1131.va_2d8e68fc912
+build-monitor-plugin:1176.vfd8241782a_0a_
 checks-api:441.v54e82638ca_71
 cloud-stats:423.v63f017a_f582c
 cloudbees-bitbucket-branch-source:937.3.11
@@ -51,7 +51,7 @@ docker-workflow:653.v2f2c08eff0ec
 durable-task:686.v80ff80875b_82
 echarts-api:6.1.0-1321.v86c4c5114494
 extended-read-permission:92.v1b_f0c20b_75db_
-favorite:2.267.vb_90d08408081
+favorite:2.275.v84e8229f6164
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
 gatling:1.3.0
 git-client:6.7.1
@@ -93,7 +93,7 @@ opentelemetry:3.1605.v37c3e29857e5
 pipeline-build-step:605.v00486e8f4b_3e
 pipeline-github-lib:65.v203688e7727e
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:1133.v68b_78130d899
+pipeline-graph-view:1134.v63b_71c6f549b_
 pipeline-groovy-lib:822.vc95f70dea_db_7
 pipeline-input-step:568.v0c9db_2652741
 pipeline-milestone-step:152.v6e22b_8cfc66c
