@@ -57,7 +57,7 @@ gatling:1.3.0
 git-client:6.7.1
 git:5.11.0
 github-api:1.330-492.v3941a_032db_2a_
-github-branch-source:1986.v801e40614d00
+github-branch-source:1988.v87ea_66346560
 github-checks:716.v4e342cf2a_03c
 github:1.47.0
 github-scm-trait-notification-context:45.v8ef831829589
@@ -74,15 +74,15 @@ javax-mail-api:1.6.2-11
 jdk-tool:83.v417146707a_3d
 jenkins-design-language:1.27.26
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
-job-dsl:3732.v9a_c49a_61a_313
+job-dsl:3752.vb_199526b_20c3
 jobcacher:847.v4db_09c58b_7b_3
 jobcacher-azure-storage:33.vd1d60ffa_d4ee
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1463.v7508416a_349c
+junit:1464.vece7e78fce08
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4560.vc25b_83890c34
-lockable-resources:1588.v7b_b_614f4202e
+lockable-resources:1593.v81b_70c9dfccb_
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
 matrix-project:928.v1effc3f3a_236
@@ -115,7 +115,7 @@ scm-api:728.vc30dcf7a_0df5
 script-security:1436.v1082791135e4
 slack:795.v4b_9705b_e6d47
 snakeyaml-api:2.7-152.vc672728cf536
-sonar:2.19.0
+sonar:2.19.1
 sse-gateway:1.29
 ssh-credentials:372.va_250881b_08cd
 sshd:3.384.vc89b_5e138cf9
