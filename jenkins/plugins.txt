@@ -75,6 +75,7 @@ jdk-tool:83.v417146707a_3d
 jenkins-design-language:1.27.26
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
 job-dsl:3752.vb_199526b_20c3
+job-restrictions:242.v6edda_c9e4ca_f
 jobcacher:847.v4db_09c58b_7b_3
 jobcacher-azure-storage:33.vd1d60ffa_d4ee
 jsch:0.2.16-95.v3eecb_55fa_b_78
