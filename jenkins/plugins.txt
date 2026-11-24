@@ -82,7 +82,7 @@ junit:1466.v0643b_53583d2
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes:4560.vc25b_83890c34
-lockable-resources:1601.vb_b_863eec56b_e
+lockable-resources:1605.v358d2a_661866
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
 matrix-project:954.v656d2cf610c4
